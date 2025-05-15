@@ -8583,24 +8583,27 @@ export async function comparePoliticians(ids: string[]): Promise<{
 }
 
 // Añadir esta función para obtener los partidos políticos
+// Lista completa y corregida de partidos políticos
 export async function getParties() {
-  // Simulación de datos
   return [
-    { id: "ADN", name: "ADN" },
-    { id: "PSC", name: "PSC" },
-    { id: "ID", name: "ID" },
+    { id: "ADN", name: "Acción Democrática Nacional" },
+    { id: "PSC", name: "Partido Social Cristiano" },
+    { id: "ID", name: "Izquierda Democrática" },
     { id: "CREO", name: "CREO" },
     { id: "RC", name: "Revolución Ciudadana" },
-    { id: "PSP", name: "PSP" },
-    { id: "SUMA", name: "SUMA" },
-    { id: "Pachakutik", name: "Pachakutik" },
+    { id: "PSP", name: "Partido Sociedad Patriótica" },
+    { id: "SUMA", name: "Partido Sociedad Unida Más Acción" },
+    { id: "Pachakutik", name: "Movimiento de Unidad Plurinacional Pachakutik" },
     { id: "Avanza", name: "Avanza" },
     { id: "Construye", name: "Construye" },
+    { id: "UP", name: "Unidad Popular" },
+    { id: "PSE", name: "Partido Socialista Ecuatoriano" },
+    { id: "MAPE", name: "Movimiento Amigo" },
+    { id: "Independiente", name: "Independiente" }
   ]
 }
 
-// Añadir esta función al archivo existente
-
+// Función mejorada para guardar mensajes de contacto
 export async function saveContactMessage(message: {
   name: string
   email: string
@@ -8612,10 +8615,30 @@ export async function saveContactMessage(message: {
   try {
     const db = getFirestore()
     const contactRef = collection(db, "contactMessages")
-    await addDoc(contactRef, message)
-    return { success: true }
+    
+    // Validación básica de los datos
+    if (!message.name || !message.email || !message.message) {
+      throw new Error("Faltan campos requeridos")
+    }
+
+    // Añadir timestamp y estado por defecto si no existe
+    const messageToSave = {
+      ...message,
+      createdAt: new Date().toISOString(),
+      status: message.status || "pending"
+    }
+
+    const docRef = await addDoc(contactRef, messageToSave)
+    
+    return { 
+      success: true, 
+      messageId: docRef.id 
+    }
   } catch (error) {
     console.error("Error al guardar mensaje de contacto:", error)
-    throw error
+    return {
+      success: false,
+      error: error instanceof Error ? error.message : "Error desconocido"
+    }
   }
 }
