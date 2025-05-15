@@ -1,24 +1,43 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { MapComponent } from "@/components/map-component"
-import { getPoliticians, getPoliticiansByProvince, getParties } from "@/lib/data"
+import dynamic from "next/dynamic"
 import type { Politician } from "@/lib/types"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Button } from "@/components/ui/button"
 import { PoliticianCard } from "@/components/politician-card"
+import { getPoliticians, getPoliticiansByProvince, getParties } from "@/lib/data"
 
-export function FilteredMapComponent() {
+// Dynamic import for MapComponent (no SSR)
+const MapComponent = dynamic(() => import("@/components/map-component-wrapper"), {
+  ssr: false,
+  loading: () => (
+    <div className="flex items-center justify-center h-full bg-gray-100">
+      <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-primary"></div>
+    </div>
+  ),
+})
+
+interface Party {
+  id: string
+  name: string
+}
+
+interface FilteredMapComponentProps {
+  parties?: Party[]
+}
+
+export function FilteredMapComponent({ parties: initialParties = [] }: FilteredMapComponentProps) {
   const [politicians, setPoliticians] = useState<Politician[]>([])
   const [selectedProvince, setSelectedProvince] = useState<string | null>(null)
   const [selectedParty, setSelectedParty] = useState<string>("")
   const [provincePoliticians, setProvincePoliticians] = useState<Politician[]>([])
-  const [parties, setParties] = useState<{ id: string; name: string }[]>([])
+  const [parties, setParties] = useState<Party[]>(initialParties)
   const [highlightedProvinces, setHighlightedProvinces] = useState<string[]>([])
   const [loading, setLoading] = useState(true)
 
-  // Cargar todos los políticos y partidos al inicio
+  // Load all politicians and parties on mount
   useEffect(() => {
     const fetchData = async () => {
       setLoading(true)
@@ -26,52 +45,47 @@ export function FilteredMapComponent() {
         const allPoliticians = await getPoliticians()
         setPoliticians(allPoliticians || [])
 
-        const partiesData = await getParties()
-        setParties(partiesData || [])
+        if (!initialParties.length) {
+          const partiesData = await getParties()
+          setParties(partiesData || [])
+        }
       } catch (error) {
         console.error("Error fetching data:", error)
       } finally {
         setLoading(false)
       }
     }
-
     fetchData()
-  }, [])
+  }, [initialParties])
 
-  // Actualizar las provincias destacadas cuando cambia el partido seleccionado
+  // Highlight provinces with politicians from the selected party
   useEffect(() => {
     if (selectedParty) {
-      // Filtrar políticos por partido
-      const filteredByParty = politicians.filter((p) => p.party.toLowerCase().includes(selectedParty.toLowerCase()))
-
-      // Obtener las provincias únicas de estos políticos
+      const filteredByParty = politicians.filter((p) =>
+        p.party.toLowerCase().includes(getPartyName(selectedParty).toLowerCase())
+      )
       const provinces = [...new Set(filteredByParty.map((p) => p.province))]
       setHighlightedProvinces(provinces)
     } else {
-      // Si no hay partido seleccionado, mostrar todas las provincias
       setHighlightedProvinces([])
     }
   }, [selectedParty, politicians])
 
-  // Cargar políticos de la provincia seleccionada
+  // Load politicians for the selected province and party
   useEffect(() => {
     const fetchProvincePoliticians = async () => {
       if (!selectedProvince) {
         setProvincePoliticians([])
         return
       }
-
       setLoading(true)
       try {
         let filteredPoliticians = await getPoliticiansByProvince(selectedProvince)
-
-        // Si hay un partido seleccionado, filtrar también por partido
         if (selectedParty) {
           filteredPoliticians = filteredPoliticians.filter((p) =>
-            p.party.toLowerCase().includes(selectedParty.toLowerCase()),
+            p.party.toLowerCase().includes(getPartyName(selectedParty).toLowerCase())
           )
         }
-
         setProvincePoliticians(filteredPoliticians || [])
       } catch (error) {
         console.error("Error fetching province politicians:", error)
@@ -80,18 +94,26 @@ export function FilteredMapComponent() {
         setLoading(false)
       }
     }
-
     fetchProvincePoliticians()
   }, [selectedProvince, selectedParty])
 
-  const handleProvinceSelect = (provinceId: string) => {
-    setSelectedProvince(provinceId)
+  // Helper to get party name by id
+  function getPartyName(partyId: string) {
+    const party = parties.find((p) => p.id === partyId)
+    return party ? party.name : partyId
   }
 
-  const handlePartyChange = (value: string) => {
-    setSelectedParty(value === "all" ? "" : value)
+  // Helper to capitalize province name
+  function formatProvinceName(provinceId: string | null) {
+    if (!provinceId) return ""
+    return provinceId
+      .split("-")
+      .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+      .join(" ")
   }
 
+  const handleProvinceSelect = (provinceId: string) => setSelectedProvince(provinceId)
+  const handlePartyChange = (value: string) => setSelectedParty(value === "all" ? "" : value)
   const handleClearFilters = () => {
     setSelectedProvince(null)
     setSelectedParty("")
@@ -116,7 +138,6 @@ export function FilteredMapComponent() {
             </SelectContent>
           </Select>
         </div>
-
         <Button variant="outline" onClick={handleClearFilters} disabled={!selectedProvince && !selectedParty}>
           Limpiar filtros
         </Button>
@@ -138,7 +159,7 @@ export function FilteredMapComponent() {
                 Mapa de Provincias
                 {selectedProvince && (
                   <span className="ml-2 text-muted-foreground">
-                    - {selectedProvince.charAt(0).toUpperCase() + selectedProvince.slice(1)}
+                    - {formatProvinceName(selectedProvince)}
                   </span>
                 )}
               </CardTitle>
@@ -152,15 +173,18 @@ export function FilteredMapComponent() {
             </CardContent>
           </Card>
         </div>
-
         <div>
           <Card className="h-[500px] overflow-auto">
             <CardHeader className="p-4 sticky top-0 bg-card z-10">
               <CardTitle className="text-xl">
                 {selectedProvince
-                  ? `Políticos de ${selectedProvince.charAt(0).toUpperCase() + selectedProvince.slice(1)}`
+                  ? `Políticos de ${formatProvinceName(selectedProvince)}`
                   : "Selecciona una provincia"}
-                {selectedParty && <span className="ml-2 text-muted-foreground">- {selectedParty}</span>}
+                {selectedParty && (
+                  <span className="ml-2 text-muted-foreground">
+                    - {getPartyName(selectedParty)}
+                  </span>
+                )}
               </CardTitle>
             </CardHeader>
             <CardContent className="p-4">
