@@ -7,8 +7,8 @@ const politiciansData: Politician[] = [
     "id": "1",
     "name": "Daniel Noboa Azin",
     "image": "/daniel-noboa-azin.jpg",
-    "party": "Acción Democrática Nacional, ADN",
-    "province": "pichincha",
+    "party": "ACCIÓN DEMOCRÁTICA NACIONAL, ADN",
+    "province": "PICHINCHA",
     "currentPosition": "Presidente de la República",
     "experience": 6,
     "proposalsFulfilled": 43,
@@ -99,8 +99,8 @@ const politiciansData: Politician[] = [
     "id": "2",
     "name": "Luisa González Alcívar",
     "image": "/luisa-gonzález-alcívar.jpg",
-    "party": "Revolución Ciudadana",
-    "province": "manabí",
+    "party": "MOVIMIENTO POLÍTICO REVOLUCIÓN CIUDADANA",
+    "province": "PICHINCHA",
     "currentPosition": "Asambleísta Nacional",
     "experience": 7,
     "proposalsFulfilled": 36,
@@ -99316,7 +99316,7 @@ const politiciansData: Politician[] = [
 const provincesData: Province[] = [
   {
     id: "pichincha",
-    name: "Pichincha",
+    name: "PICHINCHA",
     capital: "Quito",
     population: 3228233,
     description:
@@ -99324,7 +99324,7 @@ const provincesData: Province[] = [
   },
   {
     id: "guayas",
-    name: "Guayas",
+    name: "GUAYAS",
     capital: "Guayaquil",
     population: 4387434,
     description:
@@ -99332,7 +99332,7 @@ const provincesData: Province[] = [
   },
   {
     id: "azuay",
-    name: "Azuay",
+    name: "AZUAY",
     capital: "Cuenca",
     population: 881394,
     description:
@@ -99340,7 +99340,7 @@ const provincesData: Province[] = [
   },
   {
     id: "bolivar",
-    name: "Bolívar",
+    name: "BOLIVAR",
     capital: "Guaranda",
     population: 209933,
     description:
@@ -99348,7 +99348,7 @@ const provincesData: Province[] = [
   },
   {
     id: "canar",
-    name: "Cañar",
+    name: "CAÑAR",
     capital: "Azogues",
     population: 281396,
     description:
@@ -99356,7 +99356,7 @@ const provincesData: Province[] = [
   },
   {
     id: "carchi",
-    name: "Carchi",
+    name: "CARCHI",
     capital: "Tulcán",
     population: 186869,
     description:
@@ -99364,7 +99364,7 @@ const provincesData: Province[] = [
   },
   {
     id: "cotopaxi",
-    name: "Cotopaxi",
+    name: "COTOPAXI",
     capital: "Latacunga",
     population: 488716,
     description:
@@ -99372,7 +99372,7 @@ const provincesData: Province[] = [
   },
   {
     id: "chimborazo",
-    name: "Chimborazo",
+    name: "CHIMBORAZO",
     capital: "Riobamba",
     population: 524004,
     description:
@@ -99380,7 +99380,7 @@ const provincesData: Province[] = [
   },
   {
     id: "el-oro",
-    name: "El Oro",
+    name: "EL ORO",
     capital: "Machala",
     population: 715751,
     description:
@@ -99388,7 +99388,7 @@ const provincesData: Province[] = [
   },
   {
     id: "esmeraldas",
-    name: "Esmeraldas",
+    name: "ESMERALDAS",
     capital: "Esmeraldas",
     population: 643654,
     description:
@@ -99396,7 +99396,7 @@ const provincesData: Province[] = [
   },
   {
     id: "galapagos",
-    name: "Galápagos",
+    name: "GALAPAGOS",
     capital: "Puerto Baquerizo Moreno",
     population: 33042,
     description:
@@ -99404,7 +99404,7 @@ const provincesData: Province[] = [
   },
   {
     id: "imbabura",
-    name: "Imbabura",
+    name: "IMBABURA",
     capital: "Ibarra",
     population: 476257,
     description:
@@ -99412,7 +99412,7 @@ const provincesData: Province[] = [
   },
   {
     id: "loja",
-    name: "Loja",
+    name: "LOJA",
     capital: "Loja",
     population: 521154,
     description:
@@ -99420,7 +99420,7 @@ const provincesData: Province[] = [
   },
   {
     id: "los-rios",
-    name: "Los Ríos",
+    name: "LOS RIOS",
     capital: "Babahoyo",
     population: 921763,
     description:
@@ -99428,7 +99428,7 @@ const provincesData: Province[] = [
   },
   {
     id: "morona-santiago",
-    name: "Morona Santiago",
+    name: "MORONA SANTIAGO",
     capital: "Macas",
     population: 196535,
     description:
@@ -99436,7 +99436,7 @@ const provincesData: Province[] = [
   },
   {
     id: "napo",
-    name: "Napo",
+    name: "NAPO",
     capital: "Tena",
     population: 133705,
     description:
@@ -99444,7 +99444,7 @@ const provincesData: Province[] = [
   },
   {
     id: "pastaza",
-    name: "Pastaza",
+    name: "PASTAZA",
     capital: "Puyo",
     population: 114202,
     description:
@@ -99452,7 +99452,7 @@ const provincesData: Province[] = [
   },
   {
     id: "tungurahua",
-    name: "Tungurahua",
+    name: "TUNGURAHUA",
     capital: "Ambato",
     population: 590600,
     description:
@@ -99460,7 +99460,7 @@ const provincesData: Province[] = [
   },
   {
     id: "zamora-chinchipe",
-    name: "Zamora Chinchipe",
+    name: "ZAMORA CHINCHIPE",
     capital: "Zamora",
     population: 120416,
     description:
@@ -99468,7 +99468,7 @@ const provincesData: Province[] = [
   },
   {
     id: "sucumbios",
-    name: "Sucumbíos",
+    name: "SUCUMBIOS",
     capital: "Nueva Loja",
     population: 230503,
     description:
@@ -99476,7 +99476,7 @@ const provincesData: Province[] = [
   },
   {
     id: "orellana",
-    name: "Orellana",
+    name: "ORELLANA",
     capital: "Francisco de Orellana",
     population: 161338,
     description:
@@ -99484,7 +99484,7 @@ const provincesData: Province[] = [
   },
   {
     id: "santo-domingo",
-    name: "Santo Domingo de los Tsáchilas",
+    name: "STO DGO TSACHILAS",
     capital: "Santo Domingo",
     population: 458580,
     description:
@@ -99492,7 +99492,7 @@ const provincesData: Province[] = [
   },
   {
     id: "santa-elena",
-    name: "Santa Elena",
+    name: "SANTA ELENA",
     capital: "Santa Elena",
     population: 401178,
     description:
@@ -99708,18 +99708,22 @@ export async function comparePoliticians(ids: string[]): Promise<{
 // Añadir esta función para obtener los partidos políticos
 export async function getParties() {
   // Simulación de datos
-  return [
-    { id: "ADN", name: "ADN" },
-    { id: "PSC", name: "PSC" },
-    { id: "ID", name: "ID" },
-    { id: "CREO", name: "CREO" },
-    { id: "RC", name: "Revolución Ciudadana" },
-    { id: "PSP", name: "PSP" },
-    { id: "SUMA", name: "SUMA" },
-    { id: "Pachakutik", name: "Pachakutik" },
-    { id: "Avanza", name: "Avanza" },
-    { id: "Construye", name: "Construye" },
-  ]
+    return [
+        { id: "ADN", name: "Acción Democrática Nacional" },
+        { id: "PSC", name: "Partido Social Cristiano" },
+        { id: "ID", name: "Izquierda Democrática" },
+        { id: "CREO", name: "CREO" },
+        { id: "RC", name: "Revolución Ciudadana" },
+        { id: "PSP", name: "Partido Sociedad Patriótica" },
+        { id: "SUMA", name: "SUMA" },
+        { id: "Pachakutik", name: "Pachakutik" },
+        { id: "Avanza", name: "Avanza" },
+        { id: "Construye", name: "Construye" },
+        { id: "UP", name: "Unidad Popular" },
+        { id: "PSE", name: "Partido Socialista Ecuatoriano" },
+        { id: "MAPE", name: "Movimiento Amigo" },
+        { id: "Independiente", name: "Independiente" }
+    ]
 }
 
 // Añadir esta función al archivo existente
