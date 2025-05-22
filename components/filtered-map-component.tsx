@@ -9,8 +9,8 @@ import { Button } from "@/components/ui/button"
 import { PoliticianCard } from "@/components/politician-card"
 import { getPoliticians, getPoliticiansByProvince, getParties } from "@/lib/data"
 
-// Importación dinámica corregida para MapComponent
-const MapComponent = dynamic(() => import("@/components/MapComponent"), {
+// Importación dinámica corregida para map-component.tsx
+const MapComponent = dynamic(() => import("@/components/map-component"), {
   ssr: false,
   loading: () => (
     <div className="flex items-center justify-center h-full bg-gray-100">
