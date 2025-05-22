@@ -9,8 +9,8 @@ import { Button } from "@/components/ui/button"
 import { PoliticianCard } from "@/components/politician-card"
 import { getPoliticians, getPoliticiansByProvince, getParties } from "@/lib/data"
 
-// Importación dinámica corregida para map-component.tsx
-const MapComponent = dynamic(() => import("@/components/map-component"), {
+// Dynamic import for MapComponent (no SSR)
+const MapComponent = dynamic(() => import("@/components/map-component-wrapper"), {
   ssr: false,
   loading: () => (
     <div className="flex items-center justify-center h-full bg-gray-100">
@@ -37,6 +37,7 @@ export function FilteredMapComponent({ parties: initialParties = [] }: FilteredM
   const [highlightedProvinces, setHighlightedProvinces] = useState<string[]>([])
   const [loading, setLoading] = useState(true)
 
+  // Load all politicians and parties on mount
   useEffect(() => {
     const fetchData = async () => {
       setLoading(true)
@@ -57,6 +58,7 @@ export function FilteredMapComponent({ parties: initialParties = [] }: FilteredM
     fetchData()
   }, [initialParties])
 
+  // Highlight provinces with politicians from the selected party
   useEffect(() => {
     if (selectedParty) {
       const filteredByParty = politicians.filter((p) =>
@@ -69,6 +71,7 @@ export function FilteredMapComponent({ parties: initialParties = [] }: FilteredM
     }
   }, [selectedParty, politicians])
 
+  // Load politicians for the selected province and party
   useEffect(() => {
     const fetchProvincePoliticians = async () => {
       if (!selectedProvince) {
@@ -94,11 +97,13 @@ export function FilteredMapComponent({ parties: initialParties = [] }: FilteredM
     fetchProvincePoliticians()
   }, [selectedProvince, selectedParty])
 
+  // Helper to get party name by id
   function getPartyName(partyId: string) {
     const party = parties.find((p) => p.id === partyId)
     return party ? party.name : partyId
   }
 
+  // Helper to capitalize province name
   function formatProvinceName(provinceId: string | null) {
     if (!provinceId) return ""
     return provinceId
