@@ -1,6 +1,5 @@
 "use client"
 
-import { useState } from "react"
 import Link from "next/link"
 import Image from "next/image"
 import { BarChart2, Award, CheckCircle } from "lucide-react"
@@ -15,12 +14,6 @@ interface PoliticianCardProps {
 }
 
 export function PoliticianCard({ politician }: PoliticianCardProps) {
-  const [imgSrc, setImgSrc] = useState(politician.image || "/placeholder.svg")
-
-  const handleError = () => {
-    setImgSrc("/placeholder.svg")
-  }
-
   // Obtener el nombre de la provincia para mostrar
   const getProvinceName = (provinceId: string): string => {
     const provinceMap: Record<string, string> = {
@@ -58,18 +51,11 @@ export function PoliticianCard({ politician }: PoliticianCardProps) {
       <CardHeader className="p-0">
         <div className="relative h-48 w-full">
           <Image
-            src={imgSrc}
+            src={politician.image || "/placeholder.svg"}
             alt={politician.name}
             fill
             className="object-cover"
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-          />
-          {/* Imagen oculta para detectar error */}
-          <img
-            src={imgSrc}
-            alt=""
-            onError={handleError}
-            style={{ display: "none" }}
           />
           <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-politica-navy/90 to-transparent p-4">
             <h3 className="text-white font-bold text-xl">{politician.name}</h3>
