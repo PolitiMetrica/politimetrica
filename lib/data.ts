@@ -6,7 +6,7 @@ const politiciansData: Politician[] = [
   {
     "id": "1",
     "name": "Daniel Noboa Azin",
-    "image": "/daniel-noboa-azin.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Daniel_Noboa_en_abril_de_2025.jpg",
     "party": "Acción Democrática Nacional, ADN",
     "province": "pichincha",
     "currentPosition": "Presidente de la República",
