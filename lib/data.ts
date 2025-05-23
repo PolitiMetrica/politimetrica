@@ -3,7 +3,190 @@ import { getFirestore, collection, addDoc } from "firebase/firestore"
 
 // Datos de ejemplo para la aplicación
 const politiciansData: Politician[] = [
-
+    {
+    "id": "1",
+    "name": "Daniel Noboa Azin",
+    "image": "/daniel-noboa-azin.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "pichincha",
+    "currentPosition": "Presidente de la República",
+    "experience": 6,
+    "proposalsFulfilled": 43,
+    "approvalRating": 87,
+    "age": 38,
+    "birthplace": "Pichincha, Ecuador",
+    "careerStart": "2019",
+    "biography": "Empresario y político ecuatoriano-estadounidense, presidente de la República del Ecuador desde el 23 de noviembre de 2023. Asumió el cargo a la edad de 35 años, siendo así el más joven en ser elegido democráticamente.",
+    "career": [
+    {
+    "title": "Presidente de la República",
+    "organization": "Gobierno de Ecuador - Pichincha",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión en Pichincha."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Juventud",
+    "description": "Iniciativa para mejorar juventud en Pichincha.",
+    "status": "Pendiente",
+    "progress": 15,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de enfoque empresarial",
+    "description": "Iniciativa para mejorar enfoque empresarial en Pichincha.",
+    "status": "En progreso",
+    "progress": 50,
+    "category": "Seguridad"
+    },
+    {
+    "title": "Plan de visión internacional",
+    "description": "Iniciativa para mejorar visión internacional en Pichincha.",
+    "status": "En progreso",
+    "progress": 50,
+    "category": "Educación"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Daniel Noboa Azin ha mostrado juventud en su gestión política. Su enfoque en visión internacional ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia política.",
+    "strengths": [
+    "Juventud",
+    "enfoque empresarial",
+    "visión internacional"
+    ],
+    "weaknesses": [
+    "Falta de experiencia política",
+    "gabinete inestable"
+    ]
+    }
+  },
+  {
+    "id": "2",
+    "name": "Luisa González Alcívar",
+    "image": "/luisa-gonzález-alcívar.jpg",
+    "party": "Revolución Ciudadana",
+    "province": "manabí",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 7,
+    "proposalsFulfilled": 36,
+    "approvalRating": 72,
+    "age": 48,
+    "birthplace": "Manabí, Ecuador",
+    "careerStart": "2018",
+    "biography": "Abogada y política ecuatoriana que se desempeñó en diversos cargos durante el gobierno del expresidente Rafael Correa. Fue candidata presidencial en las elecciones de 2023 y en las de 2025, en ambas ocasiones en representación del movimiento Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Manabí",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión en Manabí."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Lealtad a su movimiento",
+    "description": "Iniciativa para mejorar lealtad a su movimiento en Manabí.",
+    "status": "Pendiente",
+    "progress": 15,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de carisma",
+    "description": "Iniciativa para mejorar carisma en Manabí.",
+    "status": "En progreso",
+    "progress": 50,
+    "category": "Seguridad"
+    },
+    {
+    "title": "Plan de oratoria",
+    "description": "Iniciativa para mejorar oratoria en Manabí.",
+    "status": "En progreso",
+    "progress": 50,
+    "category": "Educación"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Luisa González Alcívar ha mostrado lealtad a su movimiento en su gestión política. Su enfoque en oratoria ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Lealtad a su movimiento",
+    "carisma",
+    "oratoria"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "discurso repetitivo"
+    ]
+    }
+  },
     {
         "id": "3",
         "name": "Fernando Aguirre Cordero",
