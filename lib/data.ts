@@ -188,7 +188,7 @@ const politiciansData: Politician[] = [
     }
   },
   {
-        "id": 3,
+        "id": "3",
         "name": "Fernando Aguirre Cordero",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fernando_Aguirre_Cordero.jpg/250px-Fernando_Aguirre_Cordero.jpg",
         "party": "Partido Social Cristiano",
@@ -211,7 +211,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 4,
+        "id": "4",
         "name": "Marco Aij",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marco_Aij.jpg/250px-Marco_Aij.jpg",
         "party": "Pachakutik",
@@ -234,7 +234,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "Fabián Alarcón",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fabian_Alarcon.jpg/250px-Fabian_Alarcon.jpg",
         "party": "Frente Radical Alfarista (desde 1988) Demócrata (hasta 1988)",
@@ -257,7 +257,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "Alejandro Gallo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Alejandro_Gallo.png/250px-Alejandro_Gallo.png",
         "party": "",
@@ -280,7 +280,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 7,
+        "id": "7",
         "name": "Luis Almeida",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/SESI%C3%93N_NO._770_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_29_DE_MARZO_DEL_2022._%2851968151117%29.jpg/250px-SESI%C3%93N_NO._770_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_29_DE_MARZO_DEL_2022._%2851968151117%29.jpg",
         "party": "Partido Social Cristiano",
@@ -303,7 +303,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 8,
+        "id": "8",
         "name": "Fernando Alvarado",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Fernando_Alvarado_Secretario_de_Comunicaci%C3%B3n_de_la_Presidencia_en_entrevista_en_la_Radio_de_la_Asamblea_Nacional_%286026095193%29.jpg/250px-Fernando_Alvarado_Secretario_de_Comunicaci%C3%B3n_de_la_Presidencia_en_entrevista_en_la_Radio_de_la_Asamblea_Nacional_%286026095193%29.jpg",
         "party": "",
@@ -326,7 +326,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 9,
+        "id": "9",
         "name": "Harry Álvarez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
         "party": "",
@@ -349,7 +349,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 10,
+        "id": "10",
         "name": "Luis Andrade Galindo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
         "party": "",
@@ -372,7 +372,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 11,
+        "id": "11",
         "name": "Trajano Andrade",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Trajano_Andrade_%2812_de_noviembre_de_2008%29.jpg/250px-Trajano_Andrade_%2812_de_noviembre_de_2008%29.jpg",
         "party": "",
@@ -395,7 +395,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 12,
+        "id": "12",
         "name": "Alberto Anrango",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
         "party": "",
@@ -418,7 +418,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 13,
+        "id": "13",
         "name": "Jorge Añazco",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
         "party": "Frente Radical Alfarista",
@@ -441,7 +441,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 14,
+        "id": "14",
         "name": "Andrés Arauz",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Andr%C3%A9s_Arauz_%28cropped%29.jpg/250px-Andr%C3%A9s_Arauz_%28cropped%29.jpg",
         "party": "Revolución Ciudadana (desde 2018)",
@@ -464,7 +464,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 15,
+        "id": "15",
         "name": "Geovanni Atarihuana",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Atarihuana.jpg/250px-Atarihuana.jpg",
         "party": "Movimiento Popular Democrático (desde años 1980, hasta 2014) Unidad Popular (desde 2014)",
@@ -487,7 +487,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 16,
+        "id": "16",
         "name": "Raúl Auquilla",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Raul_Auquilla_%28detalle%29.jpg/250px-Raul_Auquilla_%28detalle%29.jpg",
         "party": "Movimiento CREO (2013-2018) Partido Social Cristiano (desde 2018)",
@@ -510,7 +510,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 17,
+        "id": "17",
         "name": "Eliseo Azuero",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Eliseo_Azuero_%28detalle%29.png/250px-Eliseo_Azuero_%28detalle%29.png",
         "party": "Democracia Popular (hasta 2000) Partido Renovador Institucional Acción Nacional (2004-2007) Izquierda Democrática (2016-2017)",
@@ -533,7 +533,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 18,
+        "id": "18",
         "name": "Carlos Baca Mancheno",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/FISCAL_GENERAL_-_CARLOS_BACA_MANCHENO_%2825627881627%29.jpg/250px-FISCAL_GENERAL_-_CARLOS_BACA_MANCHENO_%2825627881627%29.jpg",
         "party": "",
@@ -556,7 +556,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 19,
+        "id": "19",
         "name": "Fernando Balda",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/14_de_marzo_de_2018_-_Comisi%C3%B3n_de_Participaci%C3%B3n_Ciudadana_%2840814705641%29_%28cropped%29.jpg/250px-14_de_marzo_de_2018_-_Comisi%C3%B3n_de_Participaci%C3%B3n_Ciudadana_%2840814705641%29_%28cropped%29.jpg",
         "party": "Alianza PAÍS (2006-2008) Partido Sociedad Patriótica (2008-2016) Gran Acuerdo Nacional (desde 2016) Libertad es Pueblo (2019-2021)",
@@ -579,7 +579,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 20,
+        "id": "20",
         "name": "Polo Baquerizo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/POLO_BAQUERIZO.jpg/250px-POLO_BAQUERIZO.jpg",
         "party": "Partido Social Cristiano",
@@ -602,7 +602,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 21,
+        "id": "21",
         "name": "Gustavo Baroja",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gustavo_Baroja.jpg/250px-Gustavo_Baroja.jpg",
         "party": "Izquierda Democrática (hasta 2008) Alianza PAÍS (2008-2021) Movimiento MOVER (desde 2021)",
@@ -625,7 +625,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 22,
+        "id": "22",
         "name": "Samuel Bellettini",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Samuel_belletini_%28cropped%29.jpg/250px-Samuel_belletini_%28cropped%29.jpg",
         "party": "",
@@ -648,7 +648,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 23,
+        "id": "23",
         "name": "Geovanny Benítez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/SESI%C3%93N_NO._880_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_DICIEMBRE_DEL_2023_%2853408365954%29.jpg/250px-SESI%C3%93N_NO._880_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_DICIEMBRE_DEL_2023_%2853408365954%29.jpg",
         "party": "Alianza PAÍS (2006-2018)",
@@ -671,7 +671,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 24,
+        "id": "24",
         "name": "Esteban Bernal Bernal",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Esteban_Remigio_Bernal.jpg/250px-Esteban_Remigio_Bernal.jpg",
         "party": "",
@@ -694,7 +694,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 25,
+        "id": "25",
         "name": "Diego Borja",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diego_Borja_Cornejo_%28cropped%29.jpg/250px-Diego_Borja_Cornejo_%28cropped%29.jpg",
         "party": "Poder Ciudadano (desde 2006)",
@@ -717,7 +717,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 26,
+        "id": "26",
         "name": "Alfredo Borrero",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Alfredo_Borrero.jpg/250px-Alfredo_Borrero.jpg",
         "party": "Independiente",
@@ -740,7 +740,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 27,
+        "id": "27",
         "name": "Julio Burbano Aguirre",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
         "party": "",
@@ -763,7 +763,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 28,
+        "id": "28",
         "name": "Dalton Burgos",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Asamble%C3%ADsta_Dalton_Burgos_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_187_del_Pleno_de_la_Asamblea_Nacional_%287983246965%29.jpg/250px-Asamble%C3%ADsta_Dalton_Burgos_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_187_del_Pleno_de_la_Asamblea_Nacional_%287983246965%29.jpg",
         "party": "Movimiento Autonómico Regional",
@@ -786,7 +786,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 29,
+        "id": "29",
         "name": "Fernando Bustamante Ponce",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Asamble%C3%ADsta_Fernando_Bustamate_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_per%C3%ADodo_2013-2017_%288741815388%29.jpg/250px-Asamble%C3%ADsta_Fernando_Bustamate_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_per%C3%ADodo_2013-2017_%288741815388%29.jpg",
         "party": "Ruptura 25 (2004-2006) Alianza PAÍS (2006-2016)",
@@ -809,7 +809,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 30,
+        "id": "30",
         "name": "Simón Bustamante",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
         "party": "Partido Social Cristiano",
@@ -832,7 +832,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 31,
+        "id": "31",
         "name": "Napoleón Cadena",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Napole%C3%B3n_Cadena_Alcalde_de_Riobamba_-_Chimborazo.jpg/250px-Napole%C3%B3n_Cadena_Alcalde_de_Riobamba_-_Chimborazo.jpg",
         "party": "",
@@ -855,7 +855,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 32,
+        "id": "32",
         "name": "Pablo Carcelén",
         "image": "",
         "party": "",
@@ -878,7 +878,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 33,
+        "id": "33",
         "name": "Juan Cárdenas Espinoza",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Juan_C%C3%A1rdenas_Espinoza_%28detalle%29.png/250px-Juan_C%C3%A1rdenas_Espinoza_%28detalle%29.png",
         "party": "Movimiento Popular Democrático (1978-2006) Alianza PAÍS (2006-2018) Revolución Ciudadana (desde 2018)",
@@ -901,7 +901,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 34,
+        "id": "34",
         "name": "Alfredo Castillo Bujase",
         "image": "",
         "party": "",
@@ -924,7 +924,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 35,
+        "id": "35",
         "name": "José Bolívar Castillo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Asamble%C3%ADsta_Jos%C3%A9_Bol%C3%ADvar_Castillo_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_235_del_Pleno_de_la_Asamblea_Nacional_%288937060886%29.jpg/250px-Asamble%C3%ADsta_Jos%C3%A9_Bol%C3%ADvar_Castillo_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_235_del_Pleno_de_la_Asamblea_Nacional_%288937060886%29.jpg",
         "party": "Acción Regional por la Equidad",
@@ -947,7 +947,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 36,
+        "id": "36",
         "name": "Guillermo Celi",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Guillermo_Celi.jpg/250px-Guillermo_Celi.jpg",
         "party": "Partido SUMA",
@@ -970,7 +970,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 37,
+        "id": "37",
         "name": "Jorge Cevallos Macías",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Arq_Jorge_Cevallos_M.jpg/250px-Arq_Jorge_Cevallos_M.jpg",
         "party": "Partido Liberal Radical Ecuatoriano (1993-1997) Izquierda Democrática (1997) Partido Renovador Institucional Acción Nacional (2002-2007)",
@@ -993,7 +993,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 38,
+        "id": "38",
         "name": "Rubén Cevallos",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
         "party": "",
@@ -1016,7 +1016,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 39,
+        "id": "39",
         "name": "Humberto Cholango",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Humberto_Cholango_secretario_del_agua.jpg/250px-Humberto_Cholango_secretario_del_agua.jpg",
         "party": "Pachakutik",
@@ -1039,7 +1039,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 40,
+        "id": "40",
         "name": "Patricio Cisneros",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/SESI%C3%93N_NO._897_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_06_DE_FEBRERO_DE_2024_-_53511893687.jpg/250px-SESI%C3%93N_NO._897_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_06_DE_FEBRERO_DE_2024_-_53511893687.jpg",
         "party": "Alianza PAÍS",
@@ -1062,7 +1062,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 41,
+        "id": "41",
         "name": "Efrén Cocíos",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/EFREN_COCIOS.jpg/250px-EFREN_COCIOS.jpg",
         "party": "",
@@ -1085,7 +1085,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 42,
+        "id": "42",
         "name": "Mario Conejo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
         "party": "Pachakutik (1995-2006) Alianza PAÍS (desde 2006)",
@@ -1108,7 +1108,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 43,
+        "id": "43",
         "name": "Jorge Corozo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/18_de_diciembre_de_2017_-Comisi%C3%B3n_de_los_Derechos_Colectivos_%2839111529652%29_%28cropped%29.jpg/250px-18_de_diciembre_de_2017_-Comisi%C3%B3n_de_los_Derechos_Colectivos_%2839111529652%29_%28cropped%29.jpg",
         "party": "Alianza PAÍS",
@@ -1131,7 +1131,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 44,
+        "id": "44",
         "name": "Andrés Crespo Reinberg",
         "image": "",
         "party": "",
@@ -1154,7 +1154,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 45,
+        "id": "45",
         "name": "Marcelo Cruz Utreras",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
         "party": "",
@@ -1177,7 +1177,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 46,
+        "id": "46",
         "name": "Henry Cucalón",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288740668923%29.jpg/250px-Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288740668923%29.jpg",
         "party": "Partido Social Cristiano (2002-2022) Madera de Guerrero (2009-2022) Movimiento Construye (desde 2024)",
@@ -1200,7 +1200,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 47,
+        "id": "47",
         "name": "Rafael Cuesta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rafael_Cuesta_Caputi.jpg/250px-Rafael_Cuesta_Caputi.jpg",
         "party": "Partido Social Cristiano",
@@ -1223,7 +1223,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 48,
+        "id": "48",
         "name": "Pío Oswaldo Cueva",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
         "party": "",
@@ -1246,7 +1246,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 49,
+        "id": "49",
         "name": "Mariano Curicama",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/COMISI%C3%93N_DE_SOBERAN%C3%8DA_ALIMENTARIA._ECUADOR%2C_25_DE_ABRIL_DE_2022_%2852029976133%29.jpg/250px-COMISI%C3%93N_DE_SOBERAN%C3%8DA_ALIMENTARIA._ECUADOR%2C_25_DE_ABRIL_DE_2022_%2852029976133%29.jpg",
         "party": "Pachakutik (1995-2012) MINGA (desde 2017)",
@@ -1269,7 +1269,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 50,
+        "id": "50",
         "name": "Alberto Dahik",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alberto_dahik_garzozi.jpg/220px-Alberto_dahik_garzozi.jpg",
         "party": "Partido Conservador Ecuatoriano (desde 1987)",
@@ -1292,7 +1292,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 51,
+        "id": "51",
         "name": "Patricio Donoso",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Patricio_Donoso_-_Primera_Sesi%C3%B3n_Parlamentaria_de_Posesi%C3%B3n_de_las_y_los_Asamble%C3%ADstas_para_el_Per%C3%ADodo_Legislativo_2017-2021_%2834527665081%29.jpg/250px-Patricio_Donoso_-_Primera_Sesi%C3%B3n_Parlamentaria_de_Posesi%C3%B3n_de_las_y_los_Asamble%C3%ADstas_para_el_Per%C3%ADodo_Legislativo_2017-2021_%2834527665081%29.jpg",
         "party": "Movimiento CREO",
@@ -1315,7 +1315,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 52,
+        "id": "52",
         "name": "David Duchitanga",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/David_Duchitanga.jpg/250px-David_Duchitanga.jpg",
         "party": "Unidad Popular",
@@ -1338,7 +1338,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 53,
+        "id": "53",
         "name": "Wilson Erazo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/WE_2024.jpg",
         "party": "",
@@ -1361,7 +1361,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 54,
+        "id": "54",
         "name": "Gary Esparza",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gary_Esparza_%28cropped%29.jpg/250px-Gary_Esparza_%28cropped%29.jpg",
         "party": "",
@@ -1384,7 +1384,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 55,
+        "id": "55",
         "name": "Balerio Estacio",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Balerio_Estacio_%2812_de_noviembre_de_2008%29.jpg/250px-Balerio_Estacio_%2812_de_noviembre_de_2008%29.jpg",
         "party": "Partido Social Cristiano (1994-2002) Alianza PAÍS (2007-2014)",
@@ -1407,7 +1407,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 56,
+        "id": "56",
         "name": "Jaime Estrada Bonilla",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
         "party": "",
@@ -1430,7 +1430,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 57,
+        "id": "57",
         "name": "Fander Falconí",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FanderBenitez.JPG/250px-FanderBenitez.JPG",
         "party": "Alianza PAÍS",
@@ -1453,7 +1453,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 58,
+        "id": "58",
         "name": "Carlos Falquez Aguilar",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Carlos_Falquez_Aguilar.jpg/250px-Carlos_Falquez_Aguilar.jpg",
         "party": "Partido Social Cristiano",
@@ -1476,7 +1476,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 59,
+        "id": "59",
         "name": "Luis Fierro",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Foto_Luis_Fierro.jpg/250px-Foto_Luis_Fierro.jpg",
         "party": "",
@@ -1499,7 +1499,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 60,
+        "id": "60",
         "name": "Marco Flores Troncoso",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/COMISI%C3%93N_DE_R%C3%89GIMEN_ECON%C3%93MICO._%28SEGUNDA%29._VIRTUAL._ECUADOR%2C_07_DE_ABRIL_DEL_2021.jpg/250px-COMISI%C3%93N_DE_R%C3%89GIMEN_ECON%C3%93MICO._%28SEGUNDA%29._VIRTUAL._ECUADOR%2C_07_DE_ABRIL_DEL_2021.jpg",
         "party": "",
@@ -1522,7 +1522,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 61,
+        "id": "61",
         "name": "Pedro José Freile",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Pedro_Freile_en_entrevista_%28cropped%29.png",
         "party": "Independiente",
@@ -1545,7 +1545,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 62,
+        "id": "62",
         "name": "Antonio Gagliardo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
         "party": "Izquierda Democrática (1975-1995) Alianza PAÍS (desde 2006)",
@@ -1568,7 +1568,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 63,
+        "id": "63",
         "name": "Gastón Gagliardo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Asamble%C3%ADsta_Gast%C3%B3n_Gagliardo_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_per%C3%ADodo_2013-2017_%288741872384%29.jpg/250px-Asamble%C3%ADsta_Gast%C3%B3n_Gagliardo_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_per%C3%ADodo_2013-2017_%288741872384%29.jpg",
         "party": "Alianza PAÍS",
@@ -1591,7 +1591,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 64,
+        "id": "64",
         "name": "Diego García Pozo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Diego_Garc%C3%ADa_Pozo_%28detalle%29.png/250px-Diego_Garc%C3%ADa_Pozo_%28detalle%29.png",
         "party": "Alianza PAÍS (2006-2018) Revolución Ciudadana (desde 2018)",
@@ -1614,7 +1614,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 65,
+        "id": "65",
         "name": "Ramiro González Jaramillo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ramiro_Gonz%C3%A1lez_Jaramillo_%28cropped%29.jpg/250px-Ramiro_Gonz%C3%A1lez_Jaramillo_%28cropped%29.jpg",
         "party": "Izquierda Democrática (desde años 1980, hasta 2006) Alianza PAÍS (2006-2012) Avanza (2012-2018)",
@@ -1637,7 +1637,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 66,
+        "id": "66",
         "name": "Jorge Guamán",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jorge_Guaman_%28detalle%29.jpg/250px-Jorge_Guaman_%28detalle%29.jpg",
         "party": "Pachakutik",
@@ -1660,7 +1660,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 67,
+        "id": "67",
         "name": "Santiago Guarderas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Santiago_Guarderas_Izquierdo.jpg/250px-Santiago_Guarderas_Izquierdo.jpg",
         "party": "Izquierda Democrática (hasta 2007) Partido Social Cristiano (hasta 2018) Unión Ecuatoriana (2019)",
@@ -1683,7 +1683,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 68,
+        "id": "68",
         "name": "Pablo Guerrero Martínez",
         "image": "",
         "party": "",
@@ -1706,7 +1706,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 69,
+        "id": "69",
         "name": "Lucio Gutiérrez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lucio_Guti%C3%A9rrez-Asamble%C3%ADsta_%2812-12-2023%29.jpg/250px-Lucio_Guti%C3%A9rrez-Asamble%C3%ADsta_%2812-12-2023%29.jpg",
         "party": "Partido Sociedad Patriótica",
@@ -1729,7 +1729,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 70,
+        "id": "70",
         "name": "Gilmar Gutiérrez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Asamble%C3%ADsta_Gilmar_Guti%C3%A9rrez_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_2013-2017_%288740727911%29.jpg/250px-Asamble%C3%ADsta_Gilmar_Guti%C3%A9rrez_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_2013-2017_%288740727911%29.jpg",
         "party": "PSP",
@@ -1752,7 +1752,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 71,
+        "id": "71",
         "name": "Guillermo Herrera",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Guillermo_Herrera_en_2017.jpg/250px-Guillermo_Herrera_en_2017.jpg",
         "party": "Izquierda Democrática",
@@ -1775,7 +1775,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 72,
+        "id": "72",
         "name": "Xavier Hervas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Xavier_Hervas_en_entrevista_%28cropped%29.png",
         "party": "Izquierda Democrática (2021-2022) Movimiento RETO (desde 2023)",
@@ -1798,7 +1798,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 73,
+        "id": "73",
         "name": "Juan Carlos Holguín",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/POSESI%C3%93N_DEL_NUEVO_MINISTRO%2C_JUAN_CARLOS_HOLGU%C3%8DN_%28cropped%29.jpg/250px-POSESI%C3%93N_DEL_NUEVO_MINISTRO%2C_JUAN_CARLOS_HOLGU%C3%8DN_%28cropped%29.jpg",
         "party": "Movimiento CREO",
@@ -1821,7 +1821,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 74,
+        "id": "74",
         "name": "Lenin Hurtado",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
         "party": "Unidad Popular (desde 2014) Movimiento Popular Democrático (hasta 2014)",
@@ -1844,7 +1844,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 75,
+        "id": "75",
         "name": "Jaminton Intriago",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Jaminton_Intriago.jpg/250px-Jaminton_Intriago.jpg",
         "party": "Partido Social Cristiano",
@@ -1867,7 +1867,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 76,
+        "id": "76",
         "name": "Leonidas Iza",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leonidas_Iza.jpg/250px-Leonidas_Iza.jpg",
         "party": "Pachakutik",
@@ -1890,7 +1890,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 77,
+        "id": "77",
         "name": "Francisco Jiménez Sánchez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Francisco_Jim%C3%A9nez_S%C3%A1nchez.png/250px-Francisco_Jim%C3%A9nez_S%C3%A1nchez.png",
         "party": "Ruptura 25 (hasta 2013) Movimiento CREO (2017-2023)",
@@ -1913,7 +1913,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 78,
+        "id": "78",
         "name": "Cléver Jiménez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Asamble%C3%ADsta_Cl%C3%A9ver_Jim%C3%A9nez_%284587032398%29_%28cropped%29.jpg/250px-Asamble%C3%ADsta_Cl%C3%A9ver_Jim%C3%A9nez_%284587032398%29_%28cropped%29.jpg",
         "party": "Pachakutik (2002-2018) Juntos Podemos (2018-2020)",
@@ -1936,7 +1936,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 79,
+        "id": "79",
         "name": "Pablo Jurado",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pablo_Jurado_Moreno.jpg/250px-Pablo_Jurado_Moreno.jpg",
         "party": "Izquierda Democrática (1981-2012) Avanza (desde 2012) Movimiento Construye (desde 2024)",
@@ -1959,7 +1959,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 80,
+        "id": "80",
         "name": "Christian Landeta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Christian_Landeta_en_2024.jpg/250px-Christian_Landeta_en_2024.jpg",
         "party": "",
@@ -1982,7 +1982,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 81,
+        "id": "81",
         "name": "Nicolás Lapentti Carrión",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/NICOLAS-EDUARDO-LAPENTTI-CARRI%C3%93N_%288318637740%29.jpg/250px-NICOLAS-EDUARDO-LAPENTTI-CARRI%C3%93N_%288318637740%29.jpg",
         "party": "Partido Social Cristiano (hasta 2022)",
@@ -2005,7 +2005,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 82,
+        "id": "82",
         "name": "Galo Lara",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Galo_Lara_en_2011.jpg/250px-Galo_Lara_en_2011.jpg",
         "party": "",
@@ -2028,7 +2028,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 83,
+        "id": "83",
         "name": "Lenin Lara",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lenin_Lara%2C_mayo_de_2013_%28cropped%29.jpg/250px-Lenin_Lara%2C_mayo_de_2013_%28cropped%29.jpg",
         "party": "Alianza PAÍS (hasta 2020)",
@@ -2051,7 +2051,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 84,
+        "id": "84",
         "name": "Gustavo Larrea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gustavo_Larrea_%28cropped%29.jpg/250px-Gustavo_Larrea_%28cropped%29.jpg",
         "party": "Acción Popular Revolucionaria (1994-2000) Alianza PAÍS (2006-2009) Movimiento Democracia Sí (desde 2015)",
@@ -2074,7 +2074,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 85,
+        "id": "85",
         "name": "Guillaume Long",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/CANCILLER_GUILLAUME_LONG_PRESENTA_CONFERENCIA_SOBRE_JUSTICIA%2C_DERECHOS_HUMANOS_Y_ERRADICACI%C3%93N_DE_PARA%C3%8DSOS_FISCALES_ANTE_LA_ONU%2C_GINEBRA%2C_SUIZA%2C_01_DE_MAYO_2017_%2833998283780%29.jpg/250px-thumbnail.jpg",
         "party": "Revolución Ciudadana",
@@ -2097,7 +2097,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 86,
+        "id": "86",
         "name": "Milton Luna Tamayo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Milton_luna_%28cropped%29.jpg/250px-Milton_luna_%28cropped%29.jpg",
         "party": "",
@@ -2120,7 +2120,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 87,
+        "id": "87",
         "name": "Luis Macas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Luismacas.jpg/250px-Luismacas.jpg",
         "party": "Pachakutik",
@@ -2143,7 +2143,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 88,
+        "id": "88",
         "name": "Andrés Madero",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Andres_madero.jpg/250px-Andres_madero.jpg",
         "party": "",
@@ -2166,7 +2166,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 89,
+        "id": "89",
         "name": "Eduardo Mangas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
         "party": "",
@@ -2189,7 +2189,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 90,
+        "id": "90",
         "name": "Luis Mejía Montesdeoca",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
         "party": "",
@@ -2212,7 +2212,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 91,
+        "id": "91",
         "name": "Rodrigo Mena",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rodrigo_Mena.jpg/250px-Rodrigo_Mena.jpg",
         "party": "Partido Social Cristiano Unidad Primero",
@@ -2235,7 +2235,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 92,
+        "id": "92",
         "name": "Daniel Mendoza Arévalo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/DANIEL_MENDOZA_AREVALO.jpg",
         "party": "Unidad Primero (hasta 2018) Movimiento Mejor (desde 2018)",
@@ -2258,7 +2258,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 93,
+        "id": "93",
         "name": "Mario Minuche",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
         "party": "Centro Democrático Nacional",
@@ -2281,7 +2281,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 94,
+        "id": "94",
         "name": "Fausto Molina",
         "image": "",
         "party": "",
@@ -2304,7 +2304,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 95,
+        "id": "95",
         "name": "Juan Pablo Moncagatta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Escudo_de_Guayas.png/60px-Escudo_de_Guayas.png",
         "party": "Democracia Popular",
@@ -2327,7 +2327,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 96,
+        "id": "96",
         "name": "Paco Moncayo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Paco_Moncayo_2010.jpg/250px-Paco_Moncayo_2010.jpg",
         "party": "Izquierda Democrática (1998-2008) Movimiento Municipalista (2008-2013) Izquierda Democrática (desde 2015)",
@@ -2350,7 +2350,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 97,
+        "id": "97",
         "name": "Jorge Montero Rodríguez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
         "party": "Concentración de Fuerzas Populares",
@@ -2373,7 +2373,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 98,
+        "id": "98",
         "name": "Xavier Muñoz",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Xavier_Mu%C3%B1oz_Ch%C3%A1vez.jpg/250px-Xavier_Mu%C3%B1oz_Ch%C3%A1vez.jpg",
         "party": "",
@@ -2396,7 +2396,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 99,
+        "id": "99",
         "name": "Fernando Naranjo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fernando_Naranjo_%28detalle%29.jpg/250px-Fernando_Naranjo_%28detalle%29.jpg",
         "party": "Alianza PAÍS",
@@ -2419,7 +2419,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 100,
+        "id": "100",
         "name": "Gustavo Navarro",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Concejal_Gustavo_Navarro.JPG/250px-Concejal_Gustavo_Navarro.JPG",
         "party": "",
@@ -2442,7 +2442,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 101,
+        "id": "101",
         "name": "Jaime Nebot",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/REUNI%C3%93N_DE_OPOSICI%C3%93N_%2818746735053%29.jpg/250px-REUNI%C3%93N_DE_OPOSICI%C3%93N_%2818746735053%29.jpg",
         "party": "Partido Social Cristiano Madera de Guerrero",
@@ -2465,7 +2465,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 102,
+        "id": "102",
         "name": "Álvaro Noboa",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/%C3%81lvaro_Noboa.jpg/250px-%C3%81lvaro_Noboa.jpg",
         "party": "Partido Roldosista Ecuatoriano (1998-2002) Partido Renovador Institucional Acción Nacional (1999-2014) Adelante Ecuatoriano Adelante (2015-2020)",
@@ -2488,7 +2488,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 103,
+        "id": "103",
         "name": "Ricardo Noboa",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
         "party": "Partido Social Cristiano",
@@ -2511,7 +2511,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 104,
+        "id": "104",
         "name": "Daniel Noboa",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Daniel_Noboa_en_abril_de_2025.jpg/250px-Daniel_Noboa_en_abril_de_2025.jpg",
         "party": "Ecuatoriano Unido (2021) Partido SUMA (2021-2022) Acción Democrática Nacional (desde 2022)",
@@ -2534,7 +2534,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 105,
+        "id": "105",
         "name": "Jorge Norero",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Escudo_de_Guayaquil.svg/60px-Escudo_de_Guayaquil.svg.png",
         "party": "Frente Radical Alfarista",
@@ -2557,7 +2557,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 106,
+        "id": "106",
         "name": "Carlos Ochoa Hernández",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Carlos_Ochoa_Hern%C3%A1ndez.jpg/220px-Carlos_Ochoa_Hern%C3%A1ndez.jpg",
         "party": "",
@@ -2580,7 +2580,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 107,
+        "id": "107",
         "name": "Niels Olsen",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Zurab_Pololikashvili_junto_con_Niels_Olsen_%28cropped%29.jpg/250px-Zurab_Pololikashvili_junto_con_Niels_Olsen_%28cropped%29.jpg",
         "party": "Acción Democrática Nacional",
@@ -2603,7 +2603,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 108,
+        "id": "108",
         "name": "Leonardo Orlando",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Leonardo_Orlando.jpg/250px-Leonardo_Orlando.jpg",
         "party": "Movimiento Revolución Ciudadana",
@@ -2626,7 +2626,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 109,
+        "id": "109",
         "name": "Andrés Páez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Andr%C3%A9s_P%C3%A1ez_2017.jpg/250px-Andr%C3%A9s_P%C3%A1ez_2017.jpg",
         "party": "Izquierda Democrática (hasta 2013) Movimiento CREO (2013-2016)",
@@ -2649,7 +2649,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 110,
+        "id": "110",
         "name": "Sebastián Palacios Muñoz",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Asamble%C3%ADsta_Sebasti%C3%A1n_Palacios.jpg/250px-Asamble%C3%ADsta_Sebasti%C3%A1n_Palacios.jpg",
         "party": "SUMA",
@@ -2672,7 +2672,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 111,
+        "id": "111",
         "name": "Gustavo Pareja",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Otavalo_Mayor_Gustavo_Pareja_August_2017_%28cropped%29.jpg/220px-Otavalo_Mayor_Gustavo_Pareja_August_2017_%28cropped%29.jpg",
         "party": "",
@@ -2695,7 +2695,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 112,
+        "id": "112",
         "name": "Ricardo Patiño",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ricardo_Pati%C3%B1o_en_2018.jpg/250px-Ricardo_Pati%C3%B1o_en_2018.jpg",
         "party": "Alianza PAÍS (2006-2018) Revolución Ciudadana (desde 2018)",
@@ -2718,7 +2718,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 113,
+        "id": "113",
         "name": "Pedro Granja",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pedro_Granja.png",
         "party": "Independiente",
@@ -2741,7 +2741,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 114,
+        "id": "114",
         "name": "Darwin Pereira",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Asambleista-Pereira-Darwin.png/250px-Asambleista-Pereira-Darwin.png",
         "party": "Pachakutik (2021-presente)",
@@ -2764,7 +2764,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 115,
+        "id": "115",
         "name": "Washington Pesántez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Washington_Pes%C3%A1ntez.jpg/250px-Washington_Pes%C3%A1ntez.jpg",
         "party": "Unión Ecuatoriana",
@@ -2787,7 +2787,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 116,
+        "id": "116",
         "name": "Enrique Pita",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Enrique_Pita.jpg",
         "party": "",
@@ -2810,7 +2810,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 117,
+        "id": "117",
         "name": "Antonio Posso",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antonio_Posso_%28cropped%29.png/250px-Antonio_Posso_%28cropped%29.png",
         "party": "",
@@ -2833,7 +2833,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 118,
+        "id": "118",
         "name": "Marco Proaño Maya",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Entrevista_en_la_Radio_de_la_Asamblea_Nacional_al_Dr._Marco_Proa%C3%B1o_Maya_%286338096067%29.jpg/250px-Entrevista_en_la_Radio_de_la_Asamblea_Nacional_al_Dr._Marco_Proa%C3%B1o_Maya_%286338096067%29.jpg",
         "party": "",
@@ -2856,7 +2856,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 119,
+        "id": "119",
         "name": "Esteban Quirola",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Esteban_quirola.jpg/250px-Esteban_quirola.jpg",
         "party": "Partido SUMA (2012-2017) Movimiento SIII (desde 2017)",
@@ -2879,7 +2879,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 120,
+        "id": "120",
         "name": "Delfín Quishpe",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Delf%C3%ADn_Quishpe.JPG/250px-Delf%C3%ADn_Quishpe.JPG",
         "party": "Pachakutik",
@@ -2902,7 +2902,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 121,
+        "id": "121",
         "name": "Salvador Quishpe",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/COMISI%C3%93N_DEL_DERECHO_AL_TRABAJO._ECUADOR%2C_23_DE_MARZO_DEL_2022_%2851955884757%29.jpg/250px-COMISI%C3%93N_DEL_DERECHO_AL_TRABAJO._ECUADOR%2C_23_DE_MARZO_DEL_2022_%2851955884757%29.jpg",
         "party": "Pachakutik",
@@ -2925,7 +2925,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 122,
+        "id": "122",
         "name": "Carlos Rabascall",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Carlos_Rabascall.jpg/250px-Carlos_Rabascall.jpg",
         "party": "Izquierda Democrática (desde 2024)",
@@ -2948,7 +2948,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 123,
+        "id": "123",
         "name": "Marcelo Rivera",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Marcelo_Rivera%2C_dirigente_de_la_FEUE_%284099969717%29.jpg/250px-Marcelo_Rivera%2C_dirigente_de_la_FEUE_%284099969717%29.jpg",
         "party": "Movimiento Popular Democrático (1995-2014) Unidad Popular (desde 2014)",
@@ -2971,7 +2971,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 124,
+        "id": "124",
         "name": "Ramiro Rivera",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ramiro_Rivera.jpg/250px-Ramiro_Rivera.jpg",
         "party": "Democracia Popular",
@@ -2994,7 +2994,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 125,
+        "id": "125",
         "name": "Mauricio Rodas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mauricio_Rodas_2014.jpg/250px-Mauricio_Rodas_2014.jpg",
         "party": "Movimiento SUMA",
@@ -3017,7 +3017,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 126,
+        "id": "126",
         "name": "Fernando Rodríguez Paredes",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
         "party": "",
@@ -3040,7 +3040,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 127,
+        "id": "127",
         "name": "Franco Romero Loayza",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288741769104%29.jpg/250px-Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288741769104%29.jpg",
         "party": "Partido Socialista Ecuatoriano (1980-1987) Izquierda Democrática (1988-2004) Partido Social Cristiano (2004-2016) Movimiento CREO (2016-2018)",
@@ -3063,7 +3063,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 128,
+        "id": "128",
         "name": "Isidro Romero",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Isidro_Romero_en_entrevista.png",
         "party": "",
@@ -3086,7 +3086,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 129,
+        "id": "129",
         "name": "Hugo Ruiz Enríquez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
         "party": "",
@@ -3109,7 +3109,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 130,
+        "id": "130",
         "name": "Josué Sánchez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Josu%C3%A9_S%C3%A1nchez.JPG/250px-Josu%C3%A9_S%C3%A1nchez.JPG",
         "party": "Partido Social Cristiano",
@@ -3132,7 +3132,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 131,
+        "id": "131",
         "name": "Montgómery Sánchez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/09_de_enero_de_2017_-_Sesi%C3%B3n_de_la_Comisi%C3%B3n_de_Gobiernos_Aut%C3%B3nomos_%2824733986397%29_%28cropped%29.jpg/250px-09_de_enero_de_2017_-_Sesi%C3%B3n_de_la_Comisi%C3%B3n_de_Gobiernos_Aut%C3%B3nomos_%2824733986397%29_%28cropped%29.jpg",
         "party": "Partido Roldosista Ecuatoriano (1995-2008) Movimiento Autonómico Regional (desde 2008)",
@@ -3155,7 +3155,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 132,
+        "id": "132",
         "name": "Montgomery Sánchez Ordóñez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Asamble%C3%ADsta_Montgomery_S%C3%A1nchez%2C_interviene_en_la_continuaci%C3%B3n_de_la_sesi%C3%B3n_302_del_Pleno_de_la_Asamblea_Nacional_%2815932019332%29.jpg/250px-Asamble%C3%ADsta_Montgomery_S%C3%A1nchez%2C_interviene_en_la_continuaci%C3%B3n_de_la_sesi%C3%B3n_302_del_Pleno_de_la_Asamblea_Nacional_%2815932019332%29.jpg",
         "party": "Movimiento Autonómico Regional (desde 2009)",
@@ -3178,7 +3178,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 133,
+        "id": "133",
         "name": "Marlon Santi",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Marlon-Santi.jpg/250px-Marlon-Santi.jpg",
         "party": "Pachakutik",
@@ -3201,7 +3201,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 134,
+        "id": "134",
         "name": "Edgar Santillán",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
         "party": "",
@@ -3224,7 +3224,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 135,
+        "id": "135",
         "name": "Iván Saquicela",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/IVAN_SAQUICELA_RODAS.jpg/250px-IVAN_SAQUICELA_RODAS.jpg",
         "party": "Independiente",
@@ -3247,7 +3247,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 136,
+        "id": "136",
         "name": "Virgilio Saquicela",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SESI%C3%93N_NO._771_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_05_DE_ABRIL_DEL_2022_%2851985006010%29.jpg/250px-SESI%C3%93N_NO._771_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_05_DE_ABRIL_DEL_2022_%2851985006010%29.jpg",
         "party": "",
@@ -3270,7 +3270,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 137,
+        "id": "137",
         "name": "Segundo Serrano",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
         "party": "",
@@ -3293,7 +3293,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 138,
+        "id": "138",
         "name": "Lucía Sosa",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Luc%C3%ADa_Sosa.jpg/250px-Luc%C3%ADa_Sosa.jpg",
         "party": "Movimiento Popular Democrático (hasta 2014) Unidad Popular (desde 2014)",
@@ -3316,7 +3316,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 139,
+        "id": "139",
         "name": "Vicente Taiano",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/JOS%C3%89-VICENTE-TAIANO-%C3%81LVAREZ_%288317572235%29.jpg/250px-JOS%C3%89-VICENTE-TAIANO-%C3%81LVAREZ_%288317572235%29.jpg",
         "party": "Partido Renovador Institucional Acción Nacional (2002-2012) Partido Sociedad Patriótica (desde 2012)",
@@ -3339,7 +3339,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 140,
+        "id": "140",
         "name": "Delfín Tenesaca",
         "image": "",
         "party": "",
@@ -3362,7 +3362,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 141,
+        "id": "141",
         "name": "Johnny Terán",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/PREFECTO_DE_LOS_R%C3%8DOS.jpg/250px-PREFECTO_DE_LOS_R%C3%8DOS.jpg",
         "party": "Partido Social Cristiano",
@@ -3385,7 +3385,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 142,
+        "id": "142",
         "name": "Auki Tituaña",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Auki.jpg/250px-Auki.jpg",
         "party": "Pachakutik (1995-2012) Movimiento CREO (desde 2012) Movimiento Concertación (desde 2018)",
@@ -3408,7 +3408,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 143,
+        "id": "143",
         "name": "Roberto de la Torre",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bandera_del_Cant%C3%B3n_Pastaza.png/60px-Bandera_del_Cant%C3%B3n_Pastaza.png",
         "party": "",
@@ -3431,7 +3431,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 144,
+        "id": "144",
         "name": "Marco Troya",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_NO._771_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_21_DE_ABRIL_DE_2022_%2852019267002%29.jpg/250px-CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_NO._771_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_21_DE_ABRIL_DE_2022_%2852019267002%29.jpg",
         "party": "Movimiento CREO Alianza PAÍS (desde 2007) Partido Roldosista Ecuatoriano (hasta 2007)",
@@ -3454,7 +3454,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 145,
+        "id": "145",
         "name": "César Umajinga",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cesar_Umajinga_%28cropped%29.png/250px-Cesar_Umajinga_%28cropped%29.png",
         "party": "Pachakutik (hasta 2022) Partido SUMA (desde 2022)",
@@ -3477,7 +3477,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 146,
+        "id": "146",
         "name": "Raúl Vallejo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/RAUL_VALLEJO_%2828024350105%29_%28cropped%29.jpg/250px-RAUL_VALLEJO_%2828024350105%29_%28cropped%29.jpg",
         "party": "",
@@ -3500,7 +3500,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 147,
+        "id": "147",
         "name": "Carlos Vallejo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Carlos_Vallejo_%28detalle%29.jpg/250px-Carlos_Vallejo_%28detalle%29.jpg",
         "party": "",
@@ -3523,7 +3523,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 148,
+        "id": "148",
         "name": "Alejandro Vanegas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vanegas_Abogados_54.jpg/250px-Vanegas_Abogados_54.jpg",
         "party": "",
@@ -3546,7 +3546,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 149,
+        "id": "149",
         "name": "Pedro Velasco",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pedro_Velasco%2C_junio_de_2021.jpg/250px-Pedro_Velasco%2C_junio_de_2021.jpg",
         "party": "",
@@ -3569,7 +3569,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 150,
+        "id": "150",
         "name": "Alfredo Vera",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alfredo-vera.jpg/250px-Alfredo-vera.jpg",
         "party": "Alianza PAÍS",
@@ -3592,7 +3592,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 151,
+        "id": "151",
         "name": "Carlos Vera (periodista)",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/ENTREVISTA_AL_PRESIDENTE_GUILLERMO_LASSO_EN_EL_PROGRAMA_VERA_A_SU_MANERA._QUITO%2C_24_DE_FEBRERO_DE_2022.jpg/250px-ENTREVISTA_AL_PRESIDENTE_GUILLERMO_LASSO_EN_EL_PROGRAMA_VERA_A_SU_MANERA._QUITO%2C_24_DE_FEBRERO_DE_2022.jpg",
         "party": "Madera de Guerrero (desde 2009)",
@@ -3615,7 +3615,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 152,
+        "id": "152",
         "name": "Franklin Verduga",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Escudo_de_Guayaquil.svg/60px-Escudo_de_Guayaquil.svg.png",
         "party": "Partido Social Cristiano",
@@ -3638,7 +3638,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 153,
+        "id": "153",
         "name": "René Yandún",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rene_Yandun_%28detalle%29.png/250px-Rene_Yandun_%28detalle%29.png",
         "party": "",
@@ -3661,7 +3661,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 154,
+        "id": "154",
         "name": "Jorge Yunda",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jorge_Yunda_Machado.png/250px-Jorge_Yunda_Machado.png",
         "party": "",
@@ -3684,7 +3684,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 155,
+        "id": "155",
         "name": "Jorge Zambrano",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
         "party": "",
@@ -3707,7 +3707,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 156,
+        "id": "156",
         "name": "Mariano Zambrano",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mariano_Zambrano_%28detalle%29.jpg/250px-Mariano_Zambrano_%28detalle%29.jpg",
         "party": "Partido Social Cristiano (1997-2008) Unidad Primero (desde 2008)",
@@ -3730,7 +3730,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 157,
+        "id": "157",
         "name": "Mery Zamora",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Asamble%C3%ADsta_Mery_Zamora_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_187_del_Pleno_de_la_Asamblea_Nacional_continuaci%C3%B3n_%288007295642%29_%28cropped%29.jpg/250px-Asamble%C3%ADsta_Mery_Zamora_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_187_del_Pleno_de_la_Asamblea_Nacional_continuaci%C3%B3n_%288007295642%29_%28cropped%29.jpg",
         "party": "Movimiento Popular Democrático (1995-2014) Unidad Popular (desde 2014)",
@@ -3753,7 +3753,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 158,
+        "id": "158",
         "name": "Juan Zapata Silva",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/EJECUTIVO_REMITI%C3%93_PROYECTO_DE_GESTI%C3%93N_DE_EMERGENCIA_SANITARIA_POR_PANDEMIA._ECUADOR%2C_22_DE_ABRIL_DEL_2021.jpg/250px-EJECUTIVO_REMITI%C3%93_PROYECTO_DE_GESTI%C3%93N_DE_EMERGENCIA_SANITARIA_POR_PANDEMIA._ECUADOR%2C_22_DE_ABRIL_DEL_2021.jpg",
         "party": "Izquierda Democracia (hasta 2019)",
@@ -3776,7 +3776,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 159,
+        "id": "159",
         "name": "Pedro Zapata",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Asambleista_pedro_zapata.jpg/250px-Asambleista_pedro_zapata.jpg",
         "party": "Partido Social Cristiano",
@@ -3799,7 +3799,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 160,
+        "id": "160",
         "name": "Esthela Acero",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Esthela_Acero_Lachimba.jpg/250px-Esthela_Acero_Lachimba.jpg",
         "party": "Alianza PAÍS",
@@ -3822,7 +3822,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 161,
+        "id": "161",
         "name": "Alberto Acosta Espinosa",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alberto_Acosta_%28detalle%29.jpg/250px-Alberto_Acosta_%28detalle%29.jpg",
         "party": "Pachakutik (1995-2005) Alianza PAÍS (2006-2009) Montecristi Vive (desde 2011)",
@@ -3845,7 +3845,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 162,
+        "id": "162",
         "name": "Ronny Aleaga",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ronny_Aleaga_Santos.jpg/250px-Ronny_Aleaga_Santos.jpg",
         "party": "Alianza PAÍS (hasta 2018) Revolución Ciudadana (desde 2018)",
@@ -3868,7 +3868,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 163,
+        "id": "163",
         "name": "Rosana Alvarado",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rosana_Alvarado_Carri%C3%B3n_en_la_Comisi%C3%B3n_de_Juticia%2C_20_de_septiembre_de_2017_%2837206786261%29_%28cropped%29.jpg/250px-Rosana_Alvarado_Carri%C3%B3n_en_la_Comisi%C3%B3n_de_Juticia%2C_20_de_septiembre_de_2017_%2837206786261%29_%28cropped%29.jpg",
         "party": "Alianza PAÍS",
@@ -3891,7 +3891,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 164,
+        "id": "164",
         "name": "Alexandra Arce",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alexandra_Arce_Pl%C3%BAas_2022.jpg/250px-Alexandra_Arce_Pl%C3%BAas_2022.jpg",
         "party": "Alianza PAÍS (hasta 2018) Revolución Ciudadana (desde 2018)",
@@ -3914,7 +3914,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 166,
+        "id": "165",
         "name": "Augusto Barrera",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/22_de_marzo_de_2018_-_Comisi%C3%B3n_de_Educaci%C3%B3n_%2840916412422%29_%28cropped%29.jpg/250px-22_de_marzo_de_2018_-_Comisi%C3%B3n_de_Educaci%C3%B3n_%2840916412422%29_%28cropped%29.jpg",
         "party": "Alianza PAÍS (2006-2018)",
@@ -3937,7 +3937,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 168,
+        "id": "166",
         "name": "Viviana Bonilla",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Viviana_Bonilla_en_2017_%28cropped%29.png/250px-Viviana_Bonilla_en_2017_%28cropped%29.png",
         "party": "Alianza País (2006-2018)",
@@ -3960,7 +3960,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 169,
+        "id": "167",
         "name": "Aminta Buenaño",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asamble%C3%ADsta_Aminta_Buena%C3%B1o_%283927365564%29_%28cropped%29.jpg/250px-Asamble%C3%ADsta_Aminta_Buena%C3%B1o_%283927365564%29_%28cropped%29.jpg",
         "party": "Alianza PAÍS",
@@ -3983,7 +3983,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 170,
+        "id": "168",
         "name": "Elizabeth Cabezas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Elizabeth_Cabezas%2C_Presidenta_de_la_Asamblea_Nacional_%28cropped%29.jpg/250px-Elizabeth_Cabezas%2C_Presidenta_de_la_Asamblea_Nacional_%28cropped%29.jpg",
         "party": "Independiente",
@@ -4006,7 +4006,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 171,
+        "id": "169",
         "name": "Irina Cabezas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Irina_Cabezas_en_2010_como_Presidenta_encargada_de_la_Asamblea_Nacional.jpg/250px-Irina_Cabezas_en_2010_como_Presidenta_encargada_de_la_Asamblea_Nacional.jpg",
         "party": "Alianza PAÍS",
@@ -4029,7 +4029,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 172,
+        "id": "170",
         "name": "María Augusta Calle",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288741799852%29.jpg/250px-Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288741799852%29.jpg",
         "party": "Alianza PAÍS",
@@ -4052,7 +4052,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 174,
+        "id": "171",
         "name": "María José Carrión",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mar%C3%ADa_Jos%C3%A9_Carri%C3%B3n_en_2017.jpg/250px-Mar%C3%ADa_Jos%C3%A9_Carri%C3%B3n_en_2017.jpg",
         "party": "",
@@ -4075,7 +4075,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 175,
+        "id": "172",
         "name": "Miguel Carvajal",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Miguel_Carvajal_en_2017.jpg/250px-Miguel_Carvajal_en_2017.jpg",
         "party": "Alianza PAÍS",
@@ -4098,7 +4098,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 176,
+        "id": "173",
         "name": "Juan Carlos Cassinelli",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Juan_Carlos_Cassinelli_en_2011.jpg/250px-Juan_Carlos_Cassinelli_en_2011.jpg",
         "party": "Alianza PAIS",
@@ -4121,7 +4121,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 177,
+        "id": "174",
         "name": "Kharla Chávez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kharla_Ch%C3%A1vez_%28detalle%29.png/250px-Kharla_Ch%C3%A1vez_%28detalle%29.png",
         "party": "Partido Social Cristiano (2002-2006) Partido Roldosista Ecuatoriano (2006-2008) Alianza PAÍS (desde 2008)",
@@ -4144,7 +4144,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 179,
+        "id": "175",
         "name": "Fernando Cordero Cueva",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juan-Fernando-Cordero-Cueva_%288318629964%29.jpg/250px-Juan-Fernando-Cordero-Cueva_%288318629964%29.jpg",
         "party": "Pachakutik (1995-1996) Nuevo País (desde 1996) Alianza PAÍS (2006-2018)",
@@ -4167,7 +4167,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 182,
+        "id": "176",
         "name": "Ulises de la Cruz",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Asamble%C3%ADsta_Ulises_de_la_Cruz_%2C_interviene_en_la_Sesi%C3%B3n_No.319_del_Pleno_de_la_Asamblea_Nacional_%2816882705660%29.jpg/330px-Asamble%C3%ADsta_Ulises_de_la_Cruz_%2C_interviene_en_la_Sesi%C3%B3n_No.319_del_Pleno_de_la_Asamblea_Nacional_%2816882705660%29.jpg",
         "party": "Alianza PAIS",
@@ -4190,7 +4190,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 183,
+        "id": "177",
         "name": "Agustín Delgado Chalá",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/AGUST%C3%8DN_DELGADO_%2832456009762%29.jpg/330px-AGUST%C3%8DN_DELGADO_%2832456009762%29.jpg",
         "party": "Alianza PAIS",
@@ -4213,7 +4213,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 184,
+        "id": "178",
         "name": "María de los Ángeles Duarte",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Entrega_Bonos_MIDUVI_%2822807210706%29_%28cropped%29.jpg/250px-Entrega_Bonos_MIDUVI_%2822807210706%29_%28cropped%29.jpg",
         "party": "Alianza PAÍS",
@@ -4236,7 +4236,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 186,
+        "id": "179",
         "name": "María Fernanda Espinosa",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Entrevista_de_Canciller_Mar%C3%ADa_Fernanda_Espinosa_%2836388035054%29_%28cropped%29.jpg/250px-Entrevista_de_Canciller_Mar%C3%ADa_Fernanda_Espinosa_%2836388035054%29_%28cropped%29.jpg",
         "party": "Alianza PAÍS (2006-2018)",
@@ -4259,7 +4259,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 190,
+        "id": "180",
         "name": "Jorge Glas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nueva_Embajadora_en_Ecuador_present%C3%B3_Cartas_Credenciales_%2810594293813%29.jpg/250px-Nueva_Embajadora_en_Ecuador_present%C3%B3_Cartas_Credenciales_%2810594293813%29.jpg",
         "party": "Alianza PAÍS (2006-2018) Revolución Ciudadana (desde 2018)",
@@ -4282,7 +4282,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 191,
+        "id": "181",
         "name": "Gina Godoy",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Asamble%C3%ADsta_Gina_Godoy_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_2013-2017_%288741617556%29.jpg/250px-Asamble%C3%ADsta_Gina_Godoy_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_2013-2017_%288741617556%29.jpg",
         "party": "Alianza PAÍS",
@@ -4305,7 +4305,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 192,
+        "id": "182",
         "name": "Paúl Granda",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/PARO_DE_TRANSPORTE_INTERPROVINCIAL_%2840525930831%29_%28cropped%29.jpg/250px-PARO_DE_TRANSPORTE_INTERPROVINCIAL_%2840525930831%29_%28cropped%29.jpg",
         "party": "Alianza PAÍS",
@@ -4328,7 +4328,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 193,
+        "id": "183",
         "name": "Tatiana Hidrovo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Asamble%C3%ADsta_Tatiana_Hidrovo_%283077409069%29.jpg/250px-Asamble%C3%ADsta_Tatiana_Hidrovo_%283077409069%29.jpg",
         "party": "Alianza PAÍS",
@@ -4351,7 +4351,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 194,
+        "id": "184",
         "name": "Nicolás Issa Wagner",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicolas_Issa_Wagner_%28detalle%29.jpg/250px-Nicolas_Issa_Wagner_%28detalle%29.jpg",
         "party": "",
@@ -4374,7 +4374,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 197,
+        "id": "185",
         "name": "Lenín Moreno",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Presidente_del_Ecuador%2C_Len%C3%ADn_Moreno_Garc%C3%A9s_5_%2841059887005%29_%28cropped%29.jpg/250px-Presidente_del_Ecuador%2C_Len%C3%ADn_Moreno_Garc%C3%A9s_5_%2841059887005%29_%28cropped%29.jpg",
         "party": "Alianza PAÍS (2006-2021)",
@@ -4397,7 +4397,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 199,
+        "id": "186",
         "name": "Alexandra Ocles",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Alexandra_Ocles_%28cropped%29.png/250px-Alexandra_Ocles_%28cropped%29.png",
         "party": "Ruptura 25 (2004-2012) Alianza PAÍS (desde 2006)",
@@ -4420,7 +4420,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 200,
+        "id": "187",
         "name": "Paola Pabón",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MV_8888.jpg/250px-MV_8888.jpg",
         "party": "Izquierda Democrática (1999-2006) Alianza País (2006-2018) Movimiento Revolución Ciudadana (desde 2018)",
@@ -4443,7 +4443,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 201,
+        "id": "188",
         "name": "Rolando Panchana",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ROLANDO-JOS%C3%89-PANCHANA-FARRA_%288318636356%29.jpg/250px-ROLANDO-JOS%C3%89-PANCHANA-FARRA_%288318636356%29.jpg",
         "party": "Alianza PAIS",
@@ -4466,7 +4466,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 202,
+        "id": "189",
         "name": "Raúl Patiño",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288741800638%29.jpg/250px-Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288741800638%29.jpg",
         "party": "Partido Socialista Ecuatoriano (hasta 1995) Democracia Popular (1996-2006) Red Ética y Democracia (2006) Alianza PAÍS (desde 2006)",
@@ -4489,7 +4489,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 203,
+        "id": "190",
         "name": "Ximena Peña",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ximena_Pe%C3%B1a_2016.JPG/250px-Ximena_Pe%C3%B1a_2016.JPG",
         "party": "Alianza PAÍS (2008-2021)",
@@ -4512,7 +4512,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 204,
+        "id": "191",
         "name": "Denisse Robles",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288741778828%29.jpg/250px-Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288741778828%29.jpg",
         "party": "Alianza PAÍS",
@@ -4535,7 +4535,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 205,
+        "id": "192",
         "name": "María Isabel Salvador",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Maria_Isabel_Salvador.JPG/250px-Maria_Isabel_Salvador.JPG",
         "party": "",
@@ -4558,7 +4558,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 206,
+        "id": "193",
         "name": "Gina Sanmiguel",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ingreso_de_Asamble%C3%ADstas%2C_familiares_e_invitados_a_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_2013-2017_%288740488885%29.jpg/250px-Ingreso_de_Asamble%C3%ADstas%2C_familiares_e_invitados_a_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_2013-2017_%288740488885%29.jpg",
         "party": "Alianza PAÍS",
@@ -4581,7 +4581,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 207,
+        "id": "194",
         "name": "José Serrano Salgado",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Jos%C3%A9_Serrano_-_Presidente_de_la_Asamblea_Nacional_del_Ecuador.jpg/250px-Jos%C3%A9_Serrano_-_Presidente_de_la_Asamblea_Nacional_del_Ecuador.jpg",
         "party": "Alianza PAÍS",
@@ -4604,7 +4604,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 208,
+        "id": "195",
         "name": "Betty Tola",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Betty_Tola_en_el_gobierno_provincial_de_Pichincha.jpg/250px-Betty_Tola_en_el_gobierno_provincial_de_Pichincha.jpg",
         "party": "Alianza PAÍS",
@@ -4627,7 +4627,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 209,
+        "id": "196",
         "name": "Ana Triviño",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
         "party": "",
@@ -4650,7 +4650,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 211,
+        "id": "197",
         "name": "Paco Velasco",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Asamble%C3%ADsta_Paco_Velasco_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No._134_del_Pleno_de_la_Asamblea_Nacional_%286300195463%29.jpg/250px-Asamble%C3%ADsta_Paco_Velasco_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No._134_del_Pleno_de_la_Asamblea_Nacional_%286300195463%29.jpg",
         "party": "Alianza PAÍS",
@@ -4673,7 +4673,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 213,
+        "id": "198",
         "name": "Wendy Vera",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wendy_Vera_Flores.jpg/250px-Wendy_Vera_Flores.jpg",
         "party": "Alianza PAÍS (2016-2018) Revolución Ciudadana (desde 2018)",
@@ -4696,7 +4696,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 214,
+        "id": "199",
         "name": "María Alejandra Vicuña",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/SESI%C3%93N_SOLEMNE_INFORME_A_LA_NACI%C3%93N%2C_QUITO_24_DE_MAYO_2018._%2828454543258%29_%28cropped%29_%28cropped%29.jpg/250px-SESI%C3%93N_SOLEMNE_INFORME_A_LA_NACI%C3%93N%2C_QUITO_24_DE_MAYO_2018._%2828454543258%29_%28cropped%29_%28cropped%29.jpg",
         "party": "Alianza Bolivariana Alfarista Alianza PAÍS (2006-2020)",
@@ -4719,7 +4719,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 217,
+        "id": "200",
         "name": "Verónica Zurita",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Veronica_Zurita_%28Ecuador%29.jpg/250px-Veronica_Zurita_%28Ecuador%29.jpg",
         "party": "Izquierda Democrática (2002-2009) Alianza PAÍS (2009-2018) Movimiento CREO (desde 2018)",
@@ -4742,7 +4742,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 219,
+        "id": "201",
         "name": "Fernando Callejas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fernando_Callejas_%28detalle%29.png/250px-Fernando_Callejas_%28detalle%29.png",
         "party": "Movimiento CREO",
@@ -4765,7 +4765,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 220,
+        "id": "202",
         "name": "César Carrión",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cesarcarrion_%28cropped%29.jpg/250px-Cesarcarrion_%28cropped%29.jpg",
         "party": "Movimiento CREO",
@@ -4788,7 +4788,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 222,
+        "id": "203",
         "name": "Ana Galarza",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ANA_GALARZA_2017_%28cropped%29.jpg/250px-ANA_GALARZA_2017_%28cropped%29.jpg",
         "party": "Movimiento CREO (hasta 2022) Movimiento Construye (2023-2024)",
@@ -4811,7 +4811,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 223,
+        "id": "204",
         "name": "Guillermo Lasso",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Guillermo_Lasso_2023.jpg/250px-Guillermo_Lasso_2023.jpg",
         "party": "Movimiento CREO",
@@ -4834,7 +4834,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 225,
+        "id": "205",
         "name": "Francesco Tabacchi",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Francesco_TABACCHI.jpg/250px-Francesco_TABACCHI.jpg",
         "party": "",
@@ -4857,7 +4857,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 226,
+        "id": "206",
         "name": "Tanlly Vera",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tanlly_Vera_Mendoza_1_%28cropped%29.jpg/250px-Tanlly_Vera_Mendoza_1_%28cropped%29.jpg",
         "party": "Movimiento CREO",
@@ -4880,7 +4880,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 227,
+        "id": "207",
         "name": "Héctor Yépez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HectorYepez.jpg/250px-HectorYepez.jpg",
         "party": "Partido SUMA (2012-2018) Movimiento CREO (2018-2020)",
@@ -4903,7 +4903,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 229,
+        "id": "208",
         "name": "Jorge Escala",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Jorge_Escala_en_2010.jpg/250px-Jorge_Escala_en_2010.jpg",
         "party": "Unidad Popular (desde 2014) Movimiento Popular Democrático (hasta 2014)",
@@ -4926,7 +4926,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 231,
+        "id": "209",
         "name": "Magali Orellana",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Prefecta-orellana.jpg/250px-Prefecta-orellana.jpg",
         "party": "Pachakutik (hasta 2017) Unidad Popular (desde 2017)",
@@ -4949,7 +4949,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 233,
+        "id": "210",
         "name": "Liliana Silva Galeas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/COMISI%C3%93N_DE_GOBIERNOS_AUT%C3%93NOMOS._ECUADOR%2C_13_DE_DICIEMBRE_DEL_2023_%2853396151105%29.jpg/250px-COMISI%C3%93N_DE_GOBIERNOS_AUT%C3%93NOMOS._ECUADOR%2C_13_DE_DICIEMBRE_DEL_2023_%2853396151105%29.jpg",
         "party": "Unidad Popular",
@@ -4972,7 +4972,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 237,
+        "id": "211",
         "name": "Diana Atamaint",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Diana_Atamaint_CONAIE_%28sq_cropped%29.jpg/250px-Diana_Atamaint_CONAIE_%28sq_cropped%29.jpg",
         "party": "Pachakutik (hasta 2017)",
@@ -4995,7 +4995,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 238,
+        "id": "212",
         "name": "Diana Caiza",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Diana_caiza_alcaldesa_de_ambato.jpg/250px-Diana_caiza_alcaldesa_de_ambato.jpg",
         "party": "Pachakutik",
@@ -5018,7 +5018,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 239,
+        "id": "213",
         "name": "Virna Cedeño Escobar",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
         "party": "",
@@ -5041,7 +5041,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 240,
+        "id": "214",
         "name": "Blanca Chancoso",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/PRESIDENTE_DE_LA_ASAMBLEA_NACIONAL%2C_C%C3%89SAR_LITARDO_RECIBI%C3%93_DEL_PARLAMENTO_POPULAR_DE_LOS_PUEBLOS_DE_ECUADOR%2C_LIDERADO_POR_LA_CONAIE_LA_PROPUESTA_ALTERNATIVA_A_LA_LEY_CRECIMIENTO_ECON%C3%93MICO._QUITO%2C_6_DE_NOVIEMBRE_2019._%2849026169861%29.jpg/250px-thumbnail.jpg",
         "party": "Pachakutik",
@@ -5064,7 +5064,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 245,
+        "id": "215",
         "name": "Guadalupe Llori",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Guadalupe_Llori%2C_5_de_abril_de_2022.jpg/250px-Guadalupe_Llori%2C_5_de_abril_de_2022.jpg",
         "party": "Movimiento CREO",
@@ -5087,7 +5087,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 247,
+        "id": "216",
         "name": "Nina Pacari",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nina_pacari_RADIO_CENTRO.png/250px-Nina_pacari_RADIO_CENTRO.png",
         "party": "Pachakutik",
@@ -5110,7 +5110,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 248,
+        "id": "217",
         "name": "Yaku Pérez Guartambel",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Yaku_Perez_Guartambel_foto_%28cropped%29.jpg/250px-Yaku_Perez_Guartambel_foto_%28cropped%29.jpg",
         "party": "Pachakutik (1996-2021) Democracia Sí (2023) Movimiento AMIGO (desde 2024)",
@@ -5133,7 +5133,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 250,
+        "id": "218",
         "name": "Karla Reátegui",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Karla_Re%C3%A1tegui.jpg/250px-Karla_Re%C3%A1tegui.jpg",
         "party": "Pachakutik",
@@ -5156,7 +5156,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 252,
+        "id": "219",
         "name": "Lourdes Tibán",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lourdes_Tib%C3%A1n%2C_posesi%C3%B3n_de_Daniel_Noboa_1_%28cropped%29.jpg/250px-Lourdes_Tib%C3%A1n%2C_posesi%C3%B3n_de_Daniel_Noboa_1_%28cropped%29.jpg",
         "party": "Pachakutik",
@@ -5179,7 +5179,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 254,
+        "id": "220",
         "name": "Elsa Bucaram",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Escudo_de_Guayaquil.svg/60px-Escudo_de_Guayaquil.svg.png",
         "party": "Partido Roldosista Ecuatoriano",
@@ -5202,7 +5202,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 255,
+        "id": "221",
         "name": "Abdalá Bucaram",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Abdala_Bucaram_%28cropped%29.jpg",
         "party": "Partido Roldosista Ecuatoriano (1983-2014) Fuerza Ecuador (2017-2021)",
@@ -5225,7 +5225,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 256,
+        "id": "222",
         "name": "Dalo Bucaram",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dalo_Bucaram.jpg/250px-Dalo_Bucaram.jpg",
         "party": "Partido Roldosista Ecuatoriano (hasta 2014) Fuerza Ecuador (2015-2021)",
@@ -5248,7 +5248,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 257,
+        "id": "223",
         "name": "Gabriela Pazmiño",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Asamble%C3%ADsta_Gabriela_Pazmi%C3%B1o_%284775864980%29.jpg/250px-Asamble%C3%ADsta_Gabriela_Pazmi%C3%B1o_%284775864980%29.jpg",
         "party": "Partido Roldosista Ecuatoriano (hasta 2014) Fuerza Ecuador (desde 2015)",
@@ -5271,7 +5271,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 258,
+        "id": "224",
         "name": "Frank Vargas Pazzos",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tnte._Gral._Frank_Vargas_Pazzos_-_1986.jpg/250px-Tnte._Gral._Frank_Vargas_Pazzos_-_1986.jpg",
         "party": "Acción Popular Revolucionaria (desde 1987)",
@@ -5294,7 +5294,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 260,
+        "id": "225",
         "name": "Patricia Briones",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Patricia_Briones%2C15_DE_NOVIEMBRE_DE_2024_%28sq_cropped%29.png/250px-Patricia_Briones%2C15_DE_NOVIEMBRE_DE_2024_%28sq_cropped%29.png",
         "party": "",
@@ -5317,7 +5317,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 262,
+        "id": "226",
         "name": "Wilson Cañizares",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/WilsonCa%C3%B1izaresVillamar-Alcalde-1.png/250px-WilsonCa%C3%B1izaresVillamar-Alcalde-1.png",
         "party": "Alianza PAÍS (2013-2015) Partido Social Cristiano (desde 2018)",
@@ -5340,7 +5340,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 263,
+        "id": "227",
         "name": "Pascual del Cioppo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pascual_del_Cioppo.JPG/250px-Pascual_del_Cioppo.JPG",
         "party": "Partido Social Cristiano (1979-2021)",
@@ -5363,7 +5363,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 264,
+        "id": "228",
         "name": "Soledad Diab",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Soledad_Diab%2C_2021.jpg/250px-Soledad_Diab%2C_2021.jpg",
         "party": "Partido Social Cristiano (2007-2025)",
@@ -5386,7 +5386,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 265,
+        "id": "229",
         "name": "Marcelo Dotti",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Parlamento_Andino_Logo.svg/60px-Parlamento_Andino_Logo.svg.png",
         "party": "Partido Social Cristiano",
@@ -5409,7 +5409,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 268,
+        "id": "230",
         "name": "Consuelo Flores",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Consuelo_Flores.JPG/250px-Consuelo_Flores.JPG",
         "party": "Partido Social Cristiano",
@@ -5432,7 +5432,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 269,
+        "id": "231",
         "name": "Susana González Rosado",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Prefecta_del_Guayas_Susana_Gonzalez.jpg/250px-Prefecta_del_Guayas_Susana_Gonzalez.jpg",
         "party": "Partido Social Cristiano (2007-2024) Madera de Guerrero (2009-2024)",
@@ -5455,7 +5455,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 270,
+        "id": "232",
         "name": "Alfonso Harb",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pocho_Harb.jpg/330px-Pocho_Harb.jpg",
         "party": "Partido Social Cristiano",
@@ -5478,7 +5478,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 271,
+        "id": "233",
         "name": "Patricia Henríquez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Patricia_Henriquez_%28cropped%29.jpg/250px-Patricia_Henriquez_%28cropped%29.jpg",
         "party": "Partido Social Cristiano",
@@ -5501,7 +5501,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 272,
+        "id": "234",
         "name": "Henry Kronfle",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Henry_Kronfle_2024.jpg/250px-Henry_Kronfle_2024.jpg",
         "party": "Partido Social Cristiano",
@@ -5524,7 +5524,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 273,
+        "id": "235",
         "name": "María Cristina Kronfle",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mar%C3%ADa_Cristina_Kronfle_asamble%C3%ADsta.jpg/250px-Mar%C3%ADa_Cristina_Kronfle_asamble%C3%ADsta.jpg",
         "party": "Partido Social Cristiano",
@@ -5547,7 +5547,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 276,
+        "id": "236",
         "name": "Mariana Mendieta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
         "party": "Partido Social Cristiano",
@@ -5570,7 +5570,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 277,
+        "id": "237",
         "name": "Mayra Montaño",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/13_de_marzo_de_2018_-_Comisi%C3%B3n_de_Participaci%C3%B3n_Ciudadana_%2839903057065%29_%28cropped%29.jpg/250px-13_de_marzo_de_2018_-_Comisi%C3%B3n_de_Participaci%C3%B3n_Ciudadana_%2839903057065%29_%28cropped%29.jpg",
         "party": "Movimiento RETO",
@@ -5593,7 +5593,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 279,
+        "id": "238",
         "name": "Xavier Neira",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
         "party": "Partido Social Cristiano",
@@ -5616,7 +5616,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 280,
+        "id": "239",
         "name": "Luzmila Nicolalde",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Luzmila_Nicolalde.JPG/250px-Luzmila_Nicolalde.JPG",
         "party": "Partido Sociedad Patriótica (2006-2013) Partido Social Cristiano (desde 2013)",
@@ -5639,7 +5639,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 281,
+        "id": "240",
         "name": "Dallyana Passailaigue",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SESI%C3%93N_NO._880_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_DICIEMBRE_DEL_2023_%2853408034166%29.jpg/250px-SESI%C3%93N_NO._880_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_DICIEMBRE_DEL_2023_%2853408034166%29.jpg",
         "party": "Partido Social Cristiano",
@@ -5662,7 +5662,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 282,
+        "id": "241",
         "name": "Camilo Ponce Gangotena",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
         "party": "Partido Social Cristiano",
@@ -5685,7 +5685,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 283,
+        "id": "242",
         "name": "Cristina Reyes",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Primera_Sesi%C3%B3n_Parlamentaria_de_Posesi%C3%B3n_de_las_y_los_Asamble%C3%ADstas_para_el_Per%C3%ADodo_Legislativo_2017-2021_%2834276833870%29_%28cropped2%29.jpg/250px-Primera_Sesi%C3%B3n_Parlamentaria_de_Posesi%C3%B3n_de_las_y_los_Asamble%C3%ADstas_para_el_Per%C3%ADodo_Legislativo_2017-2021_%2834276833870%29_%28cropped2%29.jpg",
         "party": "Madera de Guerrero Partido Social Cristiano (hasta 2022) Movimiento AMIGO (desde 2024)",
@@ -5708,7 +5708,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 284,
+        "id": "243",
         "name": "César Rohon",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/C%C3%A9sar_Roh%C3%B3n%2C_2018_%28cropped%29.jpg/250px-C%C3%A9sar_Roh%C3%B3n%2C_2018_%28cropped%29.jpg",
         "party": "Partido Social Cristiano (hasta 2021)",
@@ -5731,7 +5731,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 285,
+        "id": "244",
         "name": "Pedro Salazar Barzola",
         "image": "",
         "party": "",
@@ -5754,7 +5754,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 287,
+        "id": "245",
         "name": "Andrea Scacco",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Andrea_Scacco_-_PRESIDENTA_DE_LA_ASAMBLEA_NACIONAL_GUADALUPE_LLORI_PARTICIPA_EN_LA_SESI%C3%93N_CONMEMORATIVA_POR_LOS_415_A%C3%91OS_DE_FUNDACI%C3%93N_DE_LA_CIUDAD_DE_IBARRA._ECUADOR_28_DE_SEPTIEMBRE_DE_2021.jpg/250px-thumbnail.jpg",
         "party": "",
@@ -5777,7 +5777,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 288,
+        "id": "246",
         "name": "Doménica Tabacchi",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dom%C3%A9nica_Tabacchi_cropped.jpg/250px-Dom%C3%A9nica_Tabacchi_cropped.jpg",
         "party": "Partido Social Cristiano Madera de Guerrero",
@@ -5800,7 +5800,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 289,
+        "id": "247",
         "name": "Vicente Taiano Basante",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Vicente_Taiano_Basante.jpg/250px-Vicente_Taiano_Basante.jpg",
         "party": "Partido Social Cristiano",
@@ -5823,7 +5823,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 291,
+        "id": "248",
         "name": "Luis Fernando Torres",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Luis_Fernando_Torres_en_Programa_de_Ecuador_Tv_%22Ciudadanizando_las_Enmiendas%22_%2822282082413%29.jpg/250px-Luis_Fernando_Torres_en_Programa_de_Ecuador_Tv_%22Ciudadanizando_las_Enmiendas%22_%2822282082413%29.jpg",
         "party": "Partido Social Cristiano Tiempo de Cambio",
@@ -5846,7 +5846,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 292,
+        "id": "249",
         "name": "Poly Ugarte",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/CONVERSATORIO_ASAMBLEISTA_JORGE_YUNDA%2CQUITO_29_DE_MAYO_2018_%2840633980480%29_%28cropped%29.jpg/250px-CONVERSATORIO_ASAMBLEISTA_JORGE_YUNDA%2CQUITO_29_DE_MAYO_2018_%2840633980480%29_%28cropped%29.jpg",
         "party": "Partido Social Cristiano (1992-2018) Movimiento CREO (desde 2018)",
@@ -5869,7 +5869,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 293,
+        "id": "250",
         "name": "Macarena Valarezo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Macarena_Valarezo_%282013%29_01.jpg/250px-Macarena_Valarezo_%282013%29_01.jpg",
         "party": "Partido Social Cristiano",
@@ -5892,7 +5892,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 295,
+        "id": "251",
         "name": "Paola Vintimilla",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Paola_Vintimilla_5_DE_JUNIO_2018_%28sq_cropped%29.jpg/250px-Paola_Vintimilla_5_DE_JUNIO_2018_%28sq_cropped%29.jpg",
         "party": "Partido Social Cristiano",
@@ -5915,7 +5915,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 296,
+        "id": "252",
         "name": "Cynthia Viteri",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cynthia_Viteri_en_2018_02_%28cropped%29.jpg/250px-Cynthia_Viteri_en_2018_02_%28cropped%29.jpg",
         "party": "Partido Social Cristiano Madera de Guerrero",
@@ -5938,7 +5938,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 297,
+        "id": "253",
         "name": "Roberta Zambrano",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roberta_Zambrano.jpg/250px-Roberta_Zambrano.jpg",
         "party": "Partido Social Cristiano",
@@ -5961,7 +5961,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 299,
+        "id": "254",
         "name": "Silvia Buendía",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Silvia_Buend%C3%ADa_2013.jpg/250px-Silvia_Buend%C3%ADa_2013.jpg",
         "party": "Ruptura 25 (2004-2020) Movimiento Construye (desde 2020)",
@@ -5984,7 +5984,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 300,
+        "id": "255",
         "name": "Iván Granda",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Iv%C3%A1n_Granda_Molina.jpeg/250px-Iv%C3%A1n_Granda_Molina.jpeg",
         "party": "Ruptura 25 (2004-2011) Alianza PAÍS (2006-2015) Ruptura 25 (2015-2020) Movimiento Construye (desde 2020)",
@@ -6007,7 +6007,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 302,
+        "id": "256",
         "name": "Juan Sebastián Roldán",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Juan_sebastian_roldan.jpg/250px-Juan_sebastian_roldan.jpg",
         "party": "Ruptura 25 (2004-2020) Movimiento Construye (desde 2020)",
@@ -6030,7 +6030,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 303,
+        "id": "257",
         "name": "María Paula Romo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Entrevista_ministra_Romo_en_Ecuavisa_tratando_temas_de_inter%C3%A9s_nacional_%2840664180653%29.jpg/250px-Entrevista_ministra_Romo_en_Ecuavisa_tratando_temas_de_inter%C3%A9s_nacional_%2840664180653%29.jpg",
         "party": "Ruptura 25 (2004-2020) Movimiento Construye (desde 2020)",
@@ -6053,7 +6053,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 304,
+        "id": "258",
         "name": "Norman Wray",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Norman_Wray_%2810_de_noviembre_de_2008%29_%28cropped%29.jpg/250px-Norman_Wray_%2810_de_noviembre_de_2008%29_%28cropped%29.jpg",
         "party": "Ruptura 25 (2004-2020)",
@@ -6076,7 +6076,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 306,
+        "id": "259",
         "name": "Ximena Bohórquez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ximena_Bohorquez_%2812_de_noviembre%29_%28cropped%29.jpg/250px-Ximena_Bohorquez_%2812_de_noviembre%29_%28cropped%29.jpg",
         "party": "Partido Sociedad Patriótica",
@@ -6099,7 +6099,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 311,
+        "id": "260",
         "name": "Patricio Zuquilanda",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/PATRICIO_ZUQUILANDA_%28cropped%29.jpg/250px-PATRICIO_ZUQUILANDA_%28cropped%29.jpg",
         "party": "Partido Sociedad Patriótica 21 de Enero",
@@ -6122,7 +6122,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 312,
+        "id": "261",
         "name": "Vladimiro Álvarez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
         "party": "Democracia Popular",
@@ -6145,7 +6145,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 313,
+        "id": "262",
         "name": "Osvaldo Hurtado Larrea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Osvaldo_hurtado_y_jose_valencia_%28cropped%29.jpg/250px-Osvaldo_hurtado_y_jose_valencia_%28cropped%29.jpg",
         "party": "Democracia Cristiana (1964-1977) Democracia Popular (1977-2001) Movimiento Patria Solidaria (2001-2003)",
@@ -6168,7 +6168,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 314,
+        "id": "263",
         "name": "Jamil Mahuad",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mahuad_2020_1.1_%28cropped%29.jpg/250px-Mahuad_2020_1.1_%28cropped%29.jpg",
         "party": "Democracia Popular",
@@ -6191,7 +6191,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 316,
+        "id": "264",
         "name": "Alexandra Vela",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Entrevista_de_la_ministra_de_Gobierno%2C_Alexandra_Vela%2C_en_el_programa_Politicamente_Correcto._01.10.2021_%2851549481206%29_%28cropped%29.jpg/250px-Entrevista_de_la_ministra_de_Gobierno%2C_Alexandra_Vela%2C_en_el_programa_Politicamente_Correcto._01.10.2021_%2851549481206%29_%28cropped%29.jpg",
         "party": "Democracia Popular",
@@ -6214,7 +6214,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 317,
+        "id": "265",
         "name": "Luzmila Abad",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Luzmila_Abad_SESI%C3%93N_NO._895_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_01_DE_FEBRERO_DE_2024_%2853502549331%29.jpg",
         "party": "Pachakutik",
@@ -6237,7 +6237,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 319,
+        "id": "266",
         "name": "César Acosta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
         "party": "",
@@ -6260,7 +6260,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 321,
+        "id": "267",
         "name": "Vicente Albornoz",
         "image": "",
         "party": "",
@@ -6283,7 +6283,7 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 327,
+        "id": "268",
         "name": "María del Carmen Aquino",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_NO._766_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_12_DE_ABRIL_DE_2022._%2851999457807%29.jpg/250px-CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_NO._766_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_12_DE_ABRIL_DE_2022._%2851999457807%29.jpg",
         "party": "Revolución Ciudadana (desde 2021)",
@@ -6296,6 +6296,1363 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "2013",
         "biography": "María del Carmen Aquino Merchán ( Santa Elena , 20 de enero de 1988) es una ingeniera y política ecuatoriana . [ 2 ] ​ Ha sido docente universitaria y asambleísta nacional, entre 2021 y 2022. Desde 2023 es la alcaldesa del Cantón Santa Elena , siendo la primera mujer en la historia de la ciudad en alcanzar dicho puesto. [ 3 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "269",
+        "name": "Enrique Ayala Mora",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Enrique_Ayala.jpg/250px-Enrique_Ayala.jpg",
+        "party": "Partido Socialista Revolucionario (desde 1972, hasta años 1980) Partido Socialista Ecuatoriano (desde años 1980)",
+        "province": "bolívar",
+        "currentPosition": "",
+        "experience": 50,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 75,
+        "birthplace": "",
+        "careerStart": "1975",
+        "biography": "Manuel Enrique Alejandro Ayala Mora ( Ibarra , 13 de noviembre de 1950) es un historiador , político , editorialista y catedrático ecuatoriano , quien ha sido ideólogo del Partido Socialista Ecuatoriano , y fundador y exrector de la sede de Quito de la Universidad Andina Simón Bolívar . [ 1 ] ​ [ 2 ] ​ [ 3 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "270",
+        "name": "Annabella Azín",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Anabella_Az%C3%ADn_CCII_ANIVERSARIO_DE_INDEPENDENCIA_DE_GUAYAQUIL._GUAYAQUIL%2C_09_DE_OCTUBRE_DE_2022_%2852416912200%29_%28cropped%29.jpg/250px-Anabella_Az%C3%ADn_CCII_ANIVERSARIO_DE_INDEPENDENCIA_DE_GUAYAQUIL._GUAYAQUIL%2C_09_DE_OCTUBRE_DE_2022_%2852416912200%29_%28cropped%29.jpg",
+        "party": "Partido Renovador Institucional Acción Nacional (2002-2014) Acción Democrática Nacional (desde 2024)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 39,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 64,
+        "birthplace": "",
+        "careerStart": "1986",
+        "biography": "Annabella Emma Azín Arce ( Guayaquil , 30 de mayo de 1961) [ 1 ] ​es una doctora en medicina y política ecuatoriana . Es la esposa del empresario Álvaro Noboa Pontón y madre del actual presidente del Ecuador, Daniel Noboa . Actualmente es asambleísta nacional. [ 2 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "271",
+        "name": "Rodolfo Baquerizo Nazur",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rodolfo_Baquerizo_Nazur_%28cropped%29.jpg/250px-Rodolfo_Baquerizo_Nazur_%28cropped%29.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 65,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 90,
+        "birthplace": "",
+        "careerStart": "1960",
+        "biography": "Rodolfo Luis Baquerizo Nazur ( Guayaquil , 1935 - ?) fue un político ecuatoriano , líder histórico del partido Concentración de Fuerzas Populares . [ 1 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "272",
+        "name": "Rodrigo Borja Cevallos",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RodrigoBorja-Harvard2016.png/250px-RodrigoBorja-Harvard2016.png",
+        "party": "Partido Liberal Radical Ecuatoriano (1962-1970) Izquierda Democrática (1970-2013)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 65,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 90,
+        "birthplace": "",
+        "careerStart": "1960",
+        "biography": "Rodrigo Borja Cevallos ( Quito , 19 de junio de 1935) es un ex político , jurista y abogado ecuatoriano . Fue presidente del Ecuador entre el 10 de agosto de 1988 y el 10 de agosto de 1992.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "273",
+        "name": "Javier Cadena",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Javier_Cadena_en_la_Asamblea_Nacional.jpg/250px-Javier_Cadena_en_la_Asamblea_Nacional.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "Asambleísta de Ecuador (2017-2021)",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "Francisco Javier Cadena Huertas es un político ecuatoriano.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "274",
+        "name": "Cecilia Calderón",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cecilia_Calder%C3%B3n.jpg/250px-Cecilia_Calder%C3%B3n.jpg",
+        "party": "Frente Radical Alfarista (hasta 1996)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 51,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 76,
+        "birthplace": "",
+        "careerStart": "1974",
+        "biography": "Cecilia Calderón Prieto ( Guayaquil , 5 de diciembre de 1949) es una economista y política ecuatoriana , diputada nacional en varios periodos legislativos y líder histórica del extinto partido Frente Radical Alfarista .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "275",
+        "name": "Juan José Casilari y González",
+        "image": "",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "Juan José Casilari y González ( Guayaquil , 1786 - Ibídem , 30 de octubre de 1842) fue un político ecuatoriano , prócer de las acciones libertarias del 9 de octubre de 1820 .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "276",
+        "name": "Luis Chiriboga Acosta",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Luis_Chiriboga_Acosta.jpg/330px-Luis_Chiriboga_Acosta.jpg",
+        "party": "",
+        "province": "chimborazo",
+        "currentPosition": "lavado de dinero",
+        "experience": 54,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 79,
+        "birthplace": "",
+        "careerStart": "1971",
+        "biography": "Luis Chiriboga Acosta ( Riobamba , Chimborazo , Ecuador , 6 de octubre de 1946) es un empresario e ingeniero ecuatoriano . Fue presidente de la Federación Ecuatoriana de Fútbol , cargo que ocupó por casi 18 años, hasta que se le encontró culpable de corrupción, en Estados Unidos y en Ecuador. Se halló involucrado en el Caso de corrupción de la FIFA de 2015 , y ha sido sentenciado por la justicia ecuatoriana. [ 1 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "277",
+        "name": "Mónica Chuji",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/M%C3%B3nica_Chuji_Gualinga.jpg/250px-M%C3%B3nica_Chuji_Gualinga.jpg",
+        "party": "",
+        "province": "pastaza",
+        "currentPosition": "Diputado Nacional del Ecuador",
+        "experience": 27,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 52,
+        "birthplace": "",
+        "careerStart": "1998",
+        "biography": "Mónica Patricia Chuji Gualinga (Comunidad Sarayaku , provincia de Pastaza , 30 de octubre de 1973) es una dirigente indígena ecuatoriana , defensora de los derechos humanos . [ 1 ] ​ [ 2 ] ​ Actualmente es candidata a la Asamblea Nacional por el movimiento Podemos . [ 3 ] ​ [ 4 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "278",
+        "name": "Lourdes Cuesta",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lourdes_Cuesta.jpg/250px-Lourdes_Cuesta.jpg",
+        "party": "Partido Social Cristiano (Independiente)",
+        "province": "azuay",
+        "currentPosition": "",
+        "experience": 24,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 49,
+        "birthplace": "",
+        "careerStart": "2001",
+        "biography": "María de Lourdes Cuesta Orellana ( Cuenca ) es una política ecuatoriana. Ha ejercido el cargo de Asambleísta por la Provincia del Azuay en la Asamblea Nacional , cargo para el cual se ha postulado a la reelección por el Partido Social Cristiano. [ 1 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "279",
+        "name": "Roberto Dunn Barreiro",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 58,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 83,
+        "birthplace": "",
+        "careerStart": "1967",
+        "biography": "Roberto Dunn Barreiro (5 de mayo de 1942, Guayaquil , Ecuador ) [ 1 ] ​ es un político y empresario ecuatoriano . Como parte del grupo Dunn, fue uno de los dueños de la extinta aerolínea Saeta , de la que además fue presidente ejecutivo. [ 2 ] ​ Fundó también varias empresas importadoras, licoreras y de venta de vehículos. [ 3 ] ​ Además, Fue uno de los fundadores de diario Expreso . [ 4 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "280",
+        "name": "Gloria Gallardo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/COMIC_CON_%2843697240722%29_%28cropped%29.jpg/250px-COMIC_CON_%2843697240722%29_%28cropped%29.jpg",
+        "party": "Partido Social Cristiano",
+        "province": "",
+        "currentPosition": "Director",
+        "experience": 53,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 78,
+        "birthplace": "",
+        "careerStart": "1972",
+        "biography": "Gloria Ana Gallardo Zavala es una política ecuatoriana. Nació 3 de marzo de 1947",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "281",
+        "name": "Esperanza Galván",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Asamble%C3%ADsta_Esperanza_Galv%C3%A1n_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_2013-2017_%288740510017%29.jpg/250px-Asamble%C3%ADsta_Esperanza_Galv%C3%A1n_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_2013-2017_%288740510017%29.jpg",
+        "party": "Alianza PAIS",
+        "province": "esmeraldas",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "María Esperanza Galván Gracia es una abogada, socióloga y política de Ecuador . [ 1 ] ​ [ 2 ] ​ Fue asambleísta de la provincia de Esmeraldas por el movimiento oficialista Alianza PAIS , hasta su encarcelamiento en mayo de 2015.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "282",
+        "name": "Susana González Muñoz",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 54,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 79,
+        "birthplace": "",
+        "careerStart": "1971",
+        "biography": "María Susana González Muñoz ( Cuenca , 1946/1947) [ 1 ] ​ es una académica y política ecuatoriana , recordada como la primera mujer en ocupar la presidencia del Congreso Nacional de Ecuador .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "283",
+        "name": "Humberto Guillem",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Asamble%C3%ADsta_Humberto_Guillem_%283078240178%29.jpg/250px-Asamble%C3%ADsta_Humberto_Guillem_%283078240178%29.jpg",
+        "party": "",
+        "province": "manabí",
+        "currentPosition": "",
+        "experience": 58,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 83,
+        "birthplace": "",
+        "careerStart": "1967",
+        "biography": "Humberto Manabí Guillem Murillo ( Portoviejo , 11 de agosto de 1942) es un médico y político ecuatoriano .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "284",
+        "name": "Tania Hermida",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tania_Hermida_at_2012_MIFF.jpg/250px-Tania_Hermida_at_2012_MIFF.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "Asambleísta de Ecuador",
+        "experience": 32,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 57,
+        "birthplace": "",
+        "careerStart": "1993",
+        "biography": "Tania Hermida ( Cuenca , 1968) es una cineasta ecuatoriana. Ha dirigido, producido y escrito guiones para cortometrajes y largometrajes, entre los cuales se encuentran Qué tan lejos y En el nombre de la hija , con reconocimiento internacional. Colaboró para varias producciones con otros cineastas como Sebastián Cordero . También fue Asambleísta Constituyente del Ecuador entre 2007 y 2008.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "285",
+        "name": "Silvana Ibarra",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
+        "party": "Partido Roldosista Ecuatoriano",
+        "province": "",
+        "currentPosition": "",
+        "experience": 41,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 66,
+        "birthplace": "",
+        "careerStart": "1984",
+        "biography": "Silvana Marjorie Ibarra Castillo ( Milagro , 17 de febrero de 1959) [ 2 ] ​ es una cantante y actriz ecuatoriana con más de tres décadas de carrera artística. [ 3 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "286",
+        "name": "Jimmy Jairala",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jimmy_Jairala_2022.jpg/250px-Jimmy_Jairala_2022.jpg",
+        "party": "Partido Roldosista Ecuatoriano (2004-2007) Una Nueva Opción (2009) Centro Democrático (2012-2025)",
+        "province": "guayas",
+        "currentPosition": "",
+        "experience": 43,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 68,
+        "birthplace": "",
+        "careerStart": "1982",
+        "biography": "Jimmy Jairala Vallazza [ 1 ] ​( Guayaquil , 26 de septiembre de 1957) [ 2 ] ​ es un periodista y político ecuatoriano . Se desempeñó como prefecto de la provincia del Guayas [ 3 ] ​ desde 2009 hasta el 19 de diciembre de 2018.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "287",
+        "name": "Mauricio Larrea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 45,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 70,
+        "birthplace": "",
+        "careerStart": "1980",
+        "biography": "Mauricio Ernesto Larrea Andrade ( Quito , 6 de enero de 1955) es un ingeniero civil y político ecuatoriano .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "288",
+        "name": "Jorge Marún",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/J._Mar%C3%BAn_Rodr%C3%ADguez_%28cropped%29.jpg",
+        "party": "Demócrata (1981-1987) Partido Roldosista Ecuatoriano (1987-2005)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 46,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 71,
+        "birthplace": "",
+        "careerStart": "1979",
+        "biography": "Jorge Manuel Marún Rodríguez ( Guayaquil , 9 de marzo de 1954) es un ingeniero civil y político ecuatoriano .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "289",
+        "name": "Eduardo Maruri",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Embsc.jpg/330px-Embsc.jpg",
+        "party": "Una Nueva Opción",
+        "province": "",
+        "currentPosition": "",
+        "experience": 34,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 59,
+        "birthplace": "",
+        "careerStart": "1991",
+        "biography": "Eduardo Maruri Miranda ( Guayaquil , Ecuador 6 de septiembre de 1966) es un empresario ecuatoriano , presidente y fundador de la agencia de publicidad Maruri Grey Ecuador.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "290",
+        "name": "René Maugé",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rene_mauge.jpg/250px-Rene_mauge.jpg",
+        "party": "Partido Comunista (hasta 1997) Izquierda Democrática (1997-2008)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 62,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 87,
+        "birthplace": "",
+        "careerStart": "1963",
+        "biography": "René Maugé Mosquera ( Quito , 16 de enero de 1938) es un abogado y político ecuatoriano que participó como candidato en las elecciones presidenciales de 1978 y de 1984 .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "291",
+        "name": "Heinz Moeller",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Retrato_heinz_moeller_%28cropped%29.jpg/250px-Retrato_heinz_moeller_%28cropped%29.jpg",
+        "party": "Partido Social Cristiano (1990-2000)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 63,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 88,
+        "birthplace": "",
+        "careerStart": "1962",
+        "biography": "Heinz Rodolfo Moeller Freile ( Guayaquil , 18 de noviembre de 1937) [ 1 ] ​ es un abogado y político ecuatoriano que ocupó los cargos de Canciller de la República , Ministro de Gobierno y presidente del Congreso Nacional .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "292",
+        "name": "Oswaldo Molestina",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SESI%C3%93N_DE_LA_COMISI%C3%93N_DE_R%C3%89GIMEN_ECON%C3%93MICO%2C_QUITO%2C_26_DE_NOVIEMBRE_2019.jpg/250px-SESI%C3%93N_DE_LA_COMISI%C3%93N_DE_R%C3%89GIMEN_ECON%C3%93MICO%2C_QUITO%2C_26_DE_NOVIEMBRE_2019.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 54,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 79,
+        "birthplace": "",
+        "careerStart": "1971",
+        "biography": "Oswaldo Molestina Zavala ( Guayaquil , 3 de noviembre de 1946) es un abogado y político ecuatoriano .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "293",
+        "name": "Johanna Moreira",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jnmc.jpg/250px-Jnmc.jpg",
+        "party": "Izquierda Democrática",
+        "province": "",
+        "currentPosition": "",
+        "experience": 5,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 30,
+        "birthplace": "",
+        "careerStart": "2020",
+        "biography": "Johanna Nicole Moreira Córdova es una política y abogada ecuatoriana. Actualmente ocupa el cargo de Cuarta vocal del Consejo de Administración Legislativa [ 1 ] ​ y es integrante de la Comisión Permanente de Justicia y Estructura del Estado [ 2 ] ​ desde el 15 de mayo de 2021. Inició su carrera política en las Elecciones Generales 2021-2025 .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "294",
+        "name": "Antonio Noboa",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Antonio_Noboa.jpg/250px-Antonio_Noboa.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 31,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 56,
+        "birthplace": "",
+        "careerStart": "1994",
+        "biography": "León Antonio Noboa Ycaza ( Guayaquil , 6 de noviembre de 1969) es un empresario ecuatoriano . Más conocido como el Toño , fue Presidente del Barcelona Sporting Club . [ 1 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "295",
+        "name": "Federico Pérez Intriago",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
+        "party": "",
+        "province": "pichincha",
+        "currentPosition": "",
+        "experience": 42,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 67,
+        "birthplace": "",
+        "careerStart": "1983",
+        "biography": "José Federico Pérez Intriago ( Quito , 17 de octubre de 1947) [ 2 ] ​ es un político ecuatoriano , prefecto de la provincia de Pichincha entre 1992 y 1996. [ 3 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "296",
+        "name": "Juan José Pons",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Juan_jose_pons_2022_%28cropped%29.jpg/250px-Juan_jose_pons_2022_%28cropped%29.jpg",
+        "party": "Democracia Popular",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "Juan José Pons Arízaga es un político ecuatoriano que ocupó la presidencia del Congreso Nacional durante la crisis financiera de 1999 .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "297",
+        "name": "Antonio Rodríguez Vicens",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
+        "party": "",
+        "province": "pichincha",
+        "currentPosition": "",
+        "experience": 55,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 80,
+        "birthplace": "",
+        "careerStart": "1970",
+        "biography": "Antonio Rodríguez Vicens ( Quito , 23 de octubre de 1945) es un abogado y político ecuatoriano que ocupó en tres ocasiones el cargo de diputado en representación de Pichincha .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "298",
+        "name": "León Roldós Aguilera",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Leon_Roldos_%28cropped%29.jpg/250px-Leon_Roldos_%28cropped%29.jpg",
+        "party": "Concentración de Fuerzas Populares (hasta 1979) Demócrata (1981-1984) Pueblo, Cambio y Democracia (1984-1988) Partido Socialista Ecuatoriano (desde 1987, hasta años 1990) Red Ética y Democracia (2005-2013)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 58,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 83,
+        "birthplace": "",
+        "careerStart": "1967",
+        "biography": "León Roldós Aguilera ( Guayaquil ; 21 de julio de 1942) [ 1 ] ​ es un abogado y político ecuatoriano que ejerció como Vicepresidente del Ecuador entre el 2 de junio de 1981 y el 10 de agosto de 1984.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "299",
+        "name": "Martha Roldós",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Martha_Roldos_%2812_de_noviembre_de_2008%29.jpg/250px-Martha_Roldos_%2812_de_noviembre_de_2008%29.jpg",
+        "party": "Red Ética y Democracia",
+        "province": "",
+        "currentPosition": "",
+        "experience": 37,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 62,
+        "birthplace": "",
+        "careerStart": "1988",
+        "biography": "Martha Rina Victoria Roldós Bucaram ( Guayaquil , Ecuador ; 1963) es una economista , profesora y política ecuatoriana .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "300",
+        "name": "Fernando Rosero",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 51,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 76,
+        "birthplace": "",
+        "careerStart": "1974",
+        "biography": "Fernando Rosero González ( Guayaquil , 28 de enero de 1949) [ 1 ] ​ es un abogado y político ecuatoriano .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "301",
+        "name": "Milton Salgado",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
+        "party": "",
+        "province": "tungurahua",
+        "currentPosition": "",
+        "experience": 62,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 87,
+        "birthplace": "",
+        "careerStart": "1963",
+        "biography": "Milton Salgado Carrillo ( Ambato , 15 de septiembre de 1938) es un político ecuatoriano. Fue prefecto de Tungurahua , entre 1978 a 1983, y diputado nacional en dos ocasiones no consecutivas.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "302",
+        "name": "Sylka Sánchez",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sylka_Sanchez_Campos.jpg/250px-Sylka_Sanchez_Campos.jpg",
+        "party": "Partido Renovador Institucional Acción Nacional (hasta 2014) Partido Adelante Ecuatoriano Adelante (hasta 2021)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 30,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 55,
+        "birthplace": "",
+        "careerStart": "1995",
+        "biography": "Sylka Estefanía Sánchez Campos ( Guayaquil , 19 de julio de 1970) es una abogada y política ecuatoriana , [ 2 ] ​ [ 3 ] ​ que se ha desempeñado como diputada por el Partido Renovador Institucional Acción Nacional y empresaria en el sector privado. [ 4 ] ​ En 2017 fue candidata a la Asamblea Nacional por el partido político Partido Adelante Ecuatoriano Adelante de Álvaro Noboa . [ 5 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "303",
+        "name": "Roque Sevilla",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Comisi%C3%B3n_de_Biodiversidad_recibe_a_Roque_Sevilla_%284480215156%29.jpg/250px-Comisi%C3%B3n_de_Biodiversidad_recibe_a_Roque_Sevilla_%284480215156%29.jpg",
+        "party": "Democracia Popular",
+        "province": "",
+        "currentPosition": "",
+        "experience": 53,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 78,
+        "birthplace": "",
+        "careerStart": "1972",
+        "biography": "Roque Simón Sevilla Larrea ( Quito , 16 de julio de 1947) es un economista , empresario , ambientalista y político ecuatoriano , es Presidente del \"Grupo Futuro\" que aglutina a varias empresas que van desde Turismo, Seguros, etc. Fue concejal de Quito y entre 1998 y 2000, Alcalde Metropolitano de Quito .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "304",
+        "name": "Fanny Uribe",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Asamble%C3%ADsta%2C_Fanny_Uribe%2C_en_rueda_de_prensa_%289264595010%29.jpg/250px-Asamble%C3%ADsta%2C_Fanny_Uribe%2C_en_rueda_de_prensa_%289264595010%29.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 37,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 62,
+        "birthplace": "",
+        "careerStart": "1988",
+        "biography": "Fanny Esther Uribe López es una bióloga y política ecuatoriana . Es la alcaldesa del cantón Santa Cruz , desde el 14 de mayo de 2023, siendo la primera mujer en la historia del cantón en alcanzar dicho puesto.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "305",
+        "name": "Andrés Vallejo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Andres_Vallejo_Arcos.jpg/250px-Andres_Vallejo_Arcos.jpg",
+        "party": "Izquierda Democrática",
+        "province": "",
+        "currentPosition": "",
+        "experience": 58,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 83,
+        "birthplace": "",
+        "careerStart": "1967",
+        "biography": "Andrés Vallejo Arcos ( Quito , 4 de septiembre de 1942) es un político , diplomático y empresario ecuatoriano , miembro del partido Izquierda Democrática . [ 1 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "306",
+        "name": "Clemente Vásquez",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
+        "party": "",
+        "province": "manabí",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "Carlos Raúl Clemente Vásquez González es un político ecuatoriano, quien fue prefecto de Manabí.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "307",
+        "name": "Hólger Velasteguí",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
+        "party": "Partido Social Cristiano",
+        "province": "santo domingo de los tsáchilas",
+        "currentPosition": "",
+        "experience": 66,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 91,
+        "birthplace": "",
+        "careerStart": "1959",
+        "biography": "Hólger Augusto Velasteguí Domínguez ( Ambato , 30 de diciembre de 1934) es un radiodifusor y político ecuatoriano que ejerció la alcaldía de Santo Domingo de los Colorados entre 1996 y 2000.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "308",
+        "name": "César Verduga",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 56,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 81,
+        "birthplace": "",
+        "careerStart": "1969",
+        "biography": "César Verduga Vélez ( Portoviejo , 26 de junio de 1944) [ 1 ] ​ es un economista y político ecuatoriano que ocupó en dos ocasiones el puesto de Ministro de Gobierno .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "309",
+        "name": "Wilma Andrade",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_DEL_PLENO_776_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_JULIO_DE_2022_%2852227677366%29.jpg/250px-CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_DEL_PLENO_776_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_JULIO_DE_2022_%2852227677366%29.jpg",
+        "party": "Izquierda Democrática",
+        "province": "",
+        "currentPosition": "",
+        "experience": 44,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 69,
+        "birthplace": "",
+        "careerStart": "1981",
+        "biography": "Wilma Piedad Andrade Muñoz ( Quito , 26 de agosto de 1956) es una política ecuatoriana . Fue asambleísta nacional , por el partido Izquierda Democrática ; que presidió entre 2015 y 2020. [ 1 ] ​ [ 2 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "310",
+        "name": "Línea de sucesión presidencial de Ecuador",
+        "image": "",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "La línea de sucesión presidencial de la República del Ecuador define quién podría llegar a convertirse en el presidente del Ecuador en caso de que quien esté al mando no pueda concluir sus funciones dentro del período establecido. Las causas por la cual la Presidencia pueda cambiar de titular de forma definitiva pueden ser por incapacidad física, incapacidad mental, renuncia, abandono del cargo, revocatoria del mandato, muerte o destitución de su cargo por la Asamblea Nacional . [ 1 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "311",
+        "name": "Presidente del Ecuador",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/National_Standard_of_Ecuador.svg/120px-National_Standard_of_Ecuador.svg.png",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "El o la presidente de Ecuador , también denominado presidente constitucional de la República del Ecuador , es el jefe de Estado y gobierno del país sudamericano, ejerciendo la Función Ejecutiva . Es asistido por un vicepresidente y un equipo de colaboradores agrupados en el Gabinete de Ministros, a su vez es el comandante supremo de las Fuerzas Armadas. Su lema es «Mi Poder en la Constitución», frase que aparece desde 1830 en la Banda Presidencial.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "312",
+        "name": "Anexo:Presidentes del Ecuador",
+        "image": "",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "En la siguiente lista se encuentran los jefes de Estado y las juntas de gobierno de la República del Ecuador en orden cronológico desde la fundación e independencia del país que han ejercido de forma plena el gobierno del país. No existe una numeración oficial de los jefes de Estado de Ecuador hasta la presente fecha.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "313",
+        "name": "Junta Militar (Ecuador, 1963)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/60px-Coat_of_arms_of_Ecuador.svg.png",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "La Junta Militar fue el gobierno de facto que gobernó Ecuador entre 1963 y 1966. Sus integrantes fueron: contralmirante Ramón Castro Jijón , general Marcos Gándara Enríquez , general Luis Cabrera Sevilla y coronel Guillermo Freile Posso .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "314",
+        "name": "Rosalía Arteaga",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Conversatorio_Mujeres_en_Negociaciones_Internacionales_%2846589651644%29_%28cropped%29.jpg/250px-Conversatorio_Mujeres_en_Negociaciones_Internacionales_%2846589651644%29_%28cropped%29.jpg",
+        "party": "Partido Social Cristiano (1981-1991) Partido Unidad Republicana (1991-1993) Movimiento MIRA (1996-2000)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 44,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 69,
+        "birthplace": "",
+        "careerStart": "1981",
+        "biography": "Lupe Rosalía Arteaga Serrano ( Cuenca , 5 de diciembre de 1956) es una abogada, activista social, escritora y ex política ecuatoriana . Fue presidenta del Ecuador entre el 9 y el 11 de febrero de 1997. [ 1 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "315",
+        "name": "Elecciones presidenciales de Ecuador de 1947",
+        "image": "",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "Elección vicepresidencial extraordinaria, la cual se realizó durante un Congreso Extraordinario al restablecerse el régimen constitucional luego del Golpe de Estado a José María Velasco Ibarra para escoger al vicepresidente de Mariano Suárez Veintimilla , el cual asumiría la presidencia inmediatamente luego de su posesión al haber presentado su renuncia irrevocable Suárez Veintimilla.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "316",
+        "name": "Luis Leoro Franco",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 66,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 91,
+        "birthplace": "",
+        "careerStart": "1959",
+        "biography": "Luis Leoro Franco ( Ibarra , 11 de enero de 1934) es un teniente general de la Fuerza Aérea Ecuatoriana que fue miembro del triunvirato militar, llamado \" Consejo Supremo de Gobierno \" de Ecuador, que entre 1976 y 1979, ejerció de facto, los poderes del Estado. [ 1 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "317",
+        "name": "Guillermo Rodríguez Lara",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Guillermo_Rodriguez_%28Ecuador%29.jpg/250px-Guillermo_Rodriguez_%28Ecuador%29.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 77,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 102,
+        "birthplace": "",
+        "careerStart": "1948",
+        "biography": "Guillermo Antonio Rodríguez Lara ( Pujilí , 4 de noviembre de 1923) [ 1 ] ​ [ 2 ] ​es un exdictador , militar, político y agricultor ecuatoriano .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "318",
+        "name": "Alcalde (Ecuador)",
+        "image": "",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "El Alcalde Cantonal es el cargo político que se encarga del gobierno en los cantones y ciudades que conforman el Ecuador. Los cantones, 221 distribuidos en las 24 provincias del país, son la segunda subdivisión del Ecuador. Estos son elegido por votación popular y lideran los llamados gobiernos autónomos descentralizados cantonales que actúan de forma independiente al gobierno central. Todas están bajo el mando de un alcalde.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "319",
+        "name": "José Arroyo Cabrera",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 19,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 44,
+        "birthplace": "",
+        "careerStart": "2006",
+        "biography": "José Alcides Arroyo Cabrera ( Pujilí , 12 de enero de 1981) es un diseñador , político y activista LGBT ecuatoriano . Es el alcalde de Pujilí , desde el 14 de mayo de 2023; [ 1 ] ​ convirtiéndose en la primera persona abiertamente LGBT en ser elegida a una alcaldía en la historia del Ecuador. [ 2 ] ​ [ 3 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "320",
+        "name": "Patricio Urrutia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Patricio_Urrutia_%28cropped%29.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "centrocampista",
+        "experience": 23,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 48,
+        "birthplace": "",
+        "careerStart": "2002",
+        "biography": "Patricio Javier Urrutia Espinoza ( Ventanas , 15 de octubre de 1977) es un exfutbolista y entrenador ecuatoriano . Entre sus principales atributos, destacaban la pegada de media distancia, el gran sentido de ubicación y su constante llegada al arco rival. Actualmente dirige al Delfín de la Serie A de Ecuador .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "321",
+        "name": "José Yúnez",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/20px-Flag_of_Ecuador.svg.png",
+        "party": "Partido Social Cristiano Madera de Guerrero",
+        "province": "guayas",
+        "currentPosition": "",
+        "experience": 41,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 66,
+        "birthplace": "",
+        "careerStart": "1984",
+        "biography": "José Miguel Yúnez Parra ( Guayaquil , 8 de enero de 1959) fue el primer alcalde del Cantón Samborondón desde 1996 hasta 2019. Ha sido alcalde durante cinco ocasiones. [ 1 ] ​ siendo electo en las votaciones de 1996, 2000, 2004, 2009 y 2014, [ 2 ] ​ Se desempeñaba como Viceprefecto de la Provincia del Guayas , durante el mandato de Susana González Rosado . [ 3 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "322",
+        "name": "Andrea Arrobo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Minister_of_Energy_Andrea_Arrobo_%28cropped%29.jpg/250px-Minister_of_Energy_Andrea_Arrobo_%28cropped%29.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 11,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 36,
+        "birthplace": "",
+        "careerStart": "2014",
+        "biography": "Andrea Arrobo Peña es una internacionalista ecuatoriana, quien fue ministra de Energía y Minas en el gobierno de Daniel Noboa entre 2023 y 2024 y viceministra de Gobernabilidad durante el gobierno de Guillermo Lasso .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "323",
+        "name": "Pablo Campana",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Opening_plenary_session%2C_11_December_2017_%2824152790667%29_%28cropped%29.jpg/250px-Opening_plenary_session%2C_11_December_2017_%2824152790667%29_%28cropped%29.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 28,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 53,
+        "birthplace": "",
+        "careerStart": "1997",
+        "biography": "Pablo Campana Sáenz ( Quito , 16 de diciembre de 1972) es un empresario y extenista ecuatoriano . Fue ministro de Comercio Exterior e Inversiones . [ 1 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "324",
+        "name": "Nathalie Cely",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nathalie_Cely_1_%28cropped%29.jpg/250px-Nathalie_Cely_1_%28cropped%29.jpg",
+        "party": "Alianza PAÍS",
+        "province": "",
+        "currentPosition": "",
+        "experience": 35,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 60,
+        "birthplace": "",
+        "careerStart": "1990",
+        "biography": "Saskia Nathalie Cely Suárez ( Portoviejo , 28 de diciembre de 1965) es una economista y política ecuatoriana . Se desempeñó como embajadora de Ecuador en Estados Unidos . [ 5 ] ​ [ 6 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "325",
+        "name": "Pilar Cornejo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Maria_del_Pilar_Cornejo.jpg/250px-Maria_del_Pilar_Cornejo.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "María del Pilar Cornejo Rodríguez [ 1 ] ​ ( Guayaquil , 1961) es una científica ecuatoriana , académica universitaria por más de 34 años en la Escuela Superior Politécnica del Litoral (ESPOL). En el 2015 se convirtió en la primera Secretaria Nacional de Gestión de Riesgos de Ecuador, [ 2 ] ​ ex decana de la Facultad de Ingeniería Marítima y Ciencias del Mar durante 2017-2021 y actual directora del Centro Internacional del Pacífico para la Reducción del Riesgo de Desastres desde 2017.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "326",
+        "name": "Danilo Carrera Drouet",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Danilo_Carrera.jpg/250px-Danilo_Carrera.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 62,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 87,
+        "birthplace": "",
+        "careerStart": "1963",
+        "biography": "Danilo Carrera Drouet ( Guayaquil , Ecuador , 13 de octubre de 1938) es un empresario , y dirigente deportivo ecuatoriano ampliamente conocido por ser presidente del Comité Olímpico Ecuatoriano de mayor duración en la historia (1997-2013) y 3 veces presidente de la Federación Ecuatoriana de Tenis . Se graduó de economista en la Universidad de Guayaquil y tiene un postgrado en administración de empresas de la Universidad de Houston , Texas, en Estados Unidos. Fue tesorero de la Confederación Sudamericana de Tenis (1968-1979), presidente del Comité Organizador de los Juegos Deportivos Sudamericanos de Cuenca (1986) y secretario ejecutivo de Odesur (1989-1996).",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
+    },
+    {
+        "id": "327",
+        "name": "Juan Fernando Velasco",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ECUADOR_AQUI_ESTOY_%2826977821375%29.jpg/330px-ECUADOR_AQUI_ESTOY_%2826977821375%29.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "Ministro de Cultura y Patrimonio de Ecuador (2019-2020)",
+        "experience": 28,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 53,
+        "birthplace": "",
+        "careerStart": "1997",
+        "biography": "Juan Fernando Velasco Torres ( Quito , 17 de enero de 1972) es un músico , compositor , cantante , productor y ex político ecuatoriano . Ganador de un Emmy y dos veces nominado a los Latin Grammys . Fue ministro de Cultura y Patrimonio del Ecuador en el gobierno de Lenín Moreno . [ 1 ] ​ [ 2 ] ​",
         "career": [],
         "proposals": [],
         "analysis": {
