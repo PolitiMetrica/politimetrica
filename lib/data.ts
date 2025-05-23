@@ -6,7 +6,7 @@ const politiciansData: Politician[] = [
   {
     "id": "1",
     "name": "Daniel Noboa Azin",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/P._Daniel_Noboa_Azin.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Daniel_Noboa_en_abril_de_2025.jpg",
     "party": "Acción Democrática Nacional, ADN",
     "province": "pichincha",
     "currentPosition": "Presidente de la República",
@@ -98,7 +98,7 @@ const politiciansData: Politician[] = [
   {
     "id": "2",
     "name": "Luisa González Alcívar",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Luisa_Gonz%C3%A1lez_-_2022.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Luisa_Gonz%C3%A1lez_-_2022.jpg",
     "party": "Revolución Ciudadana",
     "province": "manabí",
     "currentPosition": "Asambleísta Nacional",
