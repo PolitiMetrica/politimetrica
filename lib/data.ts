@@ -3,975 +3,696 @@ import { getFirestore, collection, addDoc } from "firebase/firestore"
 
 // Datos de ejemplo para la aplicación
 const politiciansData: Politician[] = [
+
     {
-      "id": "3",
-      "name": "Fernando Aguirre Cordero",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fernando_Aguirre_Cordero.jpg/250px-Fernando_Aguirre_Cordero.jpg",
-      "party": "Partido Social Cristiano",
-      "province": "azuay",
-      "currentPosition": "Presidente provincial del Partido Social Cristiano",
-      "experience": 31,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 55,
-      "birthplace": "Cuenca, provincia de Azuay, Ecuador",
-      "careerStart": "1993",
-      "biography": "Fernando Aguirre Cordero (Cuenca, 5 de noviembre de 1969) es un político ecuatoriano, conocido mayormente en la provincia de Azuay. Desempeñó cargos de elección popular y designación, fue gobernador de su provincia y legislador en dos ocasiones. Es militante y presidente provincial del Partido Social Cristiano.",
-      "career": [{"title":
-        "Gobernador de Azuay (2005)",
-        "organization": "Diputado Nacional del Ecuador por Azuay (2007)",
-        "Asambleísta Nacional del Ecuador (2009-2013)",
-        "Presidente del Consejo de Programación de Obras Emergentes del Austro",
-        "Presidente de la Defensa Civil",
-        "Catedrático de la Universidad Espíritu Santo"
-                 }],
-      "proposals": [
-        "Fortalecimiento de la autonomía provincial",
-        "Desarrollo de infraestructura vial en Azuay",
-        "Promoción de políticas de seguridad ciudadana"
-      ],
-      "analysis": {
+        "id": "3",
+        "name": "Fernando Aguirre Cordero",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fernando_Aguirre_Cordero.jpg/250px-Fernando_Aguirre_Cordero.jpg",
+        "party": "Partido Social Cristiano",
+        "province": "azuay",
+        "currentPosition": "",
+        "experience": 31,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 56,
+        "birthplace": "",
+        "careerStart": "1994",
+        "biography": "Fernando Aguirre Cordero ( Cuenca , 5 de noviembre de 1969) un político ecuatoriano , conocido mayormente en provincia de Azuay , desempeñó cargos de elección popular y designación, fue gobernador de su provincia y legislador dos ocasiones. Es militante y presidente provincial del Partido Social Cristiano .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
         "categories": ["regionalismo", "gestión pública"],
         "detailed": "Figura relevante en Azuay, con experiencia como gobernador y legislador. Su carrera se ha centrado en la gestión pública y el fortalecimiento del Partido Social Cristiano en la provincia.",
         "strengths": ["Amplia experiencia política regional", "Conocido en Azuay", "Liderazgo en el PSC provincial"],
         "weaknesses": ["Poca proyección nacional", "Escasa visibilidad mediática fuera de su provincia"]
-      }
+    }
     },
     {
-      "id": "4",
-      "name": "Marco Aij",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-      "party": "Pachakutik",
-      "province": "morona santiago",
-      "currentPosition": "Director de Desarrollo Social e Intercultural GADMT",
-      "experience": 21,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 51,
-      "birthplace": "Huasaga, Morona Santiago, Ecuador",
-      "careerStart": "2003",
-      "biography": "Marco Aij Sumpinanch Sesinia (Huasaga, 15 de enero de 1973) es un político, dirigente y cantautor achuar ecuatoriano. Fue vicepresidente de la Nación Achuar Ecuatoriana (NAE) entre 2003 y 2006, presidente del GAD parroquial de Huasaga (2014-2019) y actualmente es director de Desarrollo Social e Intercultural del GAD Municipal del Cantón Taisha.",
-      "career": [
-        "Vicepresidente de la Nación Achuar Ecuatoriana (2003-2006)",
-        "Técnico de Selva Tropical NAE (2006-2012)",
-        "Presidente del GAD parroquial de Huasaga (2014-2019)",
-        "Director de Desarrollo Social e Intercultural GADMT (actual)"
-      ],
-      "proposals": [
-        "Defensa de los territorios ancestrales",
-        "Promoción de la cultura achuar",
-        "Desarrollo sostenible en la Amazonía"
-      ],
-      "analysis": {
-        "categories": ["indígena", "gestión local", "cultura"],
-        "detailed": "Líder político y cultural de la nacionalidad Achuar, con experiencia en gestión local y promoción cultural. Destacado también como cantautor amazónico.",
-        "strengths": ["Liderazgo comunitario", "Trayectoria en gestión pública local", "Reconocido en la cultura amazónica"],
-        "weaknesses": ["Poca visibilidad nacional", "Limitada experiencia en cargos nacionales"]
-      }
+        "id": "4",
+        "name": "Marco Aij",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marco_Aij.jpg/250px-Marco_Aij.jpg",
+        "party": "Pachakutik",
+        "province": "",
+        "currentPosition": "",
+        "experience": 8,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 33,
+        "birthplace": "",
+        "careerStart": "2017",
+        "biography": "Marco Aij Sumpinanch Sesinia ( Huasaga , 15 de enero de 1973), conocido también como Marco Aij, es un político , dirigente y cantautor achuar ecuatoriano . Durante el período de 2003 a 2006, desempeñó el cargo de vicepresidente de la NAE ( Nación Achuar Ecuatoriana ). [ 1 ] ​ [ 2 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+        "categories": ["liderazgo indígena", "gestión comunitaria"],
+        "detailed": "Dirigente achuar, ex vicepresidente de la Nación Achuar Ecuatoriana. Ha trabajado en la defensa de los derechos indígenas y la promoción de la cultura achuar.",
+        "strengths": ["Conexión con comunidades indígenas", "Experiencia en liderazgo comunitario"],
+        "weaknesses": ["Poca experiencia en política nacional", "Bajo perfil mediático"]
+    }
     },
     {
-      "id": "5",
-      "name": "Fabián Alarcón",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Fabian_Alarcon.jpg",
-      "party": "Partido Roldosista Ecuatoriano",
-      "province": "pichincha",
-      "currentPosition": "Expresidente de la República del Ecuador",
-      "experience": 40,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 76,
-      "birthplace": "Quito, Ecuador",
-      "careerStart": "1984",
-      "biography": "Fabián Alarcón Rivera (Quito, 14 de abril de 1947) es un político y abogado ecuatoriano. Fue presidente del Congreso Nacional y presidente interino de la República del Ecuador entre 1997 y 1998.",
-      "career": [
-        "Presidente del Congreso Nacional",
-        "Presidente interino de la República del Ecuador (1997-1998)",
-        "Diputado Nacional",
-        "Presidente del Frente Radical Alfarista"
-      ],
-      "proposals": [
-        "Estabilidad política y económica",
-        "Reforma institucional",
-        "Lucha contra la corrupción"
-      ],
-      "analysis": {
-        "categories": ["gobierno", "transición"],
-        "detailed": "Figura clave en la transición política ecuatoriana de los años 90. Su presidencia fue breve pero significativa en la historia reciente del país.",
-        "strengths": ["Experiencia en altos cargos", "Conocido nacionalmente", "Habilidad para negociación política"],
-        "weaknesses": ["Gestión breve como presidente", "Controversias políticas", "Acusaciones de corrupción"]
-      }
+        "id": "5",
+        "name": "Fabián Alarcón",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fabian_Alarcon.jpg/250px-Fabian_Alarcon.jpg",
+        "party": "Frente Radical Alfarista (desde 1988) Demócrata (hasta 1988)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 53,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 78,
+        "birthplace": "",
+        "careerStart": "1972",
+        "biography": "Fabián Ernesto Alarcón Rivera ( Quito , 14 de abril de 1947) [ 1 ] ​ es un abogado y ex político ecuatoriano . Fue presidente interino del Ecuador entre el 11 de febrero de 1997. [ 2 ] ​ y el 10 de agosto de 1998, por designación del Congreso Nacional , tras el derrocamiento de Abdalá Bucaram .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+        "categories": ["transición democrática", "liderazgo institucional"],
+        "detailed": "Presidente interino tras la destitución de Bucaram. Su gestión se centró en estabilizar el país y convocar nuevas elecciones.",
+        "strengths": ["Experiencia en crisis políticas", "Capacidad de diálogo"],
+        "weaknesses": ["Gestión breve y transitoria", "Falta de liderazgo carismático"]
+    }
     },
     {
-      "id": "6",
-      "name": "Alejandro Gallo",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Alejandro_Gallo.png/250px-Alejandro_Gallo.png",
-      "party": "Renovación",
-      "province": "guayas",
-      "currentPosition": "Activista político",
-      "experience": 7,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 32,
-      "birthplace": "Guayaquil, Guayas, Ecuador",
-      "careerStart": "2018",
-      "biography": "Harry Alejandro Gallo Plaza es un político ecuatoriano. Fue candidato a Prefecto del Guayas por la lista 61, Renovación, en 2023. Cursa la carrera de Derecho y ha realizado varios cursos sobre derechos humanos, administración y presupuestos públicos. Fue la primera persona en denunciar públicamente ante la Asamblea Nacional, los actos de corrupción en el gobierno del actual presidente de la República, Guillermo Lasso, referente a la designación de autoridades de control.",
-      "career": [
-        "Candidato a Prefecto del Guayas (2023)",
-        "Activista político y denunciante de corrupción",
-        "Estudiante de Derecho"
-      ],
-      "proposals": [
-        "Transparencia en la gestión pública",
-        "Lucha contra la corrupción",
-        "Fortalecimiento de los mecanismos de control ciudadano"
-      ],
-      "analysis": {
+        "id": "6",
+        "name": "Alejandro Gallo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Alejandro_Gallo.png/250px-Alejandro_Gallo.png",
+        "party": "",
+        "province": "guayas",
+        "currentPosition": "",
+        "experience": 7,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 32,
+        "birthplace": "",
+        "careerStart": "2018",
+        "biography": "Harry Alejandro Gallo Plaza es un político ecuatoriano. Fue candidato a Prefecto del Guayas por la lista 61, Renovación, en 2023. Cursa la carrera de Derecho y ha realizado varios cursos sobre derechos humanos, administración y presupuestos públicos. Fue la primera persona en denunciar públicamente ante la Asamblea Nacional, los actos de corrupción en el gobierno del actual presidente de la República, Guillermo Lasso , referente a la designación de autoridades de control. [ 1 ] ​ [ 2 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
         "categories": ["denuncia de corrupción", "juventud política"],
         "detailed": "Joven político guayasense, conocido por denunciar corrupción en el gobierno de Lasso. Enfocado en derechos humanos y administración pública.",
-        "strengths": ["Valentía para denunciar corrupción", "Formación en derecho y administración", "Imagen de renovación política"],
-        "weaknesses": ["Poca experiencia", "Escasa trayectoria política", "Limitada estructura partidaria"]
-      }
+        "strengths": ["Valentía para denunciar corrupción", "Formación en derecho y administración"],
+        "weaknesses": ["Poca experiencia", "Escasa trayectoria política"]
+    }
     },
     {
-      "id": "7",
-      "name": "Luis Almeida",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Luis_Almeida_Morante.jpg",
-      "party": "Partido Social Cristiano",
-      "province": "guayas",
-      "currentPosition": "Asambleísta Nacional",
-      "experience": 30,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 77,
-      "birthplace": "Guayaquil, Ecuador",
-      "careerStart": "1994",
-      "biography": "Luis Almeida Morante (Guayaquil, 15 de enero de 1947) es un médico y político ecuatoriano. Ha sido diputado y asambleísta nacional en varias ocasiones por el Partido Social Cristiano.",
-      "career": [
-        "Asambleísta Nacional",
-        "Diputado Nacional",
-        "Médico",
-        "Dirigente del Partido Social Cristiano"
-      ],
-      "proposals": [
-        "Reforma del sistema de salud",
-        "Fortalecimiento de la seguridad ciudadana",
-        "Descentralización administrativa"
-      ],
-      "analysis": {
-        "categories": ["salud", "legislativo"],
-        "detailed": "Médico de profesión, con amplia trayectoria legislativa en el Partido Social Cristiano.",
-        "strengths": ["Experiencia legislativa", "Reconocido en Guayas", "Formación médica"],
-        "weaknesses": ["Controversias políticas", "Edad avanzada", "Imagen asociada a la política tradicional"]
-      }
+        "id": "7",
+        "name": "Luis Almeida",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/SESI%C3%93N_NO._770_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_29_DE_MARZO_DEL_2022._%2851968151117%29.jpg/250px-SESI%C3%93N_NO._770_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_29_DE_MARZO_DEL_2022._%2851968151117%29.jpg",
+        "party": "Partido Social Cristiano",
+        "province": "",
+        "currentPosition": "",
+        "experience": 42,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 67,
+        "birthplace": "",
+        "careerStart": "1983",
+        "biography": "Luis Fernando Almeida Morán ( Vinces , 24 de junio de 1958) es un abogado y político ecuatoriano . Ha sido asambleísta y diputado en varios periodos legislativos, además de concejal de Guayaquil .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+        "categories": ["legislativo", "PSC"],
+        "detailed": "Abogado y político con larga trayectoria como asambleísta y concejal de Guayaquil. Figura tradicional del Partido Social Cristiano.",
+        "strengths": ["Experiencia legislativa", "Conocido en Guayaquil"],
+        "weaknesses": ["Asociado a la vieja política", "Poca renovación de ideas"]
+    }
     },
     {
-      "id": "8",
-      "name": "Fernando Alvarado",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-      "party": "Alianza PAIS",
-      "province": "guayas",
-      "currentPosition": "Exministro de Comunicación",
-      "experience": 15,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 56,
-      "birthplace": "Guayaquil, Ecuador",
-      "careerStart": "2007",
-      "biography": "Fernando Alvarado Espinel (Guayaquil, 1968) es un periodista y político ecuatoriano. Fue ministro de Turismo y de Comunicación durante el gobierno de Rafael Correa.",
-      "career": [
-        "Ministro de Turismo (2013-2014)",
-        "Ministro de Comunicación (2007-2013, 2014-2016)",
-        "Secretario de Comunicación de la Presidencia",
-        "Periodista"
-      ],
-      "proposals": [
-        "Fortalecimiento de la comunicación gubernamental",
-        "Promoción turística del Ecuador",
-        "Regulación de medios de comunicación"
-      ],
-      "analysis": {
-        "categories": ["comunicación", "gobierno"],
-        "detailed": "Figura clave en la comunicación gubernamental durante el correísmo.",
-        "strengths": ["Experiencia en comunicación", "Cercano al poder ejecutivo", "Conocimiento del sector turístico"],
-        "weaknesses": ["Procesos judiciales", "Controversias públicas", "Asociación con el régimen de Correa"]
-      }
+        "id": "8",
+        "name": "Fernando Alvarado",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Fernando_Alvarado_Secretario_de_Comunicaci%C3%B3n_de_la_Presidencia_en_entrevista_en_la_Radio_de_la_Asamblea_Nacional_%286026095193%29.jpg/250px-Fernando_Alvarado_Secretario_de_Comunicaci%C3%B3n_de_la_Presidencia_en_entrevista_en_la_Radio_de_la_Asamblea_Nacional_%286026095193%29.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "Fernando Alvarado Espinel es un político ecuatoriano que se desempeñó como Secretario Nacional de Comunicación y Ministro de Turismo y Secretario de la Administración durante la presidencia de Rafael Correa .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+        "categories": ["comunicación política", "correísmo"],
+        "detailed": "Ex Secretario de Comunicación y Ministro de Turismo durante el correísmo. Su gestión estuvo marcada por el control mediático y la promoción de la imagen del gobierno.",
+        "strengths": ["Experiencia en comunicación estatal", "Cercanía al poder ejecutivo"],
+        "weaknesses": ["Vinculado a escándalos de corrupción", "Fuerte rechazo de sectores opositores"]
+    }
     },
     {
-      "id": "9",
-      "name": "Harry Álvarez",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-      "party": "Partido Roldosista Ecuatoriano",
-      "province": "el oro",
-      "currentPosition": "Exalcalde de Machala",
-      "experience": 35,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 75,
-      "birthplace": "Machala, El Oro, Ecuador",
-      "careerStart": "1988",
-      "biography": "Harry Abdón Álvarez García es un abogado y político ecuatoriano que ocupó la alcaldía de Machala entre 1988 y 1992.",
-      "career": [
-        "Alcalde de Machala (1988-1992)",
-        "Abogado",
-        "Dirigente del Partido Roldosista Ecuatoriano en El Oro"
-      ],
-      "proposals": [
-        "Desarrollo urbano de Machala",
-        "Mejoras en servicios municipales",
-        "Infraestructura vial"
-      ],
-      "analysis": {
+        "id": "9",
+        "name": "Harry Álvarez",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "Harry Abdón Álvarez García es un abogado y político ecuatoriano que ocupó la alcaldía de Machala entre 1988 y 1992. [ 1 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
         "categories": ["gobierno local"],
-        "detailed": "Exalcalde de Machala, centró su gestión en el desarrollo urbano y la administración municipal.",
-        "strengths": ["Experiencia en gestión local", "Conocimiento de la realidad orense", "Formación jurídica"],
-        "weaknesses": ["Poca proyección nacional", "Gestión municipal antigua", "Limitada influencia actual"]
-      }
+        "detailed": "Ex alcalde de Machala. Su gestión se centró en el desarrollo urbano y la administración municipal.",
+        "strengths": ["Experiencia en gestión local"],
+        "weaknesses": ["Poca proyección nacional"]
+    }
     },
     {
-      "id": "10",
-      "name": "Luis Andrade Galindo",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-      "party": "Izquierda Democrática",
-      "province": "imbabura",
-      "currentPosition": "Exalcalde de Cotacachi",
-      "experience": 60,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 80,
-      "birthplace": "Cotacachi, Imbabura, Ecuador",
-      "careerStart": "1965",
-      "biography": "Luis Aníbal Andrade Galindo (Cotacachi, 1943/1944) es un abogado y político ecuatoriano.",
-      "career": [
-        "Alcalde de Cotacachi",
-        "Abogado",
-        "Dirigente de Izquierda Democrática en Imbabura"
-      ],
-      "proposals": [
-        "Desarrollo local",
-        "Defensa de los derechos indígenas",
-        "Mejoramiento de servicios básicos"
-      ],
-      "analysis": {
+        "id": "10",
+        "name": "Luis Andrade Galindo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 60,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 85,
+        "birthplace": "",
+        "careerStart": "1965",
+        "biography": "Luis Aníbal Andrade Galindo ( Cotacachi , [ 1 ] ​ 1943/1944) [ 2 ] ​ es un abogado y político ecuatoriano .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
         "categories": ["derecho", "política provincial"],
         "detailed": "Abogado y político con amplia trayectoria en Cotacachi e Imbabura.",
-        "strengths": ["Experiencia jurídica", "Conocimiento de la realidad local", "Respeto en comunidades indígenas"],
-        "weaknesses": ["Bajo perfil nacional", "Edad avanzada", "Limitada influencia actual"]
-      }
+        "strengths": ["Experiencia jurídica"],
+        "weaknesses": ["Bajo perfil nacional"]
+    }
     },
     {
-      "id": "11",
-      "name": "Trajano Andrade",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Trajano_Andrade_%2812_de_noviembre_de_2008%29.jpg/250px-Trajano_Andrade_%2812_de_noviembre_de_2008%29.jpg",
-      "party": "Alianza PAIS",
-      "province": "manabí",
-      "currentPosition": "Diputado Nacional del Ecuador",
-      "experience": 51,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 76,
-      "birthplace": "Manta, Manabí, Ecuador",
-      "careerStart": "1974",
-      "biography": "Trajano Roberto Andrade Viteri (Manta, 22 de noviembre de 1949) es un abogado y político de Ecuador que ha ocupado varios cargos públicos.",
-      "career": [
-        "Diputado Nacional del Ecuador",
-        "Ministro de Transporte y Obras Públicas (2013-2016)",
-        "Asambleísta por Manabí",
-        "Abogado"
-      ],
-      "proposals": [
-        "Desarrollo de infraestructura vial",
-        "Reconstrucción de Manabí post-terremoto",
-        "Descentralización administrativa"
-      ],
-      "analysis": {
+        "id": "11",
+        "name": "Trajano Andrade",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Trajano_Andrade_%2812_de_noviembre_de_2008%29.jpg/250px-Trajano_Andrade_%2812_de_noviembre_de_2008%29.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "Diputado Nacional del Ecuador",
+        "experience": 51,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 76,
+        "birthplace": "",
+        "careerStart": "1974",
+        "biography": "Trajano Roberto Andrade Viteri ( Manta , 22 de noviembre de 1949) [ 1 ] ​ es un abogado y político de Ecuador que ha ocupado varios cargos públicos.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
         "categories": ["legislativo", "derecho"],
         "detailed": "Abogado y político, diputado nacional con experiencia en cargos públicos.",
-        "strengths": ["Experiencia legislativa", "Conocimiento en obras públicas", "Influencia en Manabí"],
-        "weaknesses": ["Poca notoriedad fuera de su provincia", "Edad avanzada", "Controversias políticas"]
-      }
+        "strengths": ["Experiencia legislativa"],
+        "weaknesses": ["Poca notoriedad fuera de su provincia"]
+    }
     },
     {
-      "id": "12",
-      "name": "Alberto Anrango",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
-      "party": "Pachakutik",
-      "province": "imbabura",
-      "currentPosition": "Exalcalde de Cotacachi (2009-2014)",
-      "experience": 53,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 78,
-      "birthplace": "Cotacachi, Imbabura, Ecuador",
-      "careerStart": "1972",
-      "biography": "Luis Alberto Anrango Bonilla (31 de marzo de 1947 en Cotacachi, Provincia de Imbabura) es un dirigente indígena, maestro y político ecuatoriano de nacionalidad kichwa. Fue alcalde del municipio de Cotacachi.",
-      "career": [
-        "Alcalde de Cotacachi (2009-2014)",
-        "Dirigente indígena",
-        "Maestro",
-        "Activista por los derechos indígenas"
-      ],
-      "proposals": [
-        "Fortalecimiento de la identidad cultural kichwa",
-        "Desarrollo local con enfoque intercultural",
-        "Educación bilingüe"
-      ],
-      "analysis": {
+        "id": "12",
+        "name": "Alberto Anrango",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
+        "party": "",
+        "province": "imbabura",
+        "currentPosition": "Alcalde (2009-2014)",
+        "experience": 53,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 78,
+        "birthplace": "",
+        "careerStart": "1972",
+        "biography": "Luis Alberto Anrango Bonilla (* 31 de marzo de 1947 en Cotacachi , Provincia de Imbabura ) es un dirigente indígena , maestro y político ecuatoriano de nacionalidad kichwa . Actualmente es alcalde del municipio de Cotacachi .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
         "categories": ["liderazgo indígena", "gobierno local"],
         "detailed": "Dirigente kichwa y ex alcalde de Cotacachi. Ha trabajado por la inclusión y derechos indígenas.",
-        "strengths": ["Liderazgo comunitario", "Experiencia en gestión local", "Respeto en comunidades indígenas"],
-        "weaknesses": ["Poca visibilidad nacional", "Limitada proyección fuera de Imbabura", "Edad avanzada"]
-      }
+        "strengths": ["Liderazgo comunitario", "Experiencia en gestión local"],
+        "weaknesses": ["Poca visibilidad nacional"]
+    }
     },
     {
-      "id": "13",
-      "name": "Jorge Añazco",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-      "party": "Frente Radical Alfarista",
-      "province": "loja",
-      "currentPosition": "Exmilitar y exprefecto de Sucumbíos",
-      "experience": 45,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 80,
-      "birthplace": "Loja, Ecuador",
-      "careerStart": "1980",
-      "biography": "Jorge Añazco Castillo (Loja) fue un militar y político ecuatoriano, primer prefecto provincial de Sucumbíos y uno de los fundadores de la ciudad de Nueva Loja.",
-      "career": [
-        "Prefecto provincial de Sucumbíos",
-        "Militar",
-        "Fundador de Nueva Loja",
-        "Dirigente del Frente Radical Alfarista"
-      ],
-      "proposals": [
-        "Desarrollo de la Amazonía ecuatoriana",
-        "Fortalecimiento de la presencia estatal en zonas fronterizas",
-        "Infraestructura básica para Sucumbíos"
-      ],
-      "analysis": {
-        "categories": ["militar", "desarrollo amazónico"],
-        "detailed": "Militar y político pionero en el desarrollo de Sucumbíos y la Amazonía ecuatoriana.",
-        "strengths": ["Experiencia en administración territorial", "Conocimiento de la realidad amazónica", "Liderazgo"],
-        "weaknesses": ["Edad avanzada", "Limitada influencia actual", "Poca visibilidad nacional"]
-      }
+        "id": "13",
+        "name": "Jorge Añazco",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
+        "party": "Frente Radical Alfarista",
+        "province": "loja",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "Jorge Añazco Castillo ( Loja ) [ 1 ] ​ fue un militar y político ecuatoriano , primer prefecto provincial de Sucumbíos y uno de los fundadores de la ciudad de Nueva Loja .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "14",
-      "name": "Andrés Arauz",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Andr%C3%A9s_Arauz_%28cropped%29.jpg/250px-Andr%C3%A9s_Arauz_%28cropped%29.jpg",
-      "party": "Revolución Ciudadana",
-      "province": "pichincha",
-      "currentPosition": "Exministro, excandidato presidencial",
-      "experience": 15,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 39,
-      "birthplace": "Quito, Pichincha, Ecuador",
-      "careerStart": "2010",
-      "biography": "Andrés David Arauz Galarza (Quito, 6 de febrero de 1985) es un político y economista ecuatoriano. Fue ministro coordinador de Conocimiento y Talento Humano entre 2015 y 2017, y candidato presidencial en 2021.",
-      "career": [
-        "Ministro coordinador de Conocimiento y Talento Humano (2015-2017)",
-        "Candidato presidencial (2021)",
-        "Director del Banco Central del Ecuador",
-        "Economista"
-      ],
-      "proposals": [
-        "Reactivación económica",
-        "Defensa de la educación pública",
-        "Soberanía tecnológica",
-        "Renegociación de la deuda externa"
-      ],
-      "analysis": {
-        "categories": ["economía", "educación", "tecnología"],
-        "detailed": "Economista joven, referente del correísmo, con propuestas de innovación y desarrollo.",
-        "strengths": ["Formación académica", "Experiencia en gestión pública", "Juventud", "Conocimiento económico"],
-        "weaknesses": ["Asociación con el correísmo", "Falta de experiencia ejecutiva", "Polarización que genera"]
-      }
+        "id": "14",
+        "name": "Andrés Arauz",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Andr%C3%A9s_Arauz_%28cropped%29.jpg/250px-Andr%C3%A9s_Arauz_%28cropped%29.jpg",
+        "party": "Revolución Ciudadana (desde 2018)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 15,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 40,
+        "birthplace": "",
+        "careerStart": "2010",
+        "biography": "Andrés David Arauz Galarza ( Quito , 6 de febrero de 1985) es un político y economista ecuatoriano . Fue ministro coordinador de Conocimiento y Talento Humano entre marzo de 2015 y mayo de 2017, durante el gobierno de Rafael Correa . [ 3 ] ​ En 2018, tras la ruptura en Alianza PAIS entre Lenín Moreno y Correa, Arauz se mantiene firme al Revolución Ciudadana (RC). En las elecciones presidenciales de 2021 , fue el candidato de la coalición Unión por la Esperanza , plataforma ploítica con la que la RC participó en aquellos comicios. En la primera vuelta, obtuvo el primer lugar, con el 32,72% de votos; no obstante, en el balotaje fue derrotado por Guillermo Lasso , al solo lograr 47,64% de la votación. [ 4 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "15",
-      "name": "Geovanni Atarihuana",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Atarihuana.jpg/250px-Atarihuana.jpg",
-      "party": "Unidad Popular",
-      "province": "pichincha",
-      "currentPosition": "Director Nacional de Unidad Popular",
-      "experience": 28,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 53,
-      "birthplace": "Quito, Pichincha, Ecuador",
-      "careerStart": "1997",
-      "biography": "Geovanni Javier Atarihuana Ayala (Quito, 6 de junio de 1972) es un sociólogo, político y exdirigente estudiantil ecuatoriano que ha llegado a asumir cargos como el de vicepresidente del Tribunal Supremo Electoral (TSE), época en la que fue el vocal más joven de la historia del organismo electoral. Actualmente se desempeña como director nacional de Unidad Popular (UP).",
-      "career": [
-        "Director Nacional de Unidad Popular",
-        "Vicepresidente del Tribunal Supremo Electoral",
-        "Dirigente estudiantil",
-        "Sociólogo"
-      ],
-      "proposals": [
-        "Reforma del sistema electoral",
-        "Fortalecimiento de la izquierda ecuatoriana",
-        "Educación pública de calidad",
-        "Derechos laborales"
-      ],
-      "analysis": {
-        "categories": ["izquierda", "electoral"],
-        "detailed": "Dirigente de izquierda con trayectoria en el ámbito electoral y la organización política.",
-        "strengths": ["Experiencia en organización política", "Conocimiento del sistema electoral", "Formación académica"],
-        "weaknesses": ["Limitada proyección nacional", "Partido con apoyo electoral reducido", "Polarización ideológica"]
-      }
+        "id": "15",
+        "name": "Geovanni Atarihuana",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Atarihuana.jpg/250px-Atarihuana.jpg",
+        "party": "Movimiento Popular Democrático (desde años 1980, hasta 2014) Unidad Popular (desde 2014)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 28,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 53,
+        "birthplace": "",
+        "careerStart": "1997",
+        "biography": "Geovanni Javier Atarihuana Ayala ( Quito , 6 de junio de 1972) es un sociólogo , político y exdirigente estudiantil ecuatoriano que ha llegado a asumir cargos como el de vicepresidente del Tribunal Supremo Electoral (TSE), época en la que fue el vocal más joven de la historia del organismo electoral. [ 1 ] ​ Actualmente se desempeña como director nacional de Unidad Popular (UP), consiguiendo la inscripción de este movimiento en reemplazo del Movimiento Popular Democrático (MPD).",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "16",
-      "name": "Raúl Auquilla",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Raul_Auquilla_%28detalle%29.jpg/250px-Raul_Auquilla_%28detalle%29.jpg",
-      "party": "Partido Social Cristiano",
-      "province": "loja",
-      "currentPosition": "Exprefecto de Loja",
-      "experience": 48,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 73,
-      "birthplace": "Sígsig, Azuay, Ecuador",
-      "careerStart": "1977",
-      "biography": "Raúl Vicente Auquilla Ortega (Sígsig, 8 de septiembre de 1952) en un ingeniero y político ecuatoriano que ocupó la prefectura de la provincia de Loja durante dos periodos consecutivos.",
-      "career": [
-        "Prefecto de Loja (dos períodos)",
-        "Asambleísta Nacional",
-        "Ingeniero",
-        "Dirigente del PSC en Loja"
-      ],
-      "proposals": [
-        "Desarrollo vial de Loja",
-        "Descentralización administrativa",
-        "Fortalecimiento de la producción agrícola",
-        "Turismo sostenible"
-      ],
-      "analysis": {
-        "categories": ["desarrollo local", "infraestructura"],
-        "detailed": "Político con amplia experiencia en la administración provincial de Loja y conocimiento técnico como ingeniero.",
-        "strengths": ["Experiencia en gestión provincial", "Conocimiento técnico", "Arraigo en Loja"],
-        "weaknesses": ["Edad avanzada", "Cambios de afiliación política", "Limitada proyección nacional"]
-      }
+        "id": "16",
+        "name": "Raúl Auquilla",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Raul_Auquilla_%28detalle%29.jpg/250px-Raul_Auquilla_%28detalle%29.jpg",
+        "party": "Movimiento CREO (2013-2018) Partido Social Cristiano (desde 2018)",
+        "province": "loja",
+        "currentPosition": "",
+        "experience": 48,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 73,
+        "birthplace": "",
+        "careerStart": "1977",
+        "biography": "Raúl Vicente Auquilla Ortega ( Sígsig , 8 de septiembre de 1952) [ 3 ] ​ en un ingeniero y político ecuatoriano que ocupó la prefectura de la provincia de Loja durante dos periodos consecutivos.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "17",
-      "name": "Eliseo Azuero",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Eliseo_Azuero_%28detalle%29.png/250px-Eliseo_Azuero_%28detalle%29.png",
-      "party": "Izquierda Democrática",
-      "province": "sucumbíos",
-      "currentPosition": "Exprefecto de Sucumbíos",
-      "experience": 40,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 75,
-      "birthplace": "Sucumbíos, Ecuador",
-      "careerStart": "1985",
-      "biography": "Alexis Eliseo Azuero Rodas es un político ecuatoriano que ocupó la prefectura de Sucumbíos entre 1992 y 1998.",
-      "career": [
-        "Prefecto de Sucumbíos (1992-1998)",
-        "Asambleísta Nacional",
-        "Dirigente político en Sucumbíos"
-      ],
-      "proposals": [
-        "Desarrollo de la Amazonía ecuatoriana",
-        "Protección ambiental",
-        "Infraestructura básica para Sucumbíos",
-        "Derechos de comunidades amazónicas"
-      ],
-      "analysis": {
-        "categories": ["desarrollo amazónico", "administración local"],
-        "detailed": "Político con experiencia en la administración de Sucumbíos y defensa de los intereses amazónicos.",
-        "strengths": ["Conocimiento de la realidad amazónica", "Experiencia administrativa", "Trayectoria política"],
-        "weaknesses": ["Controversias legales", "Cambios de afiliación política", "Imagen cuestionada"]
-      }
+        "id": "17",
+        "name": "Eliseo Azuero",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Eliseo_Azuero_%28detalle%29.png/250px-Eliseo_Azuero_%28detalle%29.png",
+        "party": "Democracia Popular (hasta 2000) Partido Renovador Institucional Acción Nacional (2004-2007) Izquierda Democrática (2016-2017)",
+        "province": "sucumbíos",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "Alexis Eliseo Azuero Rodas es un político ecuatoriano que ocupó la prefectura de Sucumbíos entre 1992 y 1998. [ 2 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "18",
-      "name": "Carlos Baca Mancheno",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/FISCAL_GENERAL_-_CARLOS_BACA_MANCHENO_%2825627881627%29.jpg/250px-FISCAL_GENERAL_-_CARLOS_BACA_MANCHENO_%2825627881627%29.jpg",
-      "party": "Alianza PAIS",
-      "province": "cotopaxi",
-      "currentPosition": "Exfiscal General del Estado",
-      "experience": 30,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 55,
-      "birthplace": "Latacunga, Cotopaxi, Ecuador",
-      "careerStart": "1995",
-      "biography": "Carlos Bladimir Baca Mancheno (Latacunga, 10 de noviembre de 1970) es un abogado, jurista, catedrático de universidad y político ecuatoriano que ha desempeñado varios cargos públicos.",
-      "career": [
-        "Fiscal General del Estado (2017-2018)",
-        "Secretario Jurídico de la Presidencia",
-        "Catedrático universitario",
-        "Abogado"
-      ],
-      "proposals": [
-        "Reforma del sistema judicial",
-        "Lucha contra la corrupción",
-        "Fortalecimiento de la Fiscalía",
-        "Independencia judicial"
-      ],
-      "analysis": {
-        "categories": ["justicia", "derecho"],
-        "detailed": "Jurista con experiencia en la administración de justicia y la academia, marcado por su paso por la Fiscalía General.",
-        "strengths": ["Formación jurídica", "Experiencia en el sistema judicial", "Capacidad técnica"],
-        "weaknesses": ["Controversias políticas", "Asociación con el correísmo", "Destitución de la Fiscalía"]
-      }
+        "id": "18",
+        "name": "Carlos Baca Mancheno",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/FISCAL_GENERAL_-_CARLOS_BACA_MANCHENO_%2825627881627%29.jpg/250px-FISCAL_GENERAL_-_CARLOS_BACA_MANCHENO_%2825627881627%29.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 30,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 55,
+        "birthplace": "",
+        "careerStart": "1995",
+        "biography": "Carlos Bladimir Baca Mancheno ( Latacunga , 10 de noviembre de 1970) es un abogado , jurista , catedrático de universidad y político ecuatoriano que ha desempeñado varios cargos públicos.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "19",
-      "name": "Fernando Balda",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/14_de_marzo_de_2018_-_Comisi%C3%B3n_de_Participaci%C3%B3n_Ciudadana_%2840814705641%29_%28cropped%29.jpg/250px-14_de_marzo_de_2018_-_Comisi%C3%B3n_de_Participaci%C3%B3n_Ciudadana_%2840814705641%29_%28cropped%29.jpg",
-      "party": "Gran Acuerdo Nacional",
-      "province": "guayas",
-      "currentPosition": "Diputado Nacional del Ecuador",
-      "experience": 29,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 54,
-      "birthplace": "Guayaquil, Guayas, Ecuador",
-      "careerStart": "1996",
-      "biography": "Fernando Marcelo Balda Flores (Guayaquil, 3 de agosto de 1971) es un político ecuatoriano conocido por haber cometido supuestas injurias contra Rafael Correa y cercanos a él, sin embargo, en 2018 sigue un juicio contra del exmandatario por un supuesto secuestro en Bogotá en 2012 para ser deportado a Ecuador.",
-      "career": [
-        "Diputado Nacional del Ecuador",
-        "Dirigente político",
-        "Activista contra el correísmo"
-      ],
-      "proposals": [
-        "Lucha contra la corrupción",
-        "Investigación de casos del gobierno de Correa",
-        "Fortalecimiento de la democracia",
-        "Libertad de expresión"
-      ],
-      "analysis": {
-        "categories": ["oposición", "anticorreísmo"],
-        "detailed": "Político conocido por su oposición al gobierno de Rafael Correa y el caso de su presunto secuestro en Colombia.",
-        "strengths": ["Visibilidad mediática", "Persistencia en denuncias", "Reconocimiento internacional"],
-        "weaknesses": ["Polarización política", "Cambios de afiliación partidaria", "Controversias personales"]
-      }
+        "id": "19",
+        "name": "Fernando Balda",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/14_de_marzo_de_2018_-_Comisi%C3%B3n_de_Participaci%C3%B3n_Ciudadana_%2840814705641%29_%28cropped%29.jpg/250px-14_de_marzo_de_2018_-_Comisi%C3%B3n_de_Participaci%C3%B3n_Ciudadana_%2840814705641%29_%28cropped%29.jpg",
+        "party": "Alianza PAÍS (2006-2008) Partido Sociedad Patriótica (2008-2016) Gran Acuerdo Nacional (desde 2016) Libertad es Pueblo (2019-2021)",
+        "province": "",
+        "currentPosition": "Diputado Nacional del Ecuador",
+        "experience": 29,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 54,
+        "birthplace": "",
+        "careerStart": "1996",
+        "biography": "Fernando Marcelo Balda Flores ( Guayaquil , 3 de agosto de 1971) es un político ecuatoriano conocido por haber cometido supuestas injurias contra Rafael Correa y cercanos a él, sin embargo, en 2018 sigue un juicio contra del exmandatario por un supuesto secuestro en Bogotá en 2012 para ser deportado a Ecuador. [ 1 ] ​ [ 2 ] ​ [ 3 ] ​ En julio de 2018 Ecuador pidió la extradición de Correa desde Bélgica , siendo su juicio el primero que ha logrado esto contra el exmandatario. [ 4 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "20",
-      "name": "Polo Baquerizo",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/POLO_BAQUERIZO.jpg/250px-POLO_BAQUERIZO.jpg",
-      "party": "Partido Social Cristiano",
-      "province": "guayas",
-      "currentPosition": "Concejal de Guayaquil",
-      "experience": 45,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 70,
-      "birthplace": "Guayaquil, Guayas, Ecuador",
-      "careerStart": "1980",
-      "biography": "Leopoldo Bechara Ottón Eloy Osvaldo Baquerizo Adum, más conocido como Polo Baquerizo (Guayaquil, 23 de marzo de 1955) es un periodista, conductor de televisión y político ecuatoriano. Fue conductor del programa concurso Haga Negocio Conmigo, desde sus inicios. Se desempeña como concejal del municipio de Guayaquil, desde el año 2003.",
-      "career": [
-        "Concejal de Guayaquil (desde 2003)",
-        "Conductor de televisión",
-        "Periodista",
-        "Dirigente del PSC en Guayas"
-      ],
-      "proposals": [
-        "Desarrollo urbano de Guayaquil",
-        "Promoción cultural y turística",
-        "Seguridad ciudadana",
-        "Regeneración urbana"
-      ],
-      "analysis": {
-        "categories": ["comunicación", "política municipal"],
-        "detailed": "Figura mediática y política de Guayaquil, con larga trayectoria como concejal y presencia en medios de comunicación.",
-        "strengths": ["Popularidad mediática", "Experiencia municipal", "Carisma", "Reconocimiento en Guayaquil"],
-        "weaknesses": ["Limitada proyección nacional", "Imagen asociada al entretenimiento", "Poca profundidad política"]
-      }
+        "id": "20",
+        "name": "Polo Baquerizo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/POLO_BAQUERIZO.jpg/250px-POLO_BAQUERIZO.jpg",
+        "party": "Partido Social Cristiano",
+        "province": "",
+        "currentPosition": "",
+        "experience": 45,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 70,
+        "birthplace": "",
+        "careerStart": "1980",
+        "biography": "Leopoldo Bechara Ottón Eloy Osvaldo Baquerizo Adum [ 4 ] ​ ( Guayaquil , 23 de marzo de 1955) [ 1 ] ​ más conocido como Polo Baquerizo , es un periodista , conductor de televisión y político ecuatoriano . [ 5 ] ​ Fue conductor del programa concurso Haga Negocio Conmigo , desde sus inicios. Se desempeña como concejal del municipio de Guayaquil , desde el año 2003. [ 6 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "21",
-      "name": "Gustavo Baroja",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gustavo_Baroja.jpg/250px-Gustavo_Baroja.jpg",
-      "party": "Movimiento MOVER",
-      "province": "pichincha",
-      "currentPosition": "Exprefecto de Pichincha",
-      "experience": 47,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 72,
-      "birthplace": "Cotacachi, Imbabura, Ecuador",
-      "careerStart": "1978",
-      "biography": "Milton Gustavo Baroja Narváez (Cotacachi, 1 de noviembre de 1953) es un economista y político ecuatoriano, prefecto provincial de Pichincha entre 2006 y 2019.",
-      "career": [
-        "Prefecto de Pichincha (2006-2019)",
-        "Economista",
-        "Dirigente político",
-        "Funcionario público"
-      ],
-      "proposals": [
-        "Desarrollo vial de Pichincha",
-        "Descentralización administrativa",
-        "Apoyo a la producción agrícola",
-        "Protección ambiental"
-      ],
-      "analysis": {
-        "categories": ["administración provincial", "desarrollo local"],
-        "detailed": "Político con amplia experiencia en la administración provincial de Pichincha y formación económica.",
-        "strengths": ["Experiencia administrativa", "Conocimiento de Pichincha", "Formación económica", "Gestión de obras públicas"],
-        "weaknesses": ["Edad avanzada", "Cambios de afiliación política", "Imagen asociada al correísmo"]
-      }
+        "id": "21",
+        "name": "Gustavo Baroja",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gustavo_Baroja.jpg/250px-Gustavo_Baroja.jpg",
+        "party": "Izquierda Democrática (hasta 2008) Alianza PAÍS (2008-2021) Movimiento MOVER (desde 2021)",
+        "province": "pichincha",
+        "currentPosition": "",
+        "experience": 47,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 72,
+        "birthplace": "",
+        "careerStart": "1978",
+        "biography": "Milton Gustavo Baroja Narváez ( Cotacachi , 1 de noviembre de 1953) [ 2 ] ​ es un economista y político ecuatoriano , prefecto provincial de Pichincha entre 2006 y 2019.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "22",
-      "name": "Samuel Bellettini",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Samuel_belletini_%28cropped%29.jpg/250px-Samuel_belletini_%28cropped%29.jpg",
-      "party": "Partido Roldosista Ecuatoriano",
-      "province": "manabí",
-      "currentPosition": "Expresidente del Congreso Nacional",
-      "experience": 45,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 80,
-      "birthplace": "Bahía de Caráquez, Manabí, Ecuador",
-      "careerStart": "1980",
-      "biography": "Samuel Umberto Bellettini Zedeño (Bahía de Caráquez) es un político ecuatoriano que ocupó la presidencia del Congreso Nacional entre 1993 y 1994.",
-      "career": [
-        "Presidente del Congreso Nacional (1993-1994)",
-        "Diputado Nacional",
-        "Dirigente del PRE en Manabí"
-      ],
-      "proposals": [
-        "Reforma legislativa",
-        "Desarrollo de Manabí",
-        "Descentralización administrativa",
-        "Apoyo al sector pesquero"
-      ],
-      "analysis": {
-        "categories": ["legislativo", "política regional"],
-        "detailed": "Político manabita con experiencia legislativa y liderazgo en el Congreso Nacional durante los años 90.",
-        "strengths": ["Experiencia legislativa", "Liderazgo político", "Conocimiento de Manabí"],
-        "weaknesses": ["Edad avanzada", "Limitada influencia actual", "Asociación con el roldosismo"]
-      }
+        "id": "22",
+        "name": "Samuel Bellettini",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Samuel_belletini_%28cropped%29.jpg/250px-Samuel_belletini_%28cropped%29.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "Samuel Umberto Bellettini Zedeño ( Bahía de Caráquez , ?) [ 1 ] ​ es un político ecuatoriano que ocupó la presidencia del Congreso Nacional entre 1993 y 1994.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "23",
-      "name": "Geovanny Benítez",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/SESI%C3%93N_NO._880_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_DICIEMBRE_DEL_2023_%2853408365954%29.jpg/250px-SESI%C3%93N_NO._880_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_DICIEMBRE_DEL_2023_%2853408365954%29.jpg",
-      "party": "Alianza PAÍS",
-      "province": "santo domingo de los tsáchilas",
-      "currentPosition": "Asambleísta Nacional",
-      "experience": 32,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 57,
-      "birthplace": "Santo Domingo, Ecuador",
-      "careerStart": "1993",
-      "biography": "Édgar Geovanny Benítez Calva (Santo Domingo, 24 de febrero de 1968) es un ingeniero zootecnista y político ecuatoriano, asambleísta nacional por Santo Domingo de los Tsáchilas, desde 2023. Fue el primer prefecto provincial de Santo Domingo de los Tsáchilas, entre abril de 2008 y diciembre de 2018.",
-      "career": [
-        "Asambleísta Nacional (desde 2023)",
-        "Prefecto de Santo Domingo de los Tsáchilas (2008-2018)",
-        "Ingeniero zootecnista",
-        "Dirigente político"
-      ],
-      "proposals": [
-        "Desarrollo agropecuario",
-        "Infraestructura vial",
-        "Fortalecimiento de Santo Domingo como provincia",
-        "Apoyo a productores locales"
-      ],
-      "analysis": {
-        "categories": ["desarrollo provincial", "agropecuario"],
-        "detailed": "Político con experiencia en la administración provincial de Santo Domingo y formación técnica en el área agropecuaria.",
-        "strengths": ["Experiencia administrativa", "Conocimiento técnico", "Primer prefecto de Santo Domingo", "Arraigo local"],
-        "weaknesses": ["Limitada proyección nacional", "Asociación con Alianza PAÍS", "Controversias de gestión"]
-      }
+        "id": "23",
+        "name": "Geovanny Benítez",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/SESI%C3%93N_NO._880_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_DICIEMBRE_DEL_2023_%2853408365954%29.jpg/250px-SESI%C3%93N_NO._880_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_DICIEMBRE_DEL_2023_%2853408365954%29.jpg",
+        "party": "Alianza PAÍS (2006-2018)",
+        "province": "santo domingo de los tsáchilas",
+        "currentPosition": "",
+        "experience": 32,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 57,
+        "birthplace": "",
+        "careerStart": "1993",
+        "biography": "Édgar Geovanny Benítez Calva ( Santo Domingo , 24 de febrero de 1968) [ 3 ] ​ es un ingeniero zootecnista y político ecuatoriano , asambleísta nacional por Santo Domingo de los Tsáchilas , desde 2023. Fue el primer prefecto provincial de Santo Domingo de los Tsáchilas, entre abril de 2008 y diciembre de 2018.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "24",
-      "name": "Esteban Bernal Bernal",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Esteban_Remigio_Bernal.jpg/250px-Esteban_Remigio_Bernal.jpg",
-      "party": "Movimiento CREO",
-      "province": "azuay",
-      "currentPosition": "Exministro de Inclusión Económica y Social",
-      "experience": 27,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 52,
-      "birthplace": "Cuenca, Azuay, Ecuador",
-      "careerStart": "1998",
-      "biography": "Esteban Bernal Bernal, político ecuatoriano nacido el 7 de abril de 1973, empresario, economista y catedrático universitario. Su último cargo público fue de Ministro de Inclusión Económica y Social -MIES-, cargo que asumió el 15 de septiembre de 2021 hasta el 23 de noviembre de 2023. Antes, fue Gobernador del Azuay, designación que ocupó desde mayo del mismo año, hasta su nombramiento como Secretario de Estado para dirigir el MIES. Ambos cargos, en el Gobierno de Guillermo Lasso Mendoza, ex presidente del Ecuador.",
-      "career": [
-        "Ministro de Inclusión Económica y Social (2021-2023)",
-        "Gobernador del Azuay (2021)",
-        "Empresario",
-        "Economista",
-        "Catedrático universitario"
-      ],
-      "proposals": [
-        "Políticas de inclusión social",
-        "Desarrollo económico de Azuay",
-        "Apoyo a emprendimientos",
-        "Reducción de la pobreza"
-      ],
-      "analysis": {
-        "categories": ["inclusión social", "economía"],
-        "detailed": "Político y economista con experiencia en gestión pública y empresarial, vinculado al gobierno de Guillermo Lasso.",
-        "strengths": ["Formación económica", "Experiencia en gestión pública", "Conocimiento empresarial", "Juventud relativa"],
-        "weaknesses": ["Asociación con gobierno impopular", "Limitada trayectoria política", "Poca proyección nacional"]
-      }
+        "id": "24",
+        "name": "Esteban Bernal Bernal",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Esteban_Remigio_Bernal.jpg/250px-Esteban_Remigio_Bernal.jpg",
+        "party": "",
+        "province": "azuay",
+        "currentPosition": "",
+        "experience": 27,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 52,
+        "birthplace": "",
+        "careerStart": "1998",
+        "biography": "Esteban Bernal Bernal , político ecuatoriano nacido el 7 de abril de 1973, empresario, economista y catedrático universitario. Su último cargo público fue de Ministro de Inclusión Económica y Social -MIES-, cargo que asumió el 15 de septiembre de 2021 hasta el 23 de noviembre de 2023. Antes, fue Gobernador del Azuay, designación que ocupó desde mayo del mismo año, [ 1 ] ​ hasta su nombramiento como Secretario de Estado para dirigir el MIES. [ 2 ] ​ Ambos cargos, en el Gobierno de Guillermo Lasso Mendoza , ex presidente del Ecuador.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "25",
-      "name": "Diego Borja",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diego_Borja_Cornejo_%28cropped%29.jpg/250px-Diego_Borja_Cornejo_%28cropped%29.jpg",
-      "party": "Poder Ciudadano",
-      "province": "pichincha",
-      "currentPosition": "Expresidente del Banco Central",
-      "experience": 36,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 61,
-      "birthplace": "Quito, Pichincha, Ecuador",
-      "careerStart": "1989",
-      "biography": "Gustavo Diego Borja Cornejo (Quito, 1 de mayo de 1964) es un economista y político ecuatoriano.",
-      "career": [
-        "Presidente del Banco Central del Ecuador",
-        "Ministro de Economía",
-        "Economista",
-        "Dirigente político"
-      ],
-      "proposals": [
-        "Reforma económica",
-        "Soberanía monetaria",
-        "Regulación financiera",
-        "Desarrollo productivo"
-      ],
-      "analysis": {
-        "categories": ["economía", "banca central"],
-        "detailed": "Economista con experiencia en la gestión económica del Estado y la banca central.",
-        "strengths": ["Formación económica", "Experiencia en política monetaria", "Conocimiento del sistema financiero"],
-        "weaknesses": ["Controversias en su gestión", "Limitada proyección política actual", "Asociación con gobiernos anteriores"]
-      }
+        "id": "25",
+        "name": "Diego Borja",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diego_Borja_Cornejo_%28cropped%29.jpg/250px-Diego_Borja_Cornejo_%28cropped%29.jpg",
+        "party": "Poder Ciudadano (desde 2006)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 36,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 61,
+        "birthplace": "",
+        "careerStart": "1989",
+        "biography": "Gustavo Diego Borja Cornejo ( Quito , 1 de mayo de 1964) es un economista y político ecuatoriano .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "26",
-      "name": "Alfredo Borrero",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Alfredo_Borrero.jpg/250px-Alfredo_Borrero.jpg",
-      "party": "Independiente",
-      "province": "azuay",
-      "currentPosition": "Exvicepresidente de la República",
-      "experience": 45,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 70,
-      "birthplace": "Cuenca, Azuay, Ecuador",
-      "careerStart": "1980",
-      "biography": "Alfredo Enrique Borrero Vega (Cuenca, 19 de octubre de 1955) es un médico y político ecuatoriano. Fue vicepresidente de la República del Ecuador, desde el 24 de mayo de 2021 hasta el 23 de noviembre de 2023.",
-      "career": [
-        "Vicepresidente de la República (2021-2023)",
-        "Médico",
-        "Director de hospitales",
-        "Catedrático universitario"
-      ],
-      "proposals": [
-        "Reforma del sistema de salud",
-        "Vacunación contra COVID-19",
-        "Mejora de la infraestructura hospitalaria",
-        "Formación médica de calidad"
-      ],
-      "analysis": {
-        "categories": ["salud", "gobierno"],
-        "detailed": "Médico con amplia trayectoria profesional que incursionó en la política como vicepresidente en el gobierno de Guillermo Lasso.",
-        "strengths": ["Formación médica", "Experiencia en gestión hospitalaria", "Imagen técnica", "Credibilidad profesional"],
-        "weaknesses": ["Poca experiencia política", "Asociación con gobierno impopular", "Perfil bajo como vicepresidente"]
-      }
+        "id": "26",
+        "name": "Alfredo Borrero",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Alfredo_Borrero.jpg/250px-Alfredo_Borrero.jpg",
+        "party": "Independiente",
+        "province": "",
+        "currentPosition": "",
+        "experience": 45,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 70,
+        "birthplace": "",
+        "careerStart": "1980",
+        "biography": "Alfredo Enrique Borrero Vega ( Cuenca , 19 de octubre de 1955) es un médico y político ecuatoriano . Fue vicepresidente de la República del Ecuador , desde el 24 de mayo de 2021 hasta el 23 de noviembre de 2023. [ 1 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "27",
-      "name": "Julio Burbano Aguirre",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
-      "party": "Partido Liberal Radical",
-      "province": "guayas",
-      "currentPosition": "Expresidente interino de Ecuador (histórico)",
-      "experience": 35,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 0,
-      "birthplace": "Guayaquil, Guayas, Ecuador",
-      "careerStart": "1920",
-      "biography": "Julio Burbano Aguirre (Guayaquil, 1895- Ibídem, 11 de mayo de 1939) fue un empresario, banquero y político ecuatoriano. Fue presidente del Concejo Cantonal de Guayaquil y senador de la República del Ecuador, de la que fue presidente interino en dos ocasiones, durante el gobierno de Alfredo Baquerizo Moreno.",
-      "career": [
-        "Presidente interino de Ecuador",
-        "Presidente del Concejo Cantonal de Guayaquil",
-        "Senador de la República",
-        "Empresario y banquero"
-      ],
-      "proposals": [
-        "Desarrollo económico de Guayaquil",
-        "Fortalecimiento del sistema bancario",
-        "Modernización urbana",
-        "Políticas liberales"
-      ],
-      "analysis": {
-        "categories": ["histórico", "banca"],
-        "detailed": "Figura histórica de la política ecuatoriana de principios del siglo XX, vinculado al liberalismo y la banca guayaquileña.",
-        "strengths": ["Influencia económica", "Experiencia política", "Liderazgo en Guayaquil"],
-        "weaknesses": ["Figura histórica sin relevancia actual", "Asociación con élites bancarias", "Contexto político diferente"]
-      }
+        "id": "27",
+        "name": "Julio Burbano Aguirre",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
+        "party": "",
+        "province": "",
+        "currentPosition": "Diputado Nacional del Ecuador",
+        "experience": 121,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 146,
+        "birthplace": "",
+        "careerStart": "1904",
+        "biography": "Julio Burbano Aguirre ( Guayaquil , 1895- Ibídem , 11 de mayo de 1939) fue un empresario, banquero y político ecuatoriano . Fue presidente del Concejo Cantonal de Guayaquil y senador de la República del Ecuador, de la que fue presidente interino en dos ocasiones, durante el gobierno de Alfredo Baquerizo Moreno .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "28",
-      "name": "Dalton Burgos",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Asamble%C3%ADsta_Dalton_Burgos_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_187_del_Pleno_de_la_Asamblea_Nacional_%287983246965%29.jpg/250px-Asamble%C3%ADsta_Dalton_Burgos_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_187_del_Pleno_de_la_Asamblea_Nacional_%287983246965%29.jpg",
-      "party": "Movimiento Autonómico Regional",
-      "province": "azuay",
-      "currentPosition": "Exasambleísta",
-      "experience": 51,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 76,
-      "birthplace": "Guayaquil, Ecuador",
-      "careerStart": "1974",
-      "biography": "Dalton Alexis Burgos Villamar (Guayaquil, Ecuador, 17 de diciembre de 1949) es un sociólogo y político ecuatoriano. Fue parte del CONGOPE y asambleísta alterno por la provincia de El Oro, además de director de la mancomunidad El Oro-Azuay, denominada \"Austro Sur\".",
-      "career": [
-        "Asambleísta alterno por El Oro",
-        "Director de la mancomunidad Austro Sur",
-        "Sociólogo",
-        "Dirigente político regional"
-      ],
-      "proposals": [
-        "Desarrollo regional del Austro",
-        "Descentralización administrativa",
-        "Fortalecimiento de mancomunidades",
-        "Políticas sociales"
-      ],
-      "analysis": {
-        "categories": ["desarrollo regional", "sociología"],
-        "detailed": "Sociólogo y político con enfoque en el desarrollo regional y las mancomunidades territoriales.",
-        "strengths": ["Formación sociológica", "Experiencia en gestión regional", "Conocimiento del Austro ecuatoriano"],
-        "weaknesses": ["Edad avanzada", "Limitada proyección nacional", "Poca visibilidad mediática"]
-      }
+        "id": "28",
+        "name": "Dalton Burgos",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Asamble%C3%ADsta_Dalton_Burgos_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_187_del_Pleno_de_la_Asamblea_Nacional_%287983246965%29.jpg/250px-Asamble%C3%ADsta_Dalton_Burgos_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_187_del_Pleno_de_la_Asamblea_Nacional_%287983246965%29.jpg",
+        "party": "Movimiento Autonómico Regional",
+        "province": "azuay",
+        "currentPosition": "",
+        "experience": 51,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 76,
+        "birthplace": "",
+        "careerStart": "1974",
+        "biography": "Dalton Alexis Burgos Villamar ( Guayaquil , Ecuador , 17 de diciembre de 1949) es un sociólogo y político ecuatoriano. Fue parte del CONGOPE y asambleísta alterno por la provincia de El Oro , además de director de la mancomunidad El Oro-Azuay, denominada \"Austro Sur\". [ 1 ] ​ [ 2 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "29",
-      "name": "Fernando Bustamante Ponce",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Asamble%C3%ADsta_Fernando_Bustamate_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_per%C3%ADodo_2013-2017_%288741815388%29.jpg/250px-Asamble%C3%ADsta_Fernando_Bustamate_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_per%C3%ADodo_2013-2017_%288741815388%29.jpg",
-      "party": "Alianza PAÍS",
-      "province": "pichincha",
-      "currentPosition": "Exministro de Gobierno",
-      "experience": 50,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 75,
-      "birthplace": "Nueva York, Estados Unidos",
-      "careerStart": "1975",
-      "biography": "Fernando Xavier Bustamante Ponce (Nueva York, 25 de diciembre de 1950) es un político y académico ecuatoriano nacido en Estados Unidos.",
-      "career": [
-        "Ministro de Gobierno",
-        "Asambleísta Nacional",
-        "Académico",
-        "Analista político"
-      ],
-      "proposals": [
-        "Reforma del Estado",
-        "Políticas de seguridad ciudadana",
-        "Modernización institucional",
-        "Derechos humanos"
-      ],
-      "analysis": {
-        "categories": ["academia", "gobierno"],
-        "detailed": "Académico y político con formación internacional y experiencia en la gestión pública y el análisis político.",
-        "strengths": ["Formación académica", "Capacidad analítica", "Experiencia en gestión pública", "Visión internacional"],
-        "weaknesses": ["Edad avanzada", "Perfil más académico que político", "Asociación con el correísmo"]
-      }
+        "id": "29",
+        "name": "Fernando Bustamante Ponce",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Asamble%C3%ADsta_Fernando_Bustamate_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_per%C3%ADodo_2013-2017_%288741815388%29.jpg/250px-Asamble%C3%ADsta_Fernando_Bustamate_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_per%C3%ADodo_2013-2017_%288741815388%29.jpg",
+        "party": "Ruptura 25 (2004-2006) Alianza PAÍS (2006-2016)",
+        "province": "",
+        "currentPosition": "",
+        "experience": 50,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 75,
+        "birthplace": "",
+        "careerStart": "1975",
+        "biography": "Fernando Xavier Bustamante Ponce ( Nueva York , 25 de diciembre de 1950) es un político y académico ecuatoriano nacido en Estados Unidos .",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "30",
-      "name": "Simón Bustamante",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
-      "party": "Partido Social Cristiano",
-      "province": "manabí",
-      "currentPosition": "Exdiputado Nacional",
-      "experience": 49,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 74,
-      "birthplace": "Jipijapa, Manabí, Ecuador",
-      "careerStart": "1976",
-      "biography": "Simón Bustamante Vera (16 de febrero de 1951, Jipijapa, Ecuador) es un político ecuatoriano que ocupó el puesto de diputado en el Congreso Nacional por más de 18 años, además de haber sido el líder máximo del Partido Social Cristiano en la provincia de Manabí.",
-      "career": [
-        "Diputado Nacional (18 años)",
-        "Líder del PSC en Manabí",
-        "Dirigente político provincial"
-      ],
-      "proposals": [
-        "Desarrollo de Manabí",
-        "Fortalecimiento del sector pesquero",
-        "Infraestructura provincial",
-        "Descentralización administrativa"
-      ],
-      "analysis": {
-        "categories": ["legislativo", "política provincial"],
-        "detailed": "Político manabita con larga trayectoria legislativa y liderazgo provincial en el Partido Social Cristiano.",
-        "strengths": ["Experiencia legislativa", "Liderazgo provincial", "Conocimiento de Manabí", "Trayectoria política"],
-        "weaknesses": ["Edad avanzada", "Limitada proyección nacional actual", "Imagen asociada a la política tradicional"]
-      }
+        "id": "30",
+        "name": "Simón Bustamante",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
+        "party": "Partido Social Cristiano",
+        "province": "manabí",
+        "currentPosition": "",
+        "experience": 49,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 74,
+        "birthplace": "",
+        "careerStart": "1976",
+        "biography": "Simón Bustamante Vera (16 de febrero de 1951, Jipijapa , Ecuador ) es un político ecuatoriano que ocupó el puesto de diputado en el Congreso Nacional por más de 18 años, [ 1 ] ​ además de haber sido el líder máximo del Partido Social Cristiano en la provincia de Manabí . [ 2 ] ​",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "31",
-      "name": "Napoleón Cadena",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Napole%C3%B3n_Cadena_Alcalde_de_Riobamba_-_Chimborazo.jpg/250px-Napole%C3%B3n_Cadena_Alcalde_de_Riobamba_-_Chimborazo.jpg",
-      "party": "Movimiento CREO",
-      "province": "chimborazo",
-      "currentPosition": "Exalcalde de Riobamba",
-      "experience": 28,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 53,
-      "birthplace": "Riobamba, Chimborazo, Ecuador",
-      "careerStart": "1997",
-      "biography": "Byron Napoleón Cadena Oleas (Riobamba, 23 de mayo de 1972) es un ingeniero en administración de empresas. Fue alcalde de Riobamba, entre 2014 y 2023.",
-      "career": [
-        "Alcalde de Riobamba (2014-2023)",
-        "Ingeniero en administración de empresas",
-        "Dirigente político local"
-      ],
-      "proposals": [
-        "Desarrollo urbano de Riobamba",
-        "Modernización municipal",
-        "Turismo y patrimonio",
-        "Servicios básicos de calidad"
-      ],
-      "analysis": {
-        "categories": ["gobierno local", "administración"],
-        "detailed": "Administrador con experiencia en la gestión municipal de Riobamba durante casi una década.",
-        "strengths": ["Experiencia en gestión municipal", "Formación administrativa", "Conocimiento de Riobamba", "Continuidad en el cargo"],
-        "weaknesses": ["Limitada proyección nacional", "Controversias de gestión", "Oposición local"]
-      }
+        "id": "31",
+        "name": "Napoleón Cadena",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Napole%C3%B3n_Cadena_Alcalde_de_Riobamba_-_Chimborazo.jpg/250px-Napole%C3%B3n_Cadena_Alcalde_de_Riobamba_-_Chimborazo.jpg",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 28,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 53,
+        "birthplace": "",
+        "careerStart": "1997",
+        "biography": "Byron Napoleón Cadena Oleas ( Riobamba , 23 de mayo de 1972) es un ingeniero en administración de empresas. Fue alcalde de Riobamba , entre 2014 y 2023.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
-      "id": "32",
-      "name": "Pablo Carcelén",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-      "party": "Histórico",
-      "province": "pichincha",
-      "currentPosition": "Figura histórica",
-      "experience": 0,
-      "proposalsFulfilled": 0,
-      "approvalRating": 0,
-      "age": 0,
-      "birthplace": "Quito, Ecuador",
-      "careerStart": "Siglo XVIII",
-      "biography": "Pablo Carcelén de Guevara y Lago. Cuarto miembro de la casa nobiliaria de los Marqueses de Villarrocha. Hijo de Pablo José Carcelén de Guevara y María Josefa Lago Bahamonde y La Rocha, III Marquesa de Villarrocha. Su padre era español y su madre quiteña de orígenes sevillanos. Nació en la mansión que la familia adquirió en el centro de Quito al llegar nuevamente a tierras americanas, luego de varios años de haber residido en la península ibérica; y ello lo convierte en el tercer miembro del linaje en haber nacido en el Nuevo Mundo.",
-      "career": [
-        "Marqués de Villarrocha",
-        "Noble colonial",
-        "Figura histórica de la aristocracia quiteña"
-      ],
-      "proposals": [
-        "No aplicable (figura histórica)"
-      ],
-      "analysis": {
-        "categories": ["histórico", "colonial"],
-        "detailed": "Figura histórica de la aristocracia colonial quiteña, sin relevancia política contemporánea.",
-        "strengths": ["Linaje histórico", "Relevancia histórica"],
-        "weaknesses": ["Sin relevancia política actual", "Figura del pasado colonial"]
-      }
+        "id": "32",
+        "name": "Pablo Carcelén",
+        "image": "",
+        "party": "",
+        "province": "",
+        "currentPosition": "",
+        "experience": 0,
+        "proposalsFulfilled": 0,
+        "approvalRating": 0,
+        "age": 0,
+        "birthplace": "",
+        "careerStart": "",
+        "biography": "Pablo Carcelén de Guevara y Lago . Cuarto miembro de la casa nobiliaria de los Marqueses de Villarrocha . Hijo de Pablo José Carcelén de Guevara y María Josefa Lago Bahamonde y La Rocha , III Marquesa de Villarrocha. Su padre era español y su madre quiteña de orígenes sevillanos. [ 1 ] ​ Nació en la mansión que la familia adquirió en el centro de Quito al llegar nuevamente a tierras americanas, luego de varios años de haber residido en la península ibérica; y ello lo convierte en el tercer miembro del linaje en haber nacido en el Nuevo Mundo.",
+        "career": [],
+        "proposals": [],
+        "analysis": {
+            "categories": [],
+            "detailed": "",
+            "strengths": [],
+            "weaknesses": []
+        }
     },
     {
         "id": "33",
