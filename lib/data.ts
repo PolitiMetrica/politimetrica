@@ -4,6 +4,98 @@ import { getFirestore, collection, addDoc } from "firebase/firestore"
 // Datos de ejemplo para la aplicación
 const politiciansData: Politician[] = [
     {
+    "id": "2",
+    "name": "Luisa González Alcívar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Luisa_Gonz%C3%A1lez_-_2022.jpg",
+    "party": "Revolución Ciudadana",
+    "province": "manabí",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 7,
+    "proposalsFulfilled": 36,
+    "approvalRating": 72,
+    "age": 48,
+    "birthplace": "Manabí, Ecuador",
+    "careerStart": "2018",
+    "biography": "Abogada y política ecuatoriana que se desempeñó en diversos cargos durante el gobierno del expresidente Rafael Correa. Fue candidata presidencial en las elecciones de 2023 y en las de 2025, en ambas ocasiones en representación del movimiento Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Manabí",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión en Manabí."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Lealtad a su movimiento",
+    "description": "Iniciativa para mejorar lealtad a su movimiento en Manabí.",
+    "status": "Pendiente",
+    "progress": 15,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de carisma",
+    "description": "Iniciativa para mejorar carisma en Manabí.",
+    "status": "En progreso",
+    "progress": 50,
+    "category": "Seguridad"
+    },
+    {
+    "title": "Plan de oratoria",
+    "description": "Iniciativa para mejorar oratoria en Manabí.",
+    "status": "En progreso",
+    "progress": 50,
+    "category": "Educación"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Luisa González Alcívar ha mostrado lealtad a su movimiento en su gestión política. Su enfoque en oratoria ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Lealtad a su movimiento",
+    "carisma",
+    "oratoria"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "discurso repetitivo"
+    ]
+    }
+  },
+    {
         "id": "43ca2a52",
         "name": "Fernando Aguirre Cordero",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fernando_Aguirre_Cordero.jpg/250px-Fernando_Aguirre_Cordero.jpg",
