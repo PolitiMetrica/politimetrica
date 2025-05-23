@@ -6,7 +6,7 @@ const politiciansData: Politician[] = [
   {
     "id": "1",
     "name": "Daniel Noboa Azin",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Daniel_Noboa_en_abril_de_2025.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/P._Daniel_Noboa_Azin.jpg",
     "party": "Acción Democrática Nacional, ADN",
     "province": "pichincha",
     "currentPosition": "Presidente de la República",
@@ -3914,29 +3914,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 165,
-        "name": "Gustavo Baroja",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gustavo_Baroja.jpg/250px-Gustavo_Baroja.jpg",
-        "party": "Izquierda Democrática (hasta 2008) Alianza PAÍS (2008-2021) Movimiento MOVER (desde 2021)",
-        "province": "pichincha",
-        "currentPosition": "",
-        "experience": 47,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 72,
-        "birthplace": "",
-        "careerStart": "1978",
-        "biography": "Milton Gustavo Baroja Narváez ( Cotacachi , 1 de noviembre de 1953) [ 2 ] ​ es un economista y político ecuatoriano , prefecto provincial de Pichincha entre 2006 y 2019.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 166,
         "name": "Augusto Barrera",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/22_de_marzo_de_2018_-_Comisi%C3%B3n_de_Educaci%C3%B3n_%2840916412422%29_%28cropped%29.jpg/250px-22_de_marzo_de_2018_-_Comisi%C3%B3n_de_Educaci%C3%B3n_%2840916412422%29_%28cropped%29.jpg",
@@ -3950,29 +3927,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1986",
         "biography": "Adrián Augusto Barrera Guarderas ( Quito , 11 de diciembre de 1961) es un médico , sociólogo y político ecuatoriano , egresado del Colegio Municipal Experimental Sebastián de Benalcázar, y exsecretario de Educación Superior, Ciencia y Tecnología de Ecuador. Ejerció las funciones de alcalde del Distrito Metropolitano de Quito entre 2009 y 2014.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 167,
-        "name": "Geovanny Benítez",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/SESI%C3%93N_NO._880_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_DICIEMBRE_DEL_2023_%2853408365954%29.jpg/250px-SESI%C3%93N_NO._880_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_DICIEMBRE_DEL_2023_%2853408365954%29.jpg",
-        "party": "Alianza PAÍS (2006-2018)",
-        "province": "santo domingo de los tsáchilas",
-        "currentPosition": "",
-        "experience": 32,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 57,
-        "birthplace": "",
-        "careerStart": "1993",
-        "biography": "Édgar Geovanny Benítez Calva ( Santo Domingo , 24 de febrero de 1968) [ 3 ] ​ es un ingeniero zootecnista y político ecuatoriano , asambleísta nacional por Santo Domingo de los Tsáchilas , desde 2023. Fue el primer prefecto provincial de Santo Domingo de los Tsáchilas, entre abril de 2008 y diciembre de 2018.",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -4098,29 +4052,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 173,
-        "name": "Juan Cárdenas Espinoza",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Juan_C%C3%A1rdenas_Espinoza_%28detalle%29.png/250px-Juan_C%C3%A1rdenas_Espinoza_%28detalle%29.png",
-        "party": "Movimiento Popular Democrático (1978-2006) Alianza PAÍS (2006-2018) Revolución Ciudadana (desde 2018)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 51,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 76,
-        "birthplace": "",
-        "careerStart": "1974",
-        "biography": "Juan Cárdenas Espinoza ( Azogues , 7 de noviembre de 1949) es un político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 174,
         "name": "María José Carrión",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mar%C3%ADa_Jos%C3%A9_Carri%C3%B3n_en_2017.jpg/250px-Mar%C3%ADa_Jos%C3%A9_Carri%C3%B3n_en_2017.jpg",
@@ -4213,29 +4144,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 178,
-        "name": "Patricio Cisneros",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/SESI%C3%93N_NO._897_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_06_DE_FEBRERO_DE_2024_-_53511893687.jpg/250px-SESI%C3%93N_NO._897_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_06_DE_FEBRERO_DE_2024_-_53511893687.jpg",
-        "party": "Alianza PAÍS",
-        "province": "santa elena",
-        "currentPosition": "",
-        "experience": 37,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 62,
-        "birthplace": "",
-        "careerStart": "1988",
-        "biography": "Patricio Benjamín Cisneros Granizo ( Santa Elena , 24 de enero de 1963) [ 1 ] ​ es un político ecuatoriano . Ocupó la alcaldía del cantón La Libertad durante tres periodos consecutivos (1996-2009), además de haberse desempeñado como prefecto provincial de Santa Elena entre 2009 y 2018.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 179,
         "name": "Fernando Cordero Cueva",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juan-Fernando-Cordero-Cueva_%288318629964%29.jpg/250px-Juan-Fernando-Cordero-Cueva_%288318629964%29.jpg",
@@ -4249,52 +4157,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1977",
         "biography": "Juan Fernando Cordero Cueva [ 3 ] ​ ( Cuenca , 27 de mayo de 1952) [ 3 ] ​ es un arquitecto y político ecuatoriano . Es conocido por ser Alcalde de Cuenca entre 1996 y 2005, miembro del Congreso Nacional y presidente de la Asamblea Nacional Constituyente en 2008. Entre 2009 y 2013 fue presidente de la Asamblea Nacional de Ecuador . Desde septiembre a marzo de 2016 fue Ministro de Defensa Nacional . También es conocido como Corcho Cordero. [ 4 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 180,
-        "name": "Jorge Corozo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/18_de_diciembre_de_2017_-Comisi%C3%B3n_de_los_Derechos_Colectivos_%2839111529652%29_%28cropped%29.jpg/250px-18_de_diciembre_de_2017_-Comisi%C3%B3n_de_los_Derechos_Colectivos_%2839111529652%29_%28cropped%29.jpg",
-        "party": "Alianza PAÍS",
-        "province": "esmeraldas",
-        "currentPosition": "guardameta",
-        "experience": 35,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 60,
-        "birthplace": "",
-        "careerStart": "1990",
-        "biography": "Jorge Corozo ( Esmeraldas , Ecuador , 24 de abril de 1965) es un exfutbolista ecuatoriano . Se desempeñaba en posición de guardameta .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 181,
-        "name": "Mariano Curicama",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/COMISI%C3%93N_DE_SOBERAN%C3%8DA_ALIMENTARIA._ECUADOR%2C_25_DE_ABRIL_DE_2022_%2852029976133%29.jpg/250px-COMISI%C3%93N_DE_SOBERAN%C3%8DA_ALIMENTARIA._ECUADOR%2C_25_DE_ABRIL_DE_2022_%2852029976133%29.jpg",
-        "party": "Pachakutik (1995-2012) MINGA (desde 2017)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 44,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 69,
-        "birthplace": "",
-        "careerStart": "1981",
-        "biography": "Mariano Curicama ( Guamote , 2 de enero de 1965) es un político y dirigente indígena ecuatoriano de etnia kichwa . Parte de los fundadores del movimiento Pachakutik .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -4374,29 +4236,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 185,
-        "name": "Wilson Erazo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/WE_2024.jpg",
-        "party": "",
-        "province": "santo domingo de los tsáchilas",
-        "currentPosition": "",
-        "experience": 36,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 61,
-        "birthplace": "",
-        "careerStart": "1989",
-        "biography": "Wilson Erazo Argoti ( San Gabriel , 4 de marzo de 1964) es un político ecuatoriano , y actual alcalde de Santo Domingo , desde el 14 de mayo de 2019. [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 186,
         "name": "María Fernanda Espinosa",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Entrevista_de_Canciller_Mar%C3%ADa_Fernanda_Espinosa_%2836388035054%29_%28cropped%29.jpg/250px-Entrevista_de_Canciller_Mar%C3%ADa_Fernanda_Espinosa_%2836388035054%29_%28cropped%29.jpg",
@@ -4410,75 +4249,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1989",
         "biography": "María Fernanda Espinosa Garcés ( Salamanca , España , 7 de septiembre de 1964) es una lingüista, poetisa , política y diplomática ecuatoriana . Actualmente, directora ejecutiva de GWL Voices, organización sin fines de lucro dedicada a construir un sistema internacional con equidad de género. [ 1 ] ​ Fue asesora en biodiversidad y pueblos indígenas (1999-2005) y directora regional para América del Sur (2005-2007) de la Unión Internacional para la Conservación de la Naturaleza (UICN), ministra de Relaciones Exteriores del Ecuador en dos ocasiones, entre el 2007 y 2008 y luego entre el 2017 y 2018. [ 2 ] ​Fue embajadora, representante permanente ante las Naciones Unidas en Nueva York (2008-2009) y en Ginebra (2014-2017), y Ministra de Defensa Nacional del Ecuador (2012-2014). En junio de 2018 fue elegida por votación de dos tercios de los Estados miembros como Presidenta de la Asamblea General de las Naciones Unida . Espinosa Garcés se convirtió en la cuarta mujer en setenta y tres años de historia de las Naciones Unidas en ser elegida Presidenta de la Asamblea General. [ 3 ] ​ Además de su carrera política, también es poeta y ensayista. [ 4 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 187,
-        "name": "Fander Falconí",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FanderBenitez.JPG/250px-FanderBenitez.JPG",
-        "party": "Alianza PAÍS",
-        "province": "",
-        "currentPosition": "",
-        "experience": 38,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 63,
-        "birthplace": "",
-        "careerStart": "1987",
-        "biography": "Pontificia Universidad Católica del Ecuador",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 188,
-        "name": "Gastón Gagliardo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Asamble%C3%ADsta_Gast%C3%B3n_Gagliardo_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_per%C3%ADodo_2013-2017_%288741872384%29.jpg/250px-Asamble%C3%ADsta_Gast%C3%B3n_Gagliardo_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_per%C3%ADodo_2013-2017_%288741872384%29.jpg",
-        "party": "Alianza PAÍS",
-        "province": "",
-        "currentPosition": "",
-        "experience": 33,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 58,
-        "birthplace": "",
-        "careerStart": "1992",
-        "biography": "Gastón Alberto Gagliardo Loor ( Guayaquil , 28 de abril de 1967) es un político ecuatoriano",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 189,
-        "name": "Diego García Pozo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Diego_Garc%C3%ADa_Pozo_%28detalle%29.png/250px-Diego_Garc%C3%ADa_Pozo_%28detalle%29.png",
-        "party": "Alianza PAÍS (2006-2018) Revolución Ciudadana (desde 2018)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 36,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 61,
-        "birthplace": "",
-        "careerStart": "1989",
-        "biography": "Diego Oswaldo García Pozo ( Ibarra , 29 de septiembre de 1964) [ 1 ] ​ es un político ecuatoriano .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -4604,52 +4374,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 195,
-        "name": "Lenin Lara",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lenin_Lara%2C_mayo_de_2013_%28cropped%29.jpg/250px-Lenin_Lara%2C_mayo_de_2013_%28cropped%29.jpg",
-        "party": "Alianza PAÍS (hasta 2020)",
-        "province": "esmeraldas",
-        "currentPosition": "",
-        "experience": 21,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 46,
-        "birthplace": "",
-        "careerStart": "2004",
-        "biography": "Lenin José Lara Rivadeneira ( Esmeraldas , 9 de marzo de 1979) [ 1 ] ​ es un escritor, abogado y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 196,
-        "name": "Guillaume Long",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/CANCILLER_GUILLAUME_LONG_PRESENTA_CONFERENCIA_SOBRE_JUSTICIA%2C_DERECHOS_HUMANOS_Y_ERRADICACI%C3%93N_DE_PARA%C3%8DSOS_FISCALES_ANTE_LA_ONU%2C_GINEBRA%2C_SUIZA%2C_01_DE_MAYO_2017_%2833998283780%29.jpg/250px-thumbnail.jpg",
-        "party": "Revolución Ciudadana",
-        "province": "",
-        "currentPosition": "",
-        "experience": 23,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 48,
-        "birthplace": "",
-        "careerStart": "2002",
-        "biography": "Guillaume Jean Sebastien Long ( Créteil , 22 de febrero de 1977) es un político y académico ecuatoriano de origen franco-británico, que sirvió como Ministro de Relaciones Exteriores y Movilidad Humana en el Gobierno de Rafael Correa . Fue previamente Ministro de Cultura y Patrimonio, y Ministro Coordinador de Conocimiento y Talento Humano. Fue Representante Permanente del Ecuador ante la Organización de las Naciones Unidas en Ginebra, [ 1 ] ​ hasta el 4 de enero de 2018, cuando presentó su renuncia por diferencias con el gobierno de Lenín Moreno. [ 2 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 197,
         "name": "Lenín Moreno",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Presidente_del_Ecuador%2C_Len%C3%ADn_Moreno_Garc%C3%A9s_5_%2841059887005%29_%28cropped%29.jpg/250px-Presidente_del_Ecuador%2C_Len%C3%ADn_Moreno_Garc%C3%A9s_5_%2841059887005%29_%28cropped%29.jpg",
@@ -4663,29 +4387,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1978",
         "biography": "Lenín Boltaire Moreno Garcés [ 1 ] ​ [ 2 ] ​ ( Nuevo Rocafuerte , 19 de marzo de 1953) [ 3 ] ​ es un político y administrador ecuatoriano que se desempeñó como presidente del Ecuador desde 2017 hasta 2021. Anteriormente fungió como vicepresidente desde 2007 hasta 2013, durante el gobierno de Rafael Correa .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 198,
-        "name": "Fernando Naranjo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fernando_Naranjo_%28detalle%29.jpg/250px-Fernando_Naranjo_%28detalle%29.jpg",
-        "party": "Alianza PAÍS",
-        "province": "tungurahua",
-        "currentPosition": "",
-        "experience": 52,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 77,
-        "birthplace": "",
-        "careerStart": "1973",
-        "biography": "Luis Fernando Naranjo Lalama ( Ambato , [ 1 ] ​ 1948/1949) [ 2 ] ​ es un político ecuatoriano que ocupó el cargo de prefecto de la provincia de Tungurahua de 2000 a 2019.",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -4949,29 +4650,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 210,
-        "name": "Marco Troya",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_NO._771_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_21_DE_ABRIL_DE_2022_%2852019267002%29.jpg/250px-CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_NO._771_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_21_DE_ABRIL_DE_2022_%2852019267002%29.jpg",
-        "party": "Movimiento CREO Alianza PAÍS (desde 2007) Partido Roldosista Ecuatoriano (hasta 2007)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 31,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 56,
-        "birthplace": "",
-        "careerStart": "1994",
-        "biography": "Marco Stalin Troya Fuertes ( Quevedo , 16 de enero de 1969) [ 1 ] ​ es un ingeniero y político ecuatoriano . Fue asambleísta nacional, entre 2021 y 2023.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 211,
         "name": "Paco Velasco",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Asamble%C3%ADsta_Paco_Velasco_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No._134_del_Pleno_de_la_Asamblea_Nacional_%286300195463%29.jpg/250px-Asamble%C3%ADsta_Paco_Velasco_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No._134_del_Pleno_de_la_Asamblea_Nacional_%286300195463%29.jpg",
@@ -4985,29 +4663,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1983",
         "biography": "Francisco Velasco Andrade ( Quito , 28 de marzo de 1958) [ 1 ] ​ es un político y radiodifusor ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 212,
-        "name": "Alfredo Vera",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alfredo-vera.jpg/250px-Alfredo-vera.jpg",
-        "party": "Alianza PAÍS",
-        "province": "",
-        "currentPosition": "Diputado Nacional del Ecuador",
-        "experience": 65,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 90,
-        "birthplace": "",
-        "careerStart": "1960",
-        "biography": "Alfredo Vera Arrata ( Guayaquil , 1935) fue Ministro del Interior del Ecuador de diciembre de 2010 hasta mayo de 2011. [ 1 ] ​",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -5064,52 +4719,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 215,
-        "name": "Jorge Yunda",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jorge_Yunda_Machado.png/250px-Jorge_Yunda_Machado.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 35,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 60,
-        "birthplace": "",
-        "careerStart": "1990",
-        "biography": "Jorge Homero Yunda Machado ( Guano , 28 de agosto de 1965) es un médico , político , músico y radiodifusor ecuatoriano . [ 1 ] ​ [ 2 ] ​ Se desempeñó como Alcalde del Distrito Metropolitano de Quito desde el 14 de mayo de 2019 hasta el 29 de septiembre de 2021.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 216,
-        "name": "Pedro Zapata",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Asambleista_pedro_zapata.jpg/250px-Asambleista_pedro_zapata.jpg",
-        "party": "Partido Social Cristiano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 40,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 65,
-        "birthplace": "",
-        "careerStart": "1985",
-        "biography": "Pedro Aníbal Zapata Rumipamba ( San Cristóbal , 22 de febrero de 1960) es un político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 217,
         "name": "Verónica Zurita",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Veronica_Zurita_%28Ecuador%29.jpg/250px-Veronica_Zurita_%28Ecuador%29.jpg",
@@ -5123,29 +4732,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1999",
         "biography": "Verónica Zurita Castro ( Santo Domingo , 10 de enero de 1974) [ 1 ] ​ es una política e ingeniera agropecuaria ecuatoriana , y la primera mujer en ocupar la alcaldía de la ciudad de Santo Domingo . [ 2 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 218,
-        "name": "Raúl Auquilla",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Raul_Auquilla_%28detalle%29.jpg/250px-Raul_Auquilla_%28detalle%29.jpg",
-        "party": "Movimiento CREO (2013-2018) Partido Social Cristiano (desde 2018)",
-        "province": "loja",
-        "currentPosition": "",
-        "experience": 48,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 73,
-        "birthplace": "",
-        "careerStart": "1977",
-        "biography": "Raúl Vicente Auquilla Ortega ( Sígsig , 8 de septiembre de 1952) [ 3 ] ​ en un ingeniero y político ecuatoriano que ocupó la prefectura de la provincia de Loja durante dos periodos consecutivos.",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -5202,29 +4788,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 221,
-        "name": "Patricio Donoso",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Patricio_Donoso_-_Primera_Sesi%C3%B3n_Parlamentaria_de_Posesi%C3%B3n_de_las_y_los_Asamble%C3%ADstas_para_el_Per%C3%ADodo_Legislativo_2017-2021_%2834527665081%29.jpg/250px-Patricio_Donoso_-_Primera_Sesi%C3%B3n_Parlamentaria_de_Posesi%C3%B3n_de_las_y_los_Asamble%C3%ADstas_para_el_Per%C3%ADodo_Legislativo_2017-2021_%2834527665081%29.jpg",
-        "party": "Movimiento CREO",
-        "province": "",
-        "currentPosition": "",
-        "experience": 44,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 69,
-        "birthplace": "",
-        "careerStart": "1981",
-        "biography": "Patricio Donoso Chiriboga ( Quito , 11 de enero de 1956) es un político , arquitecto y profesor ecuatoriano . Miembro del Movimiento CREO , ejercicio funciones como segundo vicepresidente de la Asamblea Nacional del Ecuador , entre 2019 al 2021. Desde el 24 de mayo de 2021, asumió el cargo de Ministerio del Trabajo durante el Gobierno de Guillermo Lasso .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 222,
         "name": "Ana Galarza",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ANA_GALARZA_2017_%28cropped%29.jpg/250px-ANA_GALARZA_2017_%28cropped%29.jpg",
@@ -5261,29 +4824,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1980",
         "biography": "Guillermo Alberto Santiago Lasso Mendoza ( Guayaquil , 16 de noviembre de 1955) es un banquero ecuatoriano . [ 6 ] ​ Fue presidente de la República del Ecuador desde el 24 de mayo de 2021 hasta el 23 de noviembre de 2023.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 224,
-        "name": "Andrés Páez",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Andr%C3%A9s_P%C3%A1ez_2017.jpg/250px-Andr%C3%A9s_P%C3%A1ez_2017.jpg",
-        "party": "Izquierda Democrática (hasta 2013) Movimiento CREO (2013-2016)",
-        "province": "pichincha",
-        "currentPosition": "",
-        "experience": 34,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 59,
-        "birthplace": "",
-        "careerStart": "1991",
-        "biography": "Andrés Tarquino Páez Benalcázar (28 de mayo de 1966, Ibarra , Ecuador ) [ 1 ] ​ es un doctor en jurisprudencia , [ 2 ] ​ sociólogo, político , docente universitario y ex asambleísta nacional por la provincia de Pichincha por Izquierda Democrática. Militó en el partido CREO, por el cual postuló a la vicepresidencia en 2017. [ 3 ] ​",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -5363,29 +4903,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 228,
-        "name": "Geovanni Atarihuana",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Atarihuana.jpg/250px-Atarihuana.jpg",
-        "party": "Movimiento Popular Democrático (desde años 1980, hasta 2014) Unidad Popular (desde 2014)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 28,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 53,
-        "birthplace": "",
-        "careerStart": "1997",
-        "biography": "Geovanni Javier Atarihuana Ayala ( Quito , 6 de junio de 1972) es un sociólogo , político y exdirigente estudiantil ecuatoriano que ha llegado a asumir cargos como el de vicepresidente del Tribunal Supremo Electoral (TSE), época en la que fue el vocal más joven de la historia del organismo electoral. [ 1 ] ​ Actualmente se desempeña como director nacional de Unidad Popular (UP), consiguiendo la inscripción de este movimiento en reemplazo del Movimiento Popular Democrático (MPD).",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 229,
         "name": "Jorge Escala",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Jorge_Escala_en_2010.jpg/250px-Jorge_Escala_en_2010.jpg",
@@ -5399,29 +4916,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1995",
         "biography": "Jorge Elías Escala Zambrano ( Ventanas , 8 de enero de 1970) es un político y profesor ecuatoriano , militante de Unidad Popular , presidente de la Unión Nacional de Educadores (UNE), asambleísta constituyente y nacional . [ 1 ] ​ [ 2 ] ​ [ 3 ] ​ Entre algunos de los hechos más destacados de su carrera esta su oposición al Convención de las Naciones Unidas sobre el Derecho del Mar (CONVEMAR) por supuestamente atentar a la soberanía nacional. [ 4 ] ​ [ 5 ] ​ [ 6 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 230,
-        "name": "Lenin Hurtado",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-        "party": "Unidad Popular (desde 2014) Movimiento Popular Democrático (hasta 2014)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 37,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 62,
-        "birthplace": "",
-        "careerStart": "1988",
-        "biography": "Jaime Lenin Hurtado Angulo ( Guayaquil , 4 de noviembre de 1963) es un abogado y político ecuatoriano afroecuatoriano alineado con el partido Unidad Popular , ex-MPD .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -5455,29 +4949,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 232,
-        "name": "Marcelo Rivera",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Marcelo_Rivera%2C_dirigente_de_la_FEUE_%284099969717%29.jpg/250px-Marcelo_Rivera%2C_dirigente_de_la_FEUE_%284099969717%29.jpg",
-        "party": "Movimiento Popular Democrático (1995-2014) Unidad Popular (desde 2014)",
-        "province": "",
-        "currentPosition": "Presidente (1997-1999) Presidente (2000-2004) Presidente (2009-2011)",
-        "experience": 22,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 47,
-        "birthplace": "",
-        "careerStart": "2003",
-        "biography": "Fausto Marcelo Rivera Toro ( Quito , 10 de marzo de 1978) es un abogado , maestro y ex dirigente estudiantil ecuatoriano que fungio como presidente de la Federación de Estudiantes Universitarios (FEUE), de la de Estudiantes Secundarios (FESE) y de la Juventud Revolucionaria (JRE). Arrestado por terrorismo y sabotaje durante el gobierno de Rafael Correa . [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 233,
         "name": "Liliana Silva Galeas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/COMISI%C3%93N_DE_GOBIERNOS_AUT%C3%93NOMOS._ECUADOR%2C_13_DE_DICIEMBRE_DEL_2023_%2853396151105%29.jpg/250px-COMISI%C3%93N_DE_GOBIERNOS_AUT%C3%93NOMOS._ECUADOR%2C_13_DE_DICIEMBRE_DEL_2023_%2853396151105%29.jpg",
@@ -5491,75 +4962,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "",
         "biography": "Liliana Mishell Silva Galeas ( Santo Domingo , 11 de diciembre del 2000) es una ex-dirigente estudiantil y política ecuatoriana . Desde el 2023, concejal municipal de Santo Domingo, siendo la más joven de este organismo. [ 1 ] ​ [ 2 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 234,
-        "name": "Lucía Sosa",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Luc%C3%ADa_Sosa.jpg/250px-Luc%C3%ADa_Sosa.jpg",
-        "party": "Movimiento Popular Democrático (hasta 2014) Unidad Popular (desde 2014)",
-        "province": "esmeraldas",
-        "currentPosition": "",
-        "experience": 43,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 68,
-        "birthplace": "",
-        "careerStart": "1982",
-        "biography": "Lucía de Lourdes Sosa Robinzon (6 de febrero de 1957) es una profesora , ingeniera y política ecuatoriana , que fue prefecta de la provincia de Esmeraldas y alcaldesa de la ciudad homónima . [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 235,
-        "name": "Mery Zamora",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Asamble%C3%ADsta_Mery_Zamora_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_187_del_Pleno_de_la_Asamblea_Nacional_continuaci%C3%B3n_%288007295642%29_%28cropped%29.jpg/250px-Asamble%C3%ADsta_Mery_Zamora_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_187_del_Pleno_de_la_Asamblea_Nacional_continuaci%C3%B3n_%288007295642%29_%28cropped%29.jpg",
-        "party": "Movimiento Popular Democrático (1995-2014) Unidad Popular (desde 2014)",
-        "province": "",
-        "currentPosition": "Presidente (2007-2010)",
-        "experience": 28,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 53,
-        "birthplace": "",
-        "careerStart": "1997",
-        "biography": "Mery Segunda Zamora García ( Portoviejo , 19 de abril de 1972) es una dirigente sindical , maestra y política ecuatoriana destacada por haber sido presidenta de la Unión Nacional de Educadores (UNE) entre los años 2007 y 2010, tiempo durante el cual empezó el gobierno de Rafael Correa convirtiéndose en pocos años en opositora de este gobierno.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 236,
-        "name": "Alberto Acosta Espinosa",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alberto_Acosta_%28detalle%29.jpg/250px-Alberto_Acosta_%28detalle%29.jpg",
-        "party": "Pachakutik (1995-2005) Alianza PAÍS (2006-2009) Montecristi Vive (desde 2011)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 52,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 77,
-        "birthplace": "",
-        "careerStart": "1973",
-        "biography": "Alberto José Acosta Espinosa ( Quito , 21 de julio de 1948) es un economista y político ecuatoriano de izquierda . Acosta a lo largo de su carrera ha mantenido un perfil intelectual de izquierda , simpatizando con el marxismo , el movimiento antiglobalización y el antiminero .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -5662,98 +5064,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 241,
-        "name": "Humberto Cholango",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Humberto_Cholango_secretario_del_agua.jpg/250px-Humberto_Cholango_secretario_del_agua.jpg",
-        "party": "Pachakutik",
-        "province": "pichincha",
-        "currentPosition": "",
-        "experience": 25,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 50,
-        "birthplace": "",
-        "careerStart": "2000",
-        "biography": "Manuel Humberto Cholango Tipanluisa (* 1976 en Los Andes , Cangahua , Pichincha ) es un campesino , dirigente indígena y político ecuatoriano de nacionalidad kichwa . Desde 2003 hasta 2009 fue presidente de la organización kichwa ECUARUNARI .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 242,
-        "name": "Mariano Curicama",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/COMISI%C3%93N_DE_SOBERAN%C3%8DA_ALIMENTARIA._ECUADOR%2C_25_DE_ABRIL_DE_2022_%2852029976133%29.jpg/250px-COMISI%C3%93N_DE_SOBERAN%C3%8DA_ALIMENTARIA._ECUADOR%2C_25_DE_ABRIL_DE_2022_%2852029976133%29.jpg",
-        "party": "Pachakutik (1995-2012) MINGA (desde 2017)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 44,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 69,
-        "birthplace": "",
-        "careerStart": "1981",
-        "biography": "Mariano Curicama ( Guamote , 2 de enero de 1965) es un político y dirigente indígena ecuatoriano de etnia kichwa . Parte de los fundadores del movimiento Pachakutik .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 243,
-        "name": "Jorge Guamán",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jorge_Guaman_%28detalle%29.jpg/250px-Jorge_Guaman_%28detalle%29.jpg",
-        "party": "Pachakutik",
-        "province": "cotopaxi",
-        "currentPosition": "",
-        "experience": 35,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 60,
-        "birthplace": "",
-        "careerStart": "1990",
-        "biography": "Jorge Gonzalo Guamán Coronel ( Pujilí , 22 de abril de 1965) es un político ecuatoriano , que se desempeñó como Prefecto provincial de Cotopaxi . [ 2 ] ​ [ 3 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 244,
-        "name": "Leonidas Iza",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leonidas_Iza.jpg/250px-Leonidas_Iza.jpg",
-        "party": "Pachakutik",
-        "province": "cotopaxi",
-        "currentPosition": "",
-        "experience": 18,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 43,
-        "birthplace": "",
-        "careerStart": "2007",
-        "biography": "Segundo Leonidas Iza Salazar (18 de junio de 1982) [ 2 ] ​ es un dirigente indígena e ingeniero ambiental ecuatoriano , miembro del pueblo quichua -panzaleo. Desde su juventud, su carrera política dentro del movimiento indígena ha ido en ascenso, llegando a ser presidente del Movimiento Indígena y Campesino de Cotopaxi, en 2016. Ocupando este cargo, fue uno del los protagonistas de las manifestaciones de octubre de 2019 , protagonizadas por la Confederación de Nacionalidades Indígena (Conaie), contra el gobierno de Lenín Moreno . [ 3 ] ​ [ 4 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 245,
         "name": "Guadalupe Llori",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Guadalupe_Llori%2C_5_de_abril_de_2022.jpg/250px-Guadalupe_Llori%2C_5_de_abril_de_2022.jpg",
@@ -5767,29 +5077,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1988",
         "biography": "Esperanza Guadalupe Llori Abarca ( El Coca , 1963) es una abogada y política ecuatoriana. Ha ocupado diversos cargos públicos, siendo el más importante de ellos, la de Presidenta de la Asamblea Nacional de Ecuador (entre mayo de 2021 y mayo de 2022), [ 1 ] ​ siendo la primera mujer indígena en la historia de Ecuador en dirigir el Poder legislativo , [ 2 ] ​ [ 3 ] ​ así como la primera miembro del Movimiento de Unidad Plurinacional Pachakutik en alcanzar dicho cargo. [ 4 ] ​ [ 5 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 246,
-        "name": "Luis Macas",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Luismacas.jpg/250px-Luismacas.jpg",
-        "party": "Pachakutik",
-        "province": "loja",
-        "currentPosition": "",
-        "experience": 50,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 75,
-        "birthplace": "",
-        "careerStart": "1975",
-        "biography": "Luis Alberto Macas Ambuludí ( Saraguro , Provincia de Loja , 3 de junio de 1950) es un dirigente indígena , político e intelectual ecuatoriano de nacionalidad kichwa .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -5846,29 +5133,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 249,
-        "name": "Salvador Quishpe",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/COMISI%C3%93N_DEL_DERECHO_AL_TRABAJO._ECUADOR%2C_23_DE_MARZO_DEL_2022_%2851955884757%29.jpg/250px-COMISI%C3%93N_DEL_DERECHO_AL_TRABAJO._ECUADOR%2C_23_DE_MARZO_DEL_2022_%2851955884757%29.jpg",
-        "party": "Pachakutik",
-        "province": "zamora chinchipe",
-        "currentPosition": "",
-        "experience": 29,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 54,
-        "birthplace": "",
-        "careerStart": "1996",
-        "biography": "Salvador Quishpe Lozano ( Zamora , 15 de marzo de 1971) es un político ecuatoriano militante de Pachakutik que fue prefecto de Zamora Chinchipe ; durante su gestión se ha convertido en una figura del movimiento indígena por su fuerte oposición a las políticas de la presidencia de Rafael Correa , llegando a ser precandidato de su partido para las elecciones presidenciales de 2017 . [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 250,
         "name": "Karla Reátegui",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Karla_Re%C3%A1tegui.jpg/250px-Karla_Re%C3%A1tegui.jpg",
@@ -5892,29 +5156,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 251,
-        "name": "Marlon Santi",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Marlon-Santi.jpg/250px-Marlon-Santi.jpg",
-        "party": "Pachakutik",
-        "province": "",
-        "currentPosition": "",
-        "experience": 24,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 49,
-        "birthplace": "",
-        "careerStart": "2001",
-        "biography": "Marlon René Santi Gualinga ( Sarayacu , 1976) es un dirigente indígena y político ecuatoriano de nacionalidad kichwa .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 252,
         "name": "Lourdes Tibán",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lourdes_Tib%C3%A1n%2C_posesi%C3%B3n_de_Daniel_Noboa_1_%28cropped%29.jpg/250px-Lourdes_Tib%C3%A1n%2C_posesi%C3%B3n_de_Daniel_Noboa_1_%28cropped%29.jpg",
@@ -5928,29 +5169,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1994",
         "biography": "Lourdes Licenia Tibán Guala ( Salcedo , 15 de octubre de 1969) es una abogada y política ecuatoriana de etnia indígena . Es la prefecta provincial de Cotopaxi , desde el 14 de mayo de 2023; siendo considerada una de las líderes nacionales del movimiento indígena. [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 253,
-        "name": "César Umajinga",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cesar_Umajinga_%28cropped%29.png/250px-Cesar_Umajinga_%28cropped%29.png",
-        "party": "Pachakutik (hasta 2022) Partido SUMA (desde 2022)",
-        "province": "cotopaxi",
-        "currentPosition": "",
-        "experience": 31,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 56,
-        "birthplace": "",
-        "careerStart": "1994",
-        "biography": "César Umajinga Guamán ( Pujilí , 1969) [ 1 ] ​ es un político ecuatoriano que ocupó la prefectura de la provincia de Cotopaxi durante 12 años consecutivos.",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -6076,29 +5294,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 259,
-        "name": "Fernando Aguirre Cordero",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fernando_Aguirre_Cordero.jpg/250px-Fernando_Aguirre_Cordero.jpg",
-        "party": "Partido Social Cristiano",
-        "province": "azuay",
-        "currentPosition": "",
-        "experience": 31,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 56,
-        "birthplace": "",
-        "careerStart": "1994",
-        "biography": "Fernando Aguirre Cordero ( Cuenca , 5 de noviembre de 1969) un político ecuatoriano , conocido mayormente en provincia de Azuay , desempeñó cargos de elección popular y designación, fue gobernador de su provincia y legislador dos ocasiones. Es militante y presidente provincial del Partido Social Cristiano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 260,
         "name": "Patricia Briones",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Patricia_Briones%2C15_DE_NOVIEMBRE_DE_2024_%28sq_cropped%29.png/250px-Patricia_Briones%2C15_DE_NOVIEMBRE_DE_2024_%28sq_cropped%29.png",
@@ -6112,29 +5307,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1987",
         "biography": "Patricia Ignacia Briones Fernández ( Portoviejo , 18 de octubre de 1962) [ 1 ] ​ es una política ecuatoriana , primera mujer en ocupar la alcaldía de Portoviejo .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 261,
-        "name": "Simón Bustamante",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
-        "party": "Partido Social Cristiano",
-        "province": "manabí",
-        "currentPosition": "",
-        "experience": 49,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 74,
-        "birthplace": "",
-        "careerStart": "1976",
-        "biography": "Simón Bustamante Vera (16 de febrero de 1951, Jipijapa , Ecuador ) es un político ecuatoriano que ocupó el puesto de diputado en el Congreso Nacional por más de 18 años, [ 1 ] ​ además de haber sido el líder máximo del Partido Social Cristiano en la provincia de Manabí . [ 2 ] ​",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -6227,52 +5399,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1967",
         "biography": "José Marcelo Dotti Almeida (2 de diciembre de 1942, Quito , Ecuador ) [ 1 ] ​ es un político, abogado y radiodifusor ecuatoriano.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 266,
-        "name": "Wilson Erazo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/WE_2024.jpg",
-        "party": "",
-        "province": "santo domingo de los tsáchilas",
-        "currentPosition": "",
-        "experience": 36,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 61,
-        "birthplace": "",
-        "careerStart": "1989",
-        "biography": "Wilson Erazo Argoti ( San Gabriel , 4 de marzo de 1964) es un político ecuatoriano , y actual alcalde de Santo Domingo , desde el 14 de mayo de 2019. [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 267,
-        "name": "Carlos Falquez Aguilar",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Carlos_Falquez_Aguilar.jpg/250px-Carlos_Falquez_Aguilar.jpg",
-        "party": "Partido Social Cristiano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 25,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 50,
-        "birthplace": "",
-        "careerStart": "2000",
-        "biography": "Carlos Alberto Falquez Aguilar ( Pasaje , 12 de agosto de 1975) es un ingeniero agrónomo y político ecuatoriano . Fue alcalde de Machala , entre 2014 y 2019. [ 1 ] ​",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -6421,52 +5547,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 274,
-        "name": "Nicolás Lapentti Carrión",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/NICOLAS-EDUARDO-LAPENTTI-CARRI%C3%93N_%288318637740%29.jpg/250px-NICOLAS-EDUARDO-LAPENTTI-CARRI%C3%93N_%288318637740%29.jpg",
-        "party": "Partido Social Cristiano (hasta 2022)",
-        "province": "guayas",
-        "currentPosition": "",
-        "experience": 56,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 81,
-        "birthplace": "",
-        "careerStart": "1969",
-        "biography": "Nicolás Eduardo Lapentti Carrión ( Ambato , 20 de marzo de 1944) [ 2 ] ​ es un político y economista ecuatoriano . Fue legislador nacional en dos ocasiones y prefecto de la provincia del Guayas durante 4 periodos consecutivos (de 1992 a 2009). [ 3 ] ​ [ 2 ] ​ Es el padre de los extenistas Nicolás Lapentti y Giovanni Lapentti . [ 4 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 275,
-        "name": "Rodrigo Mena",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rodrigo_Mena.jpg/250px-Rodrigo_Mena.jpg",
-        "party": "Partido Social Cristiano Unidad Primero",
-        "province": "",
-        "currentPosition": "",
-        "experience": 34,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 59,
-        "birthplace": "",
-        "careerStart": "1991",
-        "biography": "Ministerio de Agricultura y Ganadería [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 276,
         "name": "Mariana Mendieta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
@@ -6503,29 +5583,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1980",
         "biography": "Mayra Migdonia Montaño Guisamano ( San Lorenzo , provincia de Esmeraldas ; 24 de diciembre de 1955) conocida por su pseudónimo de La Bombón , es una animadora , reportera y política ecuatoriana . Actualmente es Concejala Municipal de Guayaquil, en representación de la Circunscripción Urbana 1 por el Partido Social Cristiano , [ 1 ] ​ y presentadora de noticias de comunidad.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 278,
-        "name": "Jaime Nebot",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/REUNI%C3%93N_DE_OPOSICI%C3%93N_%2818746735053%29.jpg/250px-REUNI%C3%93N_DE_OPOSICI%C3%93N_%2818746735053%29.jpg",
-        "party": "Partido Social Cristiano Madera de Guerrero",
-        "province": "guayas",
-        "currentPosition": "",
-        "experience": 54,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 79,
-        "birthplace": "",
-        "careerStart": "1971",
-        "biography": "Jaime José Nebot Saadi ( Guayaquil , 22 de octubre de 1946) es un abogado y político ecuatoriano quién ejerció como alcalde de Guayaquil por 18 años, nueve meses y cuatro días: desde el año 2000 hasta el 2019. El 14 de mayo de 2019 entregó la alcaldía a Cynthia Viteri tras casi 19 años como alcalde. [ 1 ] ​ Ha desempeñado cargos públicos como diputado por la provincia del Guayas del antiguo Congreso Nacional del Ecuador y como Gobernador de la provincia del Guayas. Ha sido candidato a la presidencia de la República del Ecuador en dos ocasiones.",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -6697,29 +5754,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 286,
-        "name": "Josué Sánchez",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Josu%C3%A9_S%C3%A1nchez.JPG/250px-Josu%C3%A9_S%C3%A1nchez.JPG",
-        "party": "Partido Social Cristiano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 13,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 38,
-        "birthplace": "",
-        "careerStart": "2012",
-        "biography": "Josué Sánchez Camposano ( Guayaquil , 10 de agosto de 1987) es un administrador , empresario y político ecuatoriano . Ejerció como vicealcalde de Guayaquil , desde 15 de mayo de 2019 hasta el 14 de mayo de 2023. [ 1 ] ​ [ 2 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 287,
         "name": "Andrea Scacco",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Andrea_Scacco_-_PRESIDENTA_DE_LA_ASAMBLEA_NACIONAL_GUADALUPE_LLORI_PARTICIPA_EN_LA_SESI%C3%93N_CONMEMORATIVA_POR_LOS_415_A%C3%91OS_DE_FUNDACI%C3%93N_DE_LA_CIUDAD_DE_IBARRA._ECUADOR_28_DE_SEPTIEMBRE_DE_2021.jpg/250px-thumbnail.jpg",
@@ -6779,29 +5813,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "2005",
         "biography": "Vicente Giovanny Taiano Basante ( Guayaquil , 18 de mayo de 1980) [ cita requerida ] es un abogado y político ecuatoriano. Actualmente se desempeña en el libre ejercicio de su profesión en el estudio jurídico Taiano y Asociados. Previamentre fue gerente de la Autoridad de Tránsito Municipal de Guayaquil . [ 5 ] ​ Fue asambleísta por el distrito 2 de la Guayas por el Partido Social Cristiano . [ 6 ] ​ Además, anteriormente se desempeñaba como el secretario municipal del Concejo Cantonal de Guayaquil , cargo que ejerció hasta el 17 de noviembre de 2016. [ 3 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 290,
-        "name": "Johnny Terán",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/PREFECTO_DE_LOS_R%C3%8DOS.jpg/250px-PREFECTO_DE_LOS_R%C3%8DOS.jpg",
-        "party": "Partido Social Cristiano",
-        "province": "los ríos",
-        "currentPosition": "",
-        "experience": 40,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 65,
-        "birthplace": "",
-        "careerStart": "1985",
-        "biography": "Johnny Enrique Terán Salcedo ( Babahoyo , 27 de noviembre de 1960) [ 4 ] ​ es un político ecuatoriano , actual prefecto provincial de Los Ríos",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -6881,29 +5892,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 294,
-        "name": "Carlos Vera (periodista)",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/ENTREVISTA_AL_PRESIDENTE_GUILLERMO_LASSO_EN_EL_PROGRAMA_VERA_A_SU_MANERA._QUITO%2C_24_DE_FEBRERO_DE_2022.jpg/250px-ENTREVISTA_AL_PRESIDENTE_GUILLERMO_LASSO_EN_EL_PROGRAMA_VERA_A_SU_MANERA._QUITO%2C_24_DE_FEBRERO_DE_2022.jpg",
-        "party": "Madera de Guerrero (desde 2009)",
-        "province": "manabí",
-        "currentPosition": "",
-        "experience": 45,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 70,
-        "birthplace": "",
-        "careerStart": "1980",
-        "biography": "Carlos Edmundo Juan de Dios Vera Rodríguez ( Bahía de Caráquez , Manabí , 8 de marzo de 1955) es un periodista y político ecuatoriano . Practicó el periodismo de investigación y fue entrevistador durante 30 años. Desde el 2009 incursionó en la política ecuatoriana como parte del Movimiento Cívico Madera de Guerrero , [ 1 ] ​ [ 2 ] ​ [ 3 ] ​ y luego postulándose como asambleísta nacional por la alianza del movimiento en conjunto con el PSC , sin obtener un curul. [ 4 ] ​ [ 5 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 295,
         "name": "Paola Vintimilla",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Paola_Vintimilla_5_DE_JUNIO_2018_%28sq_cropped%29.jpg/250px-Paola_Vintimilla_5_DE_JUNIO_2018_%28sq_cropped%29.jpg",
@@ -6973,29 +5961,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 298,
-        "name": "Pedro Zapata",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Asambleista_pedro_zapata.jpg/250px-Asambleista_pedro_zapata.jpg",
-        "party": "Partido Social Cristiano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 40,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 65,
-        "birthplace": "",
-        "careerStart": "1985",
-        "biography": "Pedro Aníbal Zapata Rumipamba ( San Cristóbal , 22 de febrero de 1960) es un político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 299,
         "name": "Silvia Buendía",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Silvia_Buend%C3%ADa_2013.jpg/250px-Silvia_Buend%C3%ADa_2013.jpg",
@@ -7032,29 +5997,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "2003",
         "biography": "Iván Xavier Granda Molina ( Cuenca, 14 de abril de 1978) es un abogado ecuatoriano. Desempeñó el cargo de Ministro de Inclusión Económica y Social de Ecuador desde octubre de 2019 hasta septiembre de 2020. [ 1 ] ​Actualmente se desempeña como Asesor del Secretario General de la OEA, Luis Almagro desde el 2 de febrero de 2021.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 301,
-        "name": "Paco Moncayo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Paco_Moncayo_2010.jpg/250px-Paco_Moncayo_2010.jpg",
-        "party": "Izquierda Democrática (1998-2008) Movimiento Municipalista (2008-2013) Izquierda Democrática (desde 2015)",
-        "province": "pichincha",
-        "currentPosition": "",
-        "experience": 60,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 85,
-        "birthplace": "",
-        "careerStart": "1965",
-        "biography": "Paco Rosendo Moncayo Gallegos ( Quito , 8 de octubre de 1940), es un político y militar (retirado) ecuatoriano , con el rango de general . Fue consejero de Gobierno de Seguridad Nacional, entre abril y junio de 2023; en el gobierno de Guillermo Lasso . [ 1 ] ​ Ejerció como diputado nacional (1998-2000), alcalde Metropolitano de Quito (2000-2009), y asambleísta nacional por Pichincha (2009-2013). También se desempeñó como jefe del Comando Conjunto de las Fuerzas Armadas del Ecuador (1996-1998).",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -7134,29 +6076,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 305,
-        "name": "Luis Almeida",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/SESI%C3%93N_NO._770_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_29_DE_MARZO_DEL_2022._%2851968151117%29.jpg/250px-SESI%C3%93N_NO._770_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_29_DE_MARZO_DEL_2022._%2851968151117%29.jpg",
-        "party": "Partido Social Cristiano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 42,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 67,
-        "birthplace": "",
-        "careerStart": "1983",
-        "biography": "Luis Fernando Almeida Morán ( Vinces , 24 de junio de 1958) es un abogado y político ecuatoriano . Ha sido asambleísta y diputado en varios periodos legislativos, además de concejal de Guayaquil .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 306,
         "name": "Ximena Bohórquez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ximena_Bohorquez_%2812_de_noviembre%29_%28cropped%29.jpg/250px-Ximena_Bohorquez_%2812_de_noviembre%29_%28cropped%29.jpg",
@@ -7170,98 +6089,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1981",
         "biography": "Ximena Bohórquez Romero ( Quito , 12 de noviembre de 1956), [ 1 ] ​ es una médica y política ecuatoriana , esposa de Lucio Gutiérrez Borbúa , y primera dama de Ecuador , cargo que ejerció entre el 15 de enero de 2003 y el 20 de abril de 2005. Fue además parlamentaria, representante de Pichincha en el Congreso Nacional del Ecuador durante el mismo período.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 307,
-        "name": "Lucio Gutiérrez",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lucio_Guti%C3%A9rrez-Asamble%C3%ADsta_%2812-12-2023%29.jpg/250px-Lucio_Guti%C3%A9rrez-Asamble%C3%ADsta_%2812-12-2023%29.jpg",
-        "party": "Partido Sociedad Patriótica",
-        "province": "",
-        "currentPosition": "",
-        "experience": 43,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 68,
-        "birthplace": "",
-        "careerStart": "1982",
-        "biography": "Lucio Edwin Gutiérrez Borbúa ( Quito , 23 de marzo de 1957) es un político , empresario , licenciado en Educación Física , ingeniero civil y ex militar ecuatoriano . Fue presidente del Ecuador entre el 15 de enero de 2003 y el 20 de abril de 2005, fecha en la que fue derrocado por la Rebelión de los forajidos . Es asambleísta nacional , desde noviembre de 2023.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 308,
-        "name": "Gilmar Gutiérrez",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Asamble%C3%ADsta_Gilmar_Guti%C3%A9rrez_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_2013-2017_%288740727911%29.jpg/250px-Asamble%C3%ADsta_Gilmar_Guti%C3%A9rrez_en_la_Sesi%C3%B3n_Inaugural_de_la_Asamblea_Nacional_2013-2017_%288740727911%29.jpg",
-        "party": "PSP",
-        "province": "napo",
-        "currentPosition": "",
-        "experience": 32,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 57,
-        "birthplace": "",
-        "careerStart": "1993",
-        "biography": "Fausto Gilmar Gutiérrez Borbúa [ 1 ] ​ (15 de febrero de 1968) es un militar , ingeniero mecánico y político ecuatoriano , presidente del Partido Sociedad Patriótica (PSP), asambleísta y ex diputado por la provincia del Napo . [ 2 ] ​ Es hermano del expresidente del Ecuador , Lucio Gutiérrez y excandidato a la presidencia. [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 309,
-        "name": "Galo Lara",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Galo_Lara_en_2011.jpg/250px-Galo_Lara_en_2011.jpg",
-        "party": "",
-        "province": "los ríos",
-        "currentPosition": "",
-        "experience": 32,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 57,
-        "birthplace": "",
-        "careerStart": "1993",
-        "biography": "Tito Galo Lara Yépez ( Quevedo , 4 de enero de 1968) es un ingeniero en ventas y político que ocupó el cargo de asambleísta en la provincia de Los Ríos , siendo parte del Partido Sociedad Patriótica .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 310,
-        "name": "Vicente Taiano",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/JOS%C3%89-VICENTE-TAIANO-%C3%81LVAREZ_%288317572235%29.jpg/250px-JOS%C3%89-VICENTE-TAIANO-%C3%81LVAREZ_%288317572235%29.jpg",
-        "party": "Partido Renovador Institucional Acción Nacional (2002-2012) Partido Sociedad Patriótica (desde 2012)",
-        "province": "guayas",
-        "currentPosition": "",
-        "experience": 44,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 69,
-        "birthplace": "",
-        "careerStart": "1981",
-        "biography": "José Vicente Taiano Álvarez (5 de abril de 1956, Guayaquil , Ecuador ) es un abogado, político y exjuez de Ecuador . [ 2 ] ​ Entre los cargos que ha desempeñado destacan asambleísta nacional, asambleísta constituyente, diputado nacional y Juez octavo y noveno de lo Penal de la Provincia de Guayas . [ 2 ] ​ Se desempeñó como gobernador de la provincia del Guayas desde el 24 de mayo de 2021. [ 3 ] ​",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -7364,29 +6191,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 315,
-        "name": "Fausto Molina",
-        "image": "",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 0,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 0,
-        "birthplace": "",
-        "careerStart": "",
-        "biography": "Fausto Molina Molina fue un ideólogo de la Democracia Cristiana de Ecuador . Fundador del partido Democracia Popular . [ 1 ] ​ [ 2 ] ​ Fue Secretario General de la Secretaría Nacional de Información Pública en la presidencia de Jaime Roldós Aguilera . [ 3 ] ​ Murió en un accidente de tránsito el 23 de marzo de 1980.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 316,
         "name": "Alexandra Vela",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Entrevista_de_la_ministra_de_Gobierno%2C_Alexandra_Vela%2C_en_el_programa_Politicamente_Correcto._01.10.2021_%2851549481206%29_%28cropped%29.jpg/250px-Entrevista_de_la_ministra_de_Gobierno%2C_Alexandra_Vela%2C_en_el_programa_Politicamente_Correcto._01.10.2021_%2851549481206%29_%28cropped%29.jpg",
@@ -7433,29 +6237,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 318,
-        "name": "Alberto Acosta Espinosa",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alberto_Acosta_%28detalle%29.jpg/250px-Alberto_Acosta_%28detalle%29.jpg",
-        "party": "Pachakutik (1995-2005) Alianza PAÍS (2006-2009) Montecristi Vive (desde 2011)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 52,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 77,
-        "birthplace": "",
-        "careerStart": "1973",
-        "biography": "Alberto José Acosta Espinosa ( Quito , 21 de julio de 1948) es un economista y político ecuatoriano de izquierda . Acosta a lo largo de su carrera ha mantenido un perfil intelectual de izquierda , simpatizando con el marxismo , el movimiento antiglobalización y el antiminero .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 319,
         "name": "César Acosta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
@@ -7479,29 +6260,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 320,
-        "name": "Fabián Alarcón",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fabian_Alarcon.jpg/250px-Fabian_Alarcon.jpg",
-        "party": "Frente Radical Alfarista (desde 1988) Demócrata (hasta 1988)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 53,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 78,
-        "birthplace": "",
-        "careerStart": "1972",
-        "biography": "Fabián Ernesto Alarcón Rivera ( Quito , 14 de abril de 1947) [ 1 ] ​ es un abogado y ex político ecuatoriano . Fue presidente interino del Ecuador entre el 11 de febrero de 1997. [ 2 ] ​ y el 10 de agosto de 1998, por designación del Congreso Nacional , tras el derrocamiento de Abdalá Bucaram .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 321,
         "name": "Vicente Albornoz",
         "image": "",
@@ -7515,121 +6273,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "",
         "biography": "Vicente Albornoz Guarderas ( Quito , 1969) es un economista y periodista ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 322,
-        "name": "Harry Álvarez",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 0,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 0,
-        "birthplace": "",
-        "careerStart": "",
-        "biography": "Harry Abdón Álvarez García es un abogado y político ecuatoriano que ocupó la alcaldía de Machala entre 1988 y 1992. [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 323,
-        "name": "Vladimiro Álvarez",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-        "party": "Democracia Popular",
-        "province": "",
-        "currentPosition": "",
-        "experience": 57,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 82,
-        "birthplace": "",
-        "careerStart": "1968",
-        "biography": "Vladimiro Álvarez Grau ( Guayaquil , 4 de enero de 1943) [ 1 ] ​ es un abogado y político ecuatoriano . Ocupó el cargo de Ministro de Gobierno durante los mandatos de Osvaldo Hurtado y Jamil Mahuad . Otros puestos que desempeñó incluyen Diputado Nacional, Ministro de Trabajo y Ministro de Educación, además de ser rector de la Universidad Católica de Santiago de Guayaquil . [ 2 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 324,
-        "name": "Luis Andrade Galindo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 60,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 85,
-        "birthplace": "",
-        "careerStart": "1965",
-        "biography": "Luis Aníbal Andrade Galindo ( Cotacachi , [ 1 ] ​ 1943/1944) [ 2 ] ​ es un abogado y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 325,
-        "name": "Trajano Andrade",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Trajano_Andrade_%2812_de_noviembre_de_2008%29.jpg/250px-Trajano_Andrade_%2812_de_noviembre_de_2008%29.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "Diputado Nacional del Ecuador",
-        "experience": 51,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 76,
-        "birthplace": "",
-        "careerStart": "1974",
-        "biography": "Trajano Roberto Andrade Viteri ( Manta , 22 de noviembre de 1949) [ 1 ] ​ es un abogado y político de Ecuador que ha ocupado varios cargos públicos.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 326,
-        "name": "Jorge Añazco",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-        "party": "Frente Radical Alfarista",
-        "province": "loja",
-        "currentPosition": "",
-        "experience": 0,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 0,
-        "birthplace": "",
-        "careerStart": "",
-        "biography": "Jorge Añazco Castillo ( Loja ) [ 1 ] ​ fue un militar y político ecuatoriano , primer prefecto provincial de Sucumbíos y uno de los fundadores de la ciudad de Nueva Loja .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -7732,75 +6375,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 331,
-        "name": "Polo Baquerizo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/POLO_BAQUERIZO.jpg/250px-POLO_BAQUERIZO.jpg",
-        "party": "Partido Social Cristiano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 45,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 70,
-        "birthplace": "",
-        "careerStart": "1980",
-        "biography": "Leopoldo Bechara Ottón Eloy Osvaldo Baquerizo Adum [ 4 ] ​ ( Guayaquil , 23 de marzo de 1955) [ 1 ] ​ más conocido como Polo Baquerizo , es un periodista , conductor de televisión y político ecuatoriano . [ 5 ] ​ Fue conductor del programa concurso Haga Negocio Conmigo , desde sus inicios. Se desempeña como concejal del municipio de Guayaquil , desde el año 2003. [ 6 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 332,
-        "name": "Samuel Bellettini",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Samuel_belletini_%28cropped%29.jpg/250px-Samuel_belletini_%28cropped%29.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 0,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 0,
-        "birthplace": "",
-        "careerStart": "",
-        "biography": "Samuel Umberto Bellettini Zedeño ( Bahía de Caráquez , ?) [ 1 ] ​ es un político ecuatoriano que ocupó la presidencia del Congreso Nacional entre 1993 y 1994.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 333,
-        "name": "Ximena Bohórquez",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ximena_Bohorquez_%2812_de_noviembre%29_%28cropped%29.jpg/250px-Ximena_Bohorquez_%2812_de_noviembre%29_%28cropped%29.jpg",
-        "party": "Partido Sociedad Patriótica",
-        "province": "pichincha",
-        "currentPosition": "",
-        "experience": 44,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 69,
-        "birthplace": "",
-        "careerStart": "1981",
-        "biography": "Ximena Bohórquez Romero ( Quito , 12 de noviembre de 1956), [ 1 ] ​ es una médica y política ecuatoriana , esposa de Lucio Gutiérrez Borbúa , y primera dama de Ecuador , cargo que ejerció entre el 15 de enero de 2003 y el 20 de abril de 2005. Fue además parlamentaria, representante de Pichincha en el Congreso Nacional del Ecuador durante el mismo período.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 334,
         "name": "Rodrigo Borja Cevallos",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RodrigoBorja-Harvard2016.png/250px-RodrigoBorja-Harvard2016.png",
@@ -7814,121 +6388,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1960",
         "biography": "Rodrigo Borja Cevallos ( Quito , 19 de junio de 1935) es un ex político , jurista y abogado ecuatoriano . Fue presidente del Ecuador entre el 10 de agosto de 1988 y el 10 de agosto de 1992.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 335,
-        "name": "Diego Borja",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diego_Borja_Cornejo_%28cropped%29.jpg/250px-Diego_Borja_Cornejo_%28cropped%29.jpg",
-        "party": "Poder Ciudadano (desde 2006)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 36,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 61,
-        "birthplace": "",
-        "careerStart": "1989",
-        "biography": "Gustavo Diego Borja Cornejo ( Quito , 1 de mayo de 1964) es un economista y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 336,
-        "name": "Elsa Bucaram",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Escudo_de_Guayaquil.svg/60px-Escudo_de_Guayaquil.svg.png",
-        "party": "Partido Roldosista Ecuatoriano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 49,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 74,
-        "birthplace": "",
-        "careerStart": "1976",
-        "biography": "Elsa Bucaram Ortiz es una abogada y política ecuatoriana de ascendencia libanesa , hermana del expresidente del Ecuador Abdala Bucaram y del exdiputado Jacobo Bucaram . Miembro del Partido Roldosista Ecuatoriano , fue elegida alcaldesa de Guayaquil , siendo la primera mujer en ocupar ese cargo en la historia de la ciudad. Rigió el municipio entre el 15 de mayo de 1988 y el 17 de mayo de 1991. [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 337,
-        "name": "Julio Burbano Aguirre",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "Diputado Nacional del Ecuador",
-        "experience": 121,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 146,
-        "birthplace": "",
-        "careerStart": "1904",
-        "biography": "Julio Burbano Aguirre ( Guayaquil , 1895- Ibídem , 11 de mayo de 1939) fue un empresario, banquero y político ecuatoriano . Fue presidente del Concejo Cantonal de Guayaquil y senador de la República del Ecuador, de la que fue presidente interino en dos ocasiones, durante el gobierno de Alfredo Baquerizo Moreno .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 338,
-        "name": "Dalton Burgos",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Asamble%C3%ADsta_Dalton_Burgos_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_187_del_Pleno_de_la_Asamblea_Nacional_%287983246965%29.jpg/250px-Asamble%C3%ADsta_Dalton_Burgos_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_187_del_Pleno_de_la_Asamblea_Nacional_%287983246965%29.jpg",
-        "party": "Movimiento Autonómico Regional",
-        "province": "azuay",
-        "currentPosition": "",
-        "experience": 51,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 76,
-        "birthplace": "",
-        "careerStart": "1974",
-        "biography": "Dalton Alexis Burgos Villamar ( Guayaquil , Ecuador , 17 de diciembre de 1949) es un sociólogo y político ecuatoriano. Fue parte del CONGOPE y asambleísta alterno por la provincia de El Oro , además de director de la mancomunidad El Oro-Azuay, denominada \"Austro Sur\". [ 1 ] ​ [ 2 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 339,
-        "name": "Simón Bustamante",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
-        "party": "Partido Social Cristiano",
-        "province": "manabí",
-        "currentPosition": "",
-        "experience": 49,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 74,
-        "birthplace": "",
-        "careerStart": "1976",
-        "biography": "Simón Bustamante Vera (16 de febrero de 1951, Jipijapa , Ecuador ) es un político ecuatoriano que ocupó el puesto de diputado en el Congreso Nacional por más de 18 años, [ 1 ] ​ además de haber sido el líder máximo del Partido Social Cristiano en la provincia de Manabí . [ 2 ] ​",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -7985,29 +6444,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 342,
-        "name": "Fernando Callejas",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fernando_Callejas_%28detalle%29.png/250px-Fernando_Callejas_%28detalle%29.png",
-        "party": "Movimiento CREO",
-        "province": "",
-        "currentPosition": "",
-        "experience": 52,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 77,
-        "birthplace": "",
-        "careerStart": "1973",
-        "biography": "Fernando Callejas Barona ( Ambato , diciembre de 1948) es un político ecuatoriano que ocupó la alcaldía de Ambato entre 2000 y 2014. [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 343,
         "name": "Juan José Casilari y González",
         "image": "",
@@ -8021,75 +6457,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "",
         "biography": "Juan José Casilari y González ( Guayaquil , 1786 - Ibídem , 30 de octubre de 1842) fue un político ecuatoriano , prócer de las acciones libertarias del 9 de octubre de 1820 .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 344,
-        "name": "José Bolívar Castillo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Asamble%C3%ADsta_Jos%C3%A9_Bol%C3%ADvar_Castillo_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_235_del_Pleno_de_la_Asamblea_Nacional_%288937060886%29.jpg/250px-Asamble%C3%ADsta_Jos%C3%A9_Bol%C3%ADvar_Castillo_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No.-_235_del_Pleno_de_la_Asamblea_Nacional_%288937060886%29.jpg",
-        "party": "Acción Regional por la Equidad",
-        "province": "bolívar",
-        "currentPosition": "",
-        "experience": 55,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 80,
-        "birthplace": "",
-        "careerStart": "1970",
-        "biography": "José Bolívar Castillo Vivanco (Catacocha, 7 de abril de 1945) es un político ecuatoriano . Fue elegido legislador en tres ocasiones y ocupó la Alcaldía de Loja durante cuatro períodos.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 345,
-        "name": "Jorge Cevallos Macías",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Arq_Jorge_Cevallos_M.jpg/250px-Arq_Jorge_Cevallos_M.jpg",
-        "party": "Partido Liberal Radical Ecuatoriano (1993-1997) Izquierda Democrática (1997) Partido Renovador Institucional Acción Nacional (2002-2007)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 45,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 70,
-        "birthplace": "",
-        "careerStart": "1980",
-        "biography": "Jorge José Cevallos Macías ( Santa Ana , 1955) [ 1 ] ​ [ 2 ] ​ es un arquitecto y político ecuatoriano, último presidente del Congreso Nacional de Ecuador antes de su eliminación en 2007. [ 3 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 346,
-        "name": "Rubén Cevallos",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 68,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 93,
-        "birthplace": "",
-        "careerStart": "1957",
-        "biography": "Rubén Cevallos Vega ( Tena , 2 de diciembre de 1932) [ 1 ] ​ fue un político ecuatoriano .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -8146,52 +6513,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 349,
-        "name": "Pascual del Cioppo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pascual_del_Cioppo.JPG/250px-Pascual_del_Cioppo.JPG",
-        "party": "Partido Social Cristiano (1979-2021)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 0,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 0,
-        "birthplace": "",
-        "careerStart": "",
-        "biography": "Pascual del Cioppo Aragundi ( Guayaquil , siglo XX ) es un político conservador ecuatoriano . [ 2 ] ​ [ 3 ] ​ Fue presidente nacional del Partido Social Cristiano desde 1999 hasta 2021, [ 4 ] ​ además de ser simpatizante del Opus Dei y amigo personal del ex- arzobispo de Guayaquil , Antonio Arregui Yarza . [ 5 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 350,
-        "name": "Efrén Cocíos",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/EFREN_COCIOS.jpg/250px-EFREN_COCIOS.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 56,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 81,
-        "birthplace": "",
-        "careerStart": "1969",
-        "biography": "Efrén Cocíos Jaramillo (1944) [ 1 ] ​ en un abogado y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 351,
         "name": "Lourdes Cuesta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lourdes_Cuesta.jpg/250px-Lourdes_Cuesta.jpg",
@@ -8215,75 +6536,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 352,
-        "name": "Pío Oswaldo Cueva",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 0,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 0,
-        "birthplace": "",
-        "careerStart": "",
-        "biography": "Pío Oswaldo Cueva Puertas es un político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 353,
-        "name": "Alberto Dahik",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alberto_dahik_garzozi.jpg/220px-Alberto_dahik_garzozi.jpg",
-        "party": "Partido Conservador Ecuatoriano (desde 1987)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 47,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 72,
-        "birthplace": "",
-        "careerStart": "1978",
-        "biography": "Alberto William Dahik Garzozi ( Guayaquil , 27 de agosto de 1953) es un político y economista ecuatoriano de origen libanés . Fue Vicepresidente del Ecuador del 10 de agosto de 1992 al 11 de octubre de 1995, cuando huyó del país para evitar una orden de captura en su contra que había sido emitida por la Corte Suprema de Justicia como resultado de una investigación a Dahik por malversación de fondos . [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 354,
-        "name": "Marcelo Dotti",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Parlamento_Andino_Logo.svg/60px-Parlamento_Andino_Logo.svg.png",
-        "party": "Partido Social Cristiano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 58,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 83,
-        "birthplace": "",
-        "careerStart": "1967",
-        "biography": "José Marcelo Dotti Almeida (2 de diciembre de 1942, Quito , Ecuador ) [ 1 ] ​ es un político, abogado y radiodifusor ecuatoriano.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 355,
         "name": "Roberto Dunn Barreiro",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
@@ -8297,121 +6549,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1967",
         "biography": "Roberto Dunn Barreiro (5 de mayo de 1942, Guayaquil , Ecuador ) [ 1 ] ​ es un político y empresario ecuatoriano . Como parte del grupo Dunn, fue uno de los dueños de la extinta aerolínea Saeta , de la que además fue presidente ejecutivo. [ 2 ] ​ Fundó también varias empresas importadoras, licoreras y de venta de vehículos. [ 3 ] ​ Además, Fue uno de los fundadores de diario Expreso . [ 4 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 356,
-        "name": "Gary Esparza",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gary_Esparza_%28cropped%29.jpg/250px-Gary_Esparza_%28cropped%29.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 70,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 95,
-        "birthplace": "",
-        "careerStart": "1955",
-        "biography": "Walter Gary Esparza Fabbiany ( Babahoyo , 1934/1935) [ 1 ] ​ es un político ecuatoriano . Fue presidente del Congreso Nacional , entre 1983 y 1984.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 357,
-        "name": "Balerio Estacio",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Balerio_Estacio_%2812_de_noviembre_de_2008%29.jpg/250px-Balerio_Estacio_%2812_de_noviembre_de_2008%29.jpg",
-        "party": "Partido Social Cristiano (1994-2002) Alianza PAÍS (2007-2014)",
-        "province": "esmeraldas",
-        "currentPosition": "",
-        "experience": 33,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 58,
-        "birthplace": "",
-        "careerStart": "1992",
-        "biography": "Sindulfo Balerio Estacio Valencia (Iscuande, Eloy Alfaro , Esmeraldas , Ecuador , 13 de septiembre de 1967) es un líder barrial y político ecuatoriano . Fue candidato a la alcaldía de Guayaquil en las elecciones municipales de 2014 por parte del Partido Socialista-Frente Amplio .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 358,
-        "name": "Jaime Estrada Bonilla",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 45,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 70,
-        "birthplace": "",
-        "careerStart": "1980",
-        "biography": "Jaime Edulfo Estrada Bonilla ( Manta , 23 de julio de 1955) [ 1 ] ​ es un político ecuatoriano que ocupó la alcaldía de la ciudad de Manta y fue diputado en varios periodos legislativos.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 359,
-        "name": "Marco Flores Troncoso",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/COMISI%C3%93N_DE_R%C3%89GIMEN_ECON%C3%93MICO._%28SEGUNDA%29._VIRTUAL._ECUADOR%2C_07_DE_ABRIL_DEL_2021.jpg/250px-COMISI%C3%93N_DE_R%C3%89GIMEN_ECON%C3%93MICO._%28SEGUNDA%29._VIRTUAL._ECUADOR%2C_07_DE_ABRIL_DEL_2021.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 0,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 0,
-        "birthplace": "",
-        "careerStart": "",
-        "biography": "Marco Flores Troncoso es un economista y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 360,
-        "name": "Antonio Gagliardo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-        "party": "Izquierda Democrática (1975-1995) Alianza PAÍS (desde 2006)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 57,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 82,
-        "birthplace": "",
-        "careerStart": "1968",
-        "biography": "Antonio Gagliardo Valarezo (1943/1944) [ 1 ] ​ es un político socialdemócrata ecuatoriano .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -8491,52 +6628,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 364,
-        "name": "Jorge Guamán",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jorge_Guaman_%28detalle%29.jpg/250px-Jorge_Guaman_%28detalle%29.jpg",
-        "party": "Pachakutik",
-        "province": "cotopaxi",
-        "currentPosition": "",
-        "experience": 35,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 60,
-        "birthplace": "",
-        "careerStart": "1990",
-        "biography": "Jorge Gonzalo Guamán Coronel ( Pujilí , 22 de abril de 1965) es un político ecuatoriano , que se desempeñó como Prefecto provincial de Cotopaxi . [ 2 ] ​ [ 3 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 365,
-        "name": "Santiago Guarderas",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Santiago_Guarderas_Izquierdo.jpg/250px-Santiago_Guarderas_Izquierdo.jpg",
-        "party": "Izquierda Democrática (hasta 2007) Partido Social Cristiano (hasta 2018) Unión Ecuatoriana (2019)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 38,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 63,
-        "birthplace": "",
-        "careerStart": "1987",
-        "biography": "Santiago Guarderas Izquierdo es un abogado y político ecuatoriano . Fue Alcalde Metropolitano de Quito desde el 30 de septiembre de 2021 hasta el 14 de mayo de 2023. También se desempeñó como Vicealcalde Metropolitano de Quito desde el 14 de mayo de 2019 hasta el 29 de septiembre de 2021.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 366,
         "name": "Humberto Guillem",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Asamble%C3%ADsta_Humberto_Guillem_%283078240178%29.jpg/250px-Asamble%C3%ADsta_Humberto_Guillem_%283078240178%29.jpg",
@@ -8550,29 +6641,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1967",
         "biography": "Humberto Manabí Guillem Murillo ( Portoviejo , 11 de agosto de 1942) es un médico y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 367,
-        "name": "Alfonso Harb",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pocho_Harb.jpg/330px-Pocho_Harb.jpg",
-        "party": "Partido Social Cristiano",
-        "province": "guayas",
-        "currentPosition": "",
-        "experience": 34,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 59,
-        "birthplace": "",
-        "careerStart": "1991",
-        "biography": "Alfonso Xavier Harb Viteri ( Guayaquil , 20 de mayo de 1966) es un periodista deportivo y expolítico ecuatoriano . Más conocido como el Pocho Harb , fue diputado del antiguo Congreso Nacional del Ecuador y presidente del Barcelona Sporting Club . Actualmente dirige un programa de radio llamado \"La Hora del Pocho\" por Radio Atalaya. Harb fue diputado por la provincia del Guayas del antiguo Congreso Nacional en el período comprendido entre 2003 al 2007 por el Partido Social Cristiano . Harb fue Vicepresidente de la comisión de Defensa del consumidor del Congreso Nacional, miembro de la directiva del PSC, fundador y Líder del Movimiento META.",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -8606,75 +6674,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 369,
-        "name": "Tatiana Hidrovo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Asamble%C3%ADsta_Tatiana_Hidrovo_%283077409069%29.jpg/250px-Asamble%C3%ADsta_Tatiana_Hidrovo_%283077409069%29.jpg",
-        "party": "Alianza PAÍS",
-        "province": "",
-        "currentPosition": "",
-        "experience": 40,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 65,
-        "birthplace": "",
-        "careerStart": "1985",
-        "biography": "Tatiana María del Carmen Hidrovo Quiñónez ( Portoviejo , 1960) es una escritora, política, docente universitaria, investigadora, historiadora y política ecuatoriana . [ 1 ] ​ Fue Asambleísta Constituyente en el período 2007-2008. [ 2 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 370,
-        "name": "Osvaldo Hurtado Larrea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Osvaldo_hurtado_y_jose_valencia_%28cropped%29.jpg/250px-Osvaldo_hurtado_y_jose_valencia_%28cropped%29.jpg",
-        "party": "Democracia Cristiana (1964-1977) Democracia Popular (1977-2001) Movimiento Patria Solidaria (2001-2003)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 61,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 86,
-        "birthplace": "",
-        "careerStart": "1964",
-        "biography": "Luis Osvaldo Hurtado Larrea ( Chambo , 26 de junio de 1939) es un abogado y político ecuatoriano . Fue presidente del Ecuador entre el 24 de mayo de 1981 y el 10 de agosto de 1984.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 371,
-        "name": "Lenin Hurtado",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-        "party": "Unidad Popular (desde 2014) Movimiento Popular Democrático (hasta 2014)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 37,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 62,
-        "birthplace": "",
-        "careerStart": "1988",
-        "biography": "Jaime Lenin Hurtado Angulo ( Guayaquil , 4 de noviembre de 1963) es un abogado y político ecuatoriano afroecuatoriano alineado con el partido Unidad Popular , ex-MPD .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 372,
         "name": "Silvana Ibarra",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
@@ -8688,29 +6687,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1984",
         "biography": "Silvana Marjorie Ibarra Castillo ( Milagro , 17 de febrero de 1959) [ 2 ] ​ es una cantante y actriz ecuatoriana con más de tres décadas de carrera artística. [ 3 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 373,
-        "name": "Nicolás Issa Wagner",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicolas_Issa_Wagner_%28detalle%29.jpg/250px-Nicolas_Issa_Wagner_%28detalle%29.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 21,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 46,
-        "birthplace": "",
-        "careerStart": "2004",
-        "biography": "Nicolás José Issa Wagner ( Guayaquil , 25 de septiembre de 1979) es un abogado y político ecuatoriano .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -8744,29 +6720,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 375,
-        "name": "Gustavo Larrea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gustavo_Larrea_%28cropped%29.jpg/250px-Gustavo_Larrea_%28cropped%29.jpg",
-        "party": "Acción Popular Revolucionaria (1994-2000) Alianza PAÍS (2006-2009) Movimiento Democracia Sí (desde 2015)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 44,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 69,
-        "birthplace": "",
-        "careerStart": "1981",
-        "biography": "Wilson Gustavo Larrea Cabrera (nacido el 3 de julio de 1956 en Quito ) es un político ecuatoriano de centroizquierda . Dirigente estudiantil, estratega político, diputado del Ecuador en el año 1994-1996, en 1996-1997 fue Subsecretario Administrativo del Ministerio de Gobierno y Policía, cuando el General Frank Vargas Pazzos era el Ministro.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 376,
         "name": "Mauricio Larrea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
@@ -8780,52 +6733,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1980",
         "biography": "Mauricio Ernesto Larrea Andrade ( Quito , 6 de enero de 1955) es un ingeniero civil y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 377,
-        "name": "Luis Macas",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Luismacas.jpg/250px-Luismacas.jpg",
-        "party": "Pachakutik",
-        "province": "loja",
-        "currentPosition": "",
-        "experience": 50,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 75,
-        "birthplace": "",
-        "careerStart": "1975",
-        "biography": "Luis Alberto Macas Ambuludí ( Saraguro , Provincia de Loja , 3 de junio de 1950) es un dirigente indígena , político e intelectual ecuatoriano de nacionalidad kichwa .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 378,
-        "name": "Jamil Mahuad",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mahuad_2020_1.1_%28cropped%29.jpg/250px-Mahuad_2020_1.1_%28cropped%29.jpg",
-        "party": "Democracia Popular",
-        "province": "loja",
-        "currentPosition": "",
-        "experience": 51,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 76,
-        "birthplace": "",
-        "careerStart": "1974",
-        "biography": "Jorge Jamil Mahuad Witt ( Loja , 29 de julio de 1949) [ 1 ] ​ es un abogado , músico y ex político ecuatoriano . Fue presidente del Ecuador entre el 10 de agosto de 1998 y el 21 de enero de 2000, fecha en la que fue derrocado por el golpe de Estado de 2000 .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -8905,29 +6812,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 382,
-        "name": "Luis Mejía Montesdeoca",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
-        "party": "",
-        "province": "imbabura",
-        "currentPosition": "",
-        "experience": 58,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 83,
-        "birthplace": "",
-        "careerStart": "1967",
-        "biography": "Luis Alfredo Mejía Montesdeoca ( Otavalo , 1942/1943) [ 1 ] ​ es un político ecuatoriano , considerado antes de su retiro como uno de los más influyentes de la provincia de Imbabura . [ 2 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 383,
         "name": "Heinz Moeller",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Retrato_heinz_moeller_%28cropped%29.jpg/250px-Retrato_heinz_moeller_%28cropped%29.jpg",
@@ -8974,29 +6858,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 385,
-        "name": "Jorge Montero Rodríguez",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
-        "party": "Concentración de Fuerzas Populares",
-        "province": "loja",
-        "currentPosition": "",
-        "experience": 48,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 73,
-        "birthplace": "",
-        "careerStart": "1977",
-        "biography": "Jorge Cristóbal Montero Rodríguez (1952, Cariamanga , Ecuador ) [ 1 ] ​ es un abogado y político ecuatoriano, diputado nacional en varias ocasiones por la provincia de Loja .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 386,
         "name": "Johanna Moreira",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jnmc.jpg/250px-Jnmc.jpg",
@@ -9010,121 +6871,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "2020",
         "biography": "Johanna Nicole Moreira Córdova es una política y abogada ecuatoriana. Actualmente ocupa el cargo de Cuarta vocal del Consejo de Administración Legislativa [ 1 ] ​ y es integrante de la Comisión Permanente de Justicia y Estructura del Estado [ 2 ] ​ desde el 15 de mayo de 2021. Inició su carrera política en las Elecciones Generales 2021-2025 .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 387,
-        "name": "Xavier Muñoz",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Xavier_Mu%C3%B1oz_Ch%C3%A1vez.jpg/250px-Xavier_Mu%C3%B1oz_Ch%C3%A1vez.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 54,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 79,
-        "birthplace": "",
-        "careerStart": "1971",
-        "biography": "Francisco Xavier Muñoz Chávez ( Cuenca , [ 2 ] ​ 1946/1947) [ 1 ] ​ es un abogado y político ecuatoriano que ocupó la alcaldía de Cuenca durante dos periodos no consecutivos.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 388,
-        "name": "Jaime Nebot",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/REUNI%C3%93N_DE_OPOSICI%C3%93N_%2818746735053%29.jpg/250px-REUNI%C3%93N_DE_OPOSICI%C3%93N_%2818746735053%29.jpg",
-        "party": "Partido Social Cristiano Madera de Guerrero",
-        "province": "guayas",
-        "currentPosition": "",
-        "experience": 54,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 79,
-        "birthplace": "",
-        "careerStart": "1971",
-        "biography": "Jaime José Nebot Saadi ( Guayaquil , 22 de octubre de 1946) es un abogado y político ecuatoriano quién ejerció como alcalde de Guayaquil por 18 años, nueve meses y cuatro días: desde el año 2000 hasta el 2019. El 14 de mayo de 2019 entregó la alcaldía a Cynthia Viteri tras casi 19 años como alcalde. [ 1 ] ​ Ha desempeñado cargos públicos como diputado por la provincia del Guayas del antiguo Congreso Nacional del Ecuador y como Gobernador de la provincia del Guayas. Ha sido candidato a la presidencia de la República del Ecuador en dos ocasiones.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 389,
-        "name": "Xavier Neira",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
-        "party": "Partido Social Cristiano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 53,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 78,
-        "birthplace": "",
-        "careerStart": "1972",
-        "biography": "Xavier Neira Menéndez ( Guayaquil , 25 de julio de 1947) es un economista y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 390,
-        "name": "Luzmila Nicolalde",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Luzmila_Nicolalde.JPG/250px-Luzmila_Nicolalde.JPG",
-        "party": "Partido Sociedad Patriótica (2006-2013) Partido Social Cristiano (desde 2013)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 43,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 68,
-        "birthplace": "",
-        "careerStart": "1982",
-        "biography": "Luzmila Nicolalde Cordero ( Guayaquil , Ecuador , 1 de junio de 1957) [ 2 ] ​ es una presentadora de televisión y política ecuatoriana. Es una de las presentadoras con más trayectoria en la televisión nacional, exconductora del programa de variedades Chispazos , que llegó a ser el más longevo al aire en el país, con 36 años. [ 3 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 391,
-        "name": "Álvaro Noboa",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/%C3%81lvaro_Noboa.jpg/250px-%C3%81lvaro_Noboa.jpg",
-        "party": "Partido Roldosista Ecuatoriano (1998-2002) Partido Renovador Institucional Acción Nacional (1999-2014) Adelante Ecuatoriano Adelante (2015-2020)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 50,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 75,
-        "birthplace": "",
-        "careerStart": "1975",
-        "biography": "Álvaro Fernando Noboa Pontón ( Guayaquil , 21 de noviembre de 1950) es un empresario , abogado y político ecuatoriano .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -9158,98 +6904,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 393,
-        "name": "Ricardo Noboa",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-        "party": "Partido Social Cristiano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 48,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 73,
-        "birthplace": "",
-        "careerStart": "1977",
-        "biography": "Ricardo Juan Noboa Bejarano (14 de julio de 1952) [ 1 ] ​ [ 2 ] ​ es un abogado y político ecuatoriano , hermano del expresidente Gustavo Noboa . [ 3 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 394,
-        "name": "Alexandra Ocles",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Alexandra_Ocles_%28cropped%29.png/250px-Alexandra_Ocles_%28cropped%29.png",
-        "party": "Ruptura 25 (2004-2012) Alianza PAÍS (desde 2006)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 28,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 53,
-        "birthplace": "",
-        "careerStart": "1997",
-        "biography": "María Alexandra Ocles Padilla ( Quito , 22 de enero de 1979) es una política y educadora ecuatoriana .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 395,
-        "name": "Nina Pacari",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nina_pacari_RADIO_CENTRO.png/250px-Nina_pacari_RADIO_CENTRO.png",
-        "party": "Pachakutik",
-        "province": "imbabura",
-        "currentPosition": "",
-        "experience": 39,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 64,
-        "birthplace": "",
-        "careerStart": "1986",
-        "biography": "Nina Pacari Vega Conejo, antes María Estela Vega Conejo ( Cotacachi , Imbabura , 9 de octubre de 1961), es una abogada , dirigenta indígena y política ecuatoriana de origen kichwa .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 396,
-        "name": "Raúl Patiño",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288741800638%29.jpg/250px-Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288741800638%29.jpg",
-        "party": "Partido Socialista Ecuatoriano (hasta 1995) Democracia Popular (1996-2006) Red Ética y Democracia (2006) Alianza PAÍS (desde 2006)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 48,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 73,
-        "birthplace": "",
-        "careerStart": "1977",
-        "biography": "Raúl Patiño Aroca ( Guayaquil , 3 de agosto de 1952) es un abogado y político ecuatoriano , hermano mayor del ex Canciller de la República, Ricardo Patiño .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 397,
         "name": "Federico Pérez Intriago",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
@@ -9273,29 +6927,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 398,
-        "name": "Camilo Ponce Gangotena",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
-        "party": "Partido Social Cristiano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 57,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 82,
-        "birthplace": "",
-        "careerStart": "1968",
-        "biography": "Camilo Ponce Gangotena ( Quito , 26 de abril de 1943) [ 1 ] ​ es un licenciado y político ecuatoriano , hijo del expresidente Camilo Ponce Enríquez . [ 2 ] ​ [ 3 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 399,
         "name": "Juan José Pons",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Juan_jose_pons_2022_%28cropped%29.jpg/250px-Juan_jose_pons_2022_%28cropped%29.jpg",
@@ -9309,121 +6940,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "",
         "biography": "Juan José Pons Arízaga es un político ecuatoriano que ocupó la presidencia del Congreso Nacional durante la crisis financiera de 1999 .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 400,
-        "name": "Antonio Posso",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antonio_Posso_%28cropped%29.png/250px-Antonio_Posso_%28cropped%29.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 51,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 76,
-        "birthplace": "",
-        "careerStart": "1974",
-        "biography": "Luis Antonio Posso Salgado ( Atuntaqui , 5 de agosto de 1949) [ 1 ] ​ es un catedrático y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 401,
-        "name": "Marco Proaño Maya",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Entrevista_en_la_Radio_de_la_Asamblea_Nacional_al_Dr._Marco_Proa%C3%B1o_Maya_%286338096067%29.jpg/250px-Entrevista_en_la_Radio_de_la_Asamblea_Nacional_al_Dr._Marco_Proa%C3%B1o_Maya_%286338096067%29.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 55,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 80,
-        "birthplace": "",
-        "careerStart": "1970",
-        "biography": "Marco Proaño Maya ( Otavalo , 12 de marzo de 1945) es un abogado y político ecuatoriano de izquierda que ocupó el cargo de diputado en el Congreso Nacional del Ecuador en seis ocasiones distintas, [ 1 ] ​ además de haber sido vicepresidente del Congreso y candidato tanto a la vicepresidencia como a la presidencia de la República.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 402,
-        "name": "Ramiro Rivera",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ramiro_Rivera.jpg/250px-Ramiro_Rivera.jpg",
-        "party": "Democracia Popular",
-        "province": "cañar",
-        "currentPosition": "",
-        "experience": 47,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 72,
-        "birthplace": "",
-        "careerStart": "1978",
-        "biography": "Luis Ramiro Rivera Molina ( Cañar , 21 de julio de 1953) [ 1 ] ​ es un político ecuatoriano que ocupó la vicepresidencia del Congreso Nacional entre 2003 y 2005. [ 2 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 403,
-        "name": "Denisse Robles",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288741778828%29.jpg/250px-Sesi%C3%B3n_Inaugural_Asamblea_Nacional_2013-2017_%288741778828%29.jpg",
-        "party": "Alianza PAÍS",
-        "province": "",
-        "currentPosition": "",
-        "experience": 13,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 38,
-        "birthplace": "",
-        "careerStart": "2012",
-        "biography": "Denisse Priscila Robles Andrade ( Milagro , 11 de julio de 1987) es una economista y política ecuatoriana . Fue la primera mujer en llegar a la alcaldía de la ciudad de Milagro . [ 1 ] ​ [ 2 ] ​ [ 3 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 404,
-        "name": "Fernando Rodríguez Paredes",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 64,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 89,
-        "birthplace": "",
-        "careerStart": "1961",
-        "biography": "Fernando Rafael Rodríguez Paredes ( Riobamba , 23 de noviembre de 1936) es un médico y político ecuatoriano .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -9503,29 +7019,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 408,
-        "name": "Isidro Romero",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Isidro_Romero_en_entrevista.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 58,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 83,
-        "birthplace": "",
-        "careerStart": "1967",
-        "biography": "Isidro Perfecto Romero Carbo ( Riobamba , 22 de abril de 1942) [ 2 ] ​ es un empresario , dirigente deportivo y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 409,
         "name": "Fernando Rosero",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
@@ -9539,29 +7032,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1974",
         "biography": "Fernando Rosero González ( Guayaquil , 28 de enero de 1949) [ 1 ] ​ es un abogado y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 410,
-        "name": "Hugo Ruiz Enríquez",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
-        "party": "",
-        "province": "carchi",
-        "currentPosition": "",
-        "experience": 59,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 84,
-        "birthplace": "",
-        "careerStart": "1966",
-        "biography": "Hugo Milton Ruiz Enríquez ( Tulcán , 14 de agosto de 1941) [ 1 ] ​ es un político y abogado ecuatoriano que ocupó varias dignidades en la provincia del Carchi .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -9618,52 +7088,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 413,
-        "name": "Edgar Santillán",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 52,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 77,
-        "birthplace": "",
-        "careerStart": "1973",
-        "biography": "Edgar Julián Santillán Oleas ( Riobamba , 23 de junio de 1948) [ 1 ] ​ es un profesor y expolítico ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 414,
-        "name": "Segundo Serrano",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 54,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 79,
-        "birthplace": "",
-        "careerStart": "1971",
-        "biography": "Segundo Ignacio Serrano Serrano ( Azogues , 15 de marzo de 1946) es un periodista y político socialista ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 415,
         "name": "Roque Sevilla",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Comisi%C3%B3n_de_Biodiversidad_recibe_a_Roque_Sevilla_%284480215156%29.jpg/250px-Comisi%C3%B3n_de_Biodiversidad_recibe_a_Roque_Sevilla_%284480215156%29.jpg",
@@ -9677,75 +7101,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1972",
         "biography": "Roque Simón Sevilla Larrea ( Quito , 16 de julio de 1947) es un economista , empresario , ambientalista y político ecuatoriano , es Presidente del \"Grupo Futuro\" que aglutina a varias empresas que van desde Turismo, Seguros, etc. Fue concejal de Quito y entre 1998 y 2000, Alcalde Metropolitano de Quito .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 416,
-        "name": "Johnny Terán",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/PREFECTO_DE_LOS_R%C3%8DOS.jpg/250px-PREFECTO_DE_LOS_R%C3%8DOS.jpg",
-        "party": "Partido Social Cristiano",
-        "province": "los ríos",
-        "currentPosition": "",
-        "experience": 40,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 65,
-        "birthplace": "",
-        "careerStart": "1985",
-        "biography": "Johnny Enrique Terán Salcedo ( Babahoyo , 27 de noviembre de 1960) [ 4 ] ​ es un político ecuatoriano , actual prefecto provincial de Los Ríos",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 417,
-        "name": "Betty Tola",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Betty_Tola_en_el_gobierno_provincial_de_Pichincha.jpg/250px-Betty_Tola_en_el_gobierno_provincial_de_Pichincha.jpg",
-        "party": "Alianza PAÍS",
-        "province": "",
-        "currentPosition": "",
-        "experience": 35,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 60,
-        "birthplace": "",
-        "careerStart": "1990",
-        "biography": "Ana Beatriz Tola Bermeo ( Cuenca , 22 de diciembre de 1965) [ 1 ] ​ es una política ecuatoriana .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 418,
-        "name": "Roberto de la Torre",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bandera_del_Cant%C3%B3n_Pastaza.png/60px-Bandera_del_Cant%C3%B3n_Pastaza.png",
-        "party": "",
-        "province": "pastaza",
-        "currentPosition": "",
-        "experience": 50,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 75,
-        "birthplace": "",
-        "careerStart": "1975",
-        "biography": "Roberto Euclides de la Torre Andrade ( Chone , 1950) [ 1 ] ​ es un médico y político ecuatoriano que ocupó la prefectura provincial de Pastaza durante tres periodos consecutivos (de 1992 a 2005).",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -9802,52 +7157,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 421,
-        "name": "Carlos Vallejo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Carlos_Vallejo_%28detalle%29.jpg/250px-Carlos_Vallejo_%28detalle%29.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 61,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 86,
-        "birthplace": "",
-        "careerStart": "1964",
-        "biography": "Carlos Danilo Vallejo López ( Riobamba , 20 de octubre de 1939) es un ingeniero agrónomo y político ecuatoriano . Entre los cargos públicos que ha ocupado se cuentan diputado nacional en cuatro periodos, presidente del Congreso Nacional y dos veces ministro de agricultura .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 422,
-        "name": "Frank Vargas Pazzos",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tnte._Gral._Frank_Vargas_Pazzos_-_1986.jpg/250px-Tnte._Gral._Frank_Vargas_Pazzos_-_1986.jpg",
-        "party": "Acción Popular Revolucionaria (desde 1987)",
-        "province": "manabí",
-        "currentPosition": "rebelión",
-        "experience": 66,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 91,
-        "birthplace": "",
-        "careerStart": "1959",
-        "biography": "Frank Vargas Pazzos ( Chone , Manabí , 15 de julio de 1934) es un exmilitar ecuatoriano . Fue Comandante General de la Fuerza Aérea Ecuatoriana y Presidente [ 1 ] ​ del Comando Conjunto de las Fuerzas Armadas del Ecuador .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 423,
         "name": "Clemente Vásquez",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
@@ -9861,52 +7170,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "",
         "biography": "Carlos Raúl Clemente Vásquez González es un político ecuatoriano, quien fue prefecto de Manabí.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 424,
-        "name": "Alexandra Vela",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Entrevista_de_la_ministra_de_Gobierno%2C_Alexandra_Vela%2C_en_el_programa_Politicamente_Correcto._01.10.2021_%2851549481206%29_%28cropped%29.jpg/250px-Entrevista_de_la_ministra_de_Gobierno%2C_Alexandra_Vela%2C_en_el_programa_Politicamente_Correcto._01.10.2021_%2851549481206%29_%28cropped%29.jpg",
-        "party": "Democracia Popular",
-        "province": "",
-        "currentPosition": "",
-        "experience": 49,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 74,
-        "birthplace": "",
-        "careerStart": "1976",
-        "biography": "Alexandra Blanca Vela Puga (n. San Salvador , 30 de noviembre de 1951) [ 1 ] ​ es una abogada y política ecuatoriana nacida en El Salvador . Fue Ministra de Gobierno durante la administración del presidente Guillermo Lasso , entre 2021 a 2022. [ 2 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 425,
-        "name": "Paco Velasco",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Asamble%C3%ADsta_Paco_Velasco_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No._134_del_Pleno_de_la_Asamblea_Nacional_%286300195463%29.jpg/250px-Asamble%C3%ADsta_Paco_Velasco_en_su_intervenci%C3%B3n_en_la_sesi%C3%B3n_No._134_del_Pleno_de_la_Asamblea_Nacional_%286300195463%29.jpg",
-        "party": "Alianza PAÍS",
-        "province": "",
-        "currentPosition": "",
-        "experience": 42,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 67,
-        "birthplace": "",
-        "careerStart": "1983",
-        "biography": "Francisco Velasco Andrade ( Quito , 28 de marzo de 1958) [ 1 ] ​ es un político y radiodifusor ecuatoriano .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -9940,29 +7203,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 427,
-        "name": "Alfredo Vera",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alfredo-vera.jpg/250px-Alfredo-vera.jpg",
-        "party": "Alianza PAÍS",
-        "province": "",
-        "currentPosition": "Diputado Nacional del Ecuador",
-        "experience": 65,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 90,
-        "birthplace": "",
-        "careerStart": "1960",
-        "biography": "Alfredo Vera Arrata ( Guayaquil , 1935) fue Ministro del Interior del Ecuador de diciembre de 2010 hasta mayo de 2011. [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 428,
         "name": "César Verduga",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
@@ -9986,75 +7226,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 429,
-        "name": "Franklin Verduga",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Escudo_de_Guayaquil.svg/60px-Escudo_de_Guayaquil.svg.png",
-        "party": "Partido Social Cristiano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 0,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 0,
-        "birthplace": "",
-        "careerStart": "",
-        "biography": "Franklin Verduga Vélez es un político ecuatoriano, hermano del exministro del interior César Verduga [ 1 ] ​ y principal implicado en el caso de corrupción conocido como Garita 3.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 430,
-        "name": "Norman Wray",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Norman_Wray_%2810_de_noviembre_de_2008%29_%28cropped%29.jpg/250px-Norman_Wray_%2810_de_noviembre_de_2008%29_%28cropped%29.jpg",
-        "party": "Ruptura 25 (2004-2020)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 31,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 56,
-        "birthplace": "",
-        "careerStart": "1994",
-        "biography": "Norman Stef Wray Reyes ( Quito , 20 de diciembre de 1969) es un abogado y político ecuatoriano . Fue docente de la carrera de jurisprudencia en la Universidad de las Américas . [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 431,
-        "name": "Mariano Zambrano",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mariano_Zambrano_%28detalle%29.jpg/250px-Mariano_Zambrano_%28detalle%29.jpg",
-        "party": "Partido Social Cristiano (1997-2008) Unidad Primero (desde 2008)",
-        "province": "manabí",
-        "currentPosition": "",
-        "experience": 51,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 76,
-        "birthplace": "",
-        "careerStart": "1974",
-        "biography": "Mariano Nicanor Zambrano Segovia ( Chone , 17 de octubre de 1949) es un ingeniero y político ecuatoriano que ocupó el cargo de prefecto provincial de Manabí de 2005 a 2019.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 432,
         "name": "Wilma Andrade",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_DEL_PLENO_776_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_JULIO_DE_2022_%2852227677366%29.jpg/250px-CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_DEL_PLENO_776_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_JULIO_DE_2022_%2852227677366%29.jpg",
@@ -10068,98 +7239,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1981",
         "biography": "Wilma Piedad Andrade Muñoz ( Quito , 26 de agosto de 1956) es una política ecuatoriana . Fue asambleísta nacional , por el partido Izquierda Democrática ; que presidió entre 2015 y 2020. [ 1 ] ​ [ 2 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 433,
-        "name": "Rodrigo Borja Cevallos",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RodrigoBorja-Harvard2016.png/250px-RodrigoBorja-Harvard2016.png",
-        "party": "Partido Liberal Radical Ecuatoriano (1962-1970) Izquierda Democrática (1970-2013)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 65,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 90,
-        "birthplace": "",
-        "careerStart": "1960",
-        "biography": "Rodrigo Borja Cevallos ( Quito , 19 de junio de 1935) es un ex político , jurista y abogado ecuatoriano . Fue presidente del Ecuador entre el 10 de agosto de 1988 y el 10 de agosto de 1992.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 434,
-        "name": "Efrén Cocíos",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/EFREN_COCIOS.jpg/250px-EFREN_COCIOS.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 56,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 81,
-        "birthplace": "",
-        "careerStart": "1969",
-        "biography": "Efrén Cocíos Jaramillo (1944) [ 1 ] ​ en un abogado y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 435,
-        "name": "Guillermo Herrera",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Guillermo_Herrera_en_2017.jpg/250px-Guillermo_Herrera_en_2017.jpg",
-        "party": "Izquierda Democrática",
-        "province": "carchi",
-        "currentPosition": "",
-        "experience": 28,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 53,
-        "birthplace": "",
-        "careerStart": "1997",
-        "biography": "Guillermo Bernardino Herrera Villarreal ( Tulcán , 7 de diciembre de 1972) [ 1 ] ​ [ 2 ] ​ es un economista y político ecuatoriano que ocupó el cargo de prefecto provincial del Carchi de 2012 a 2022. [ 3 ] ​ [ 4 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 436,
-        "name": "Oswaldo Molestina",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SESI%C3%93N_DE_LA_COMISI%C3%93N_DE_R%C3%89GIMEN_ECON%C3%93MICO%2C_QUITO%2C_26_DE_NOVIEMBRE_2019.jpg/250px-SESI%C3%93N_DE_LA_COMISI%C3%93N_DE_R%C3%89GIMEN_ECON%C3%93MICO%2C_QUITO%2C_26_DE_NOVIEMBRE_2019.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 54,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 79,
-        "birthplace": "",
-        "careerStart": "1971",
-        "biography": "Oswaldo Molestina Zavala ( Guayaquil , 3 de noviembre de 1946) es un abogado y político ecuatoriano .",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -10285,75 +7364,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 442,
-        "name": "Rodrigo Borja Cevallos",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RodrigoBorja-Harvard2016.png/250px-RodrigoBorja-Harvard2016.png",
-        "party": "Partido Liberal Radical Ecuatoriano (1962-1970) Izquierda Democrática (1970-2013)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 65,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 90,
-        "birthplace": "",
-        "careerStart": "1960",
-        "biography": "Rodrigo Borja Cevallos ( Quito , 19 de junio de 1935) es un ex político , jurista y abogado ecuatoriano . Fue presidente del Ecuador entre el 10 de agosto de 1988 y el 10 de agosto de 1992.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 443,
-        "name": "Abdalá Bucaram",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Abdala_Bucaram_%28cropped%29.jpg",
-        "party": "Partido Roldosista Ecuatoriano (1983-2014) Fuerza Ecuador (2017-2021)",
-        "province": "",
-        "currentPosition": "tráfico de armas , peculado y crimen organizado",
-        "experience": 48,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 73,
-        "birthplace": "",
-        "careerStart": "1977",
-        "biography": "Abdalá Jaime Bucaram Ortiz ( Guayaquil , 4 de febrero de 1952) es un político y abogado ecuatoriano . [ 4 ] ​ Fue presidente del Ecuador entre el 10 de agosto de 1996 [ 5 ] ​ y el 6 de febrero de 1997, fecha en la que fue derrocado por el Congreso Nacional . [ 6 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 444,
-        "name": "Julio Burbano Aguirre",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "Diputado Nacional del Ecuador",
-        "experience": 121,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 146,
-        "birthplace": "",
-        "careerStart": "1904",
-        "biography": "Julio Burbano Aguirre ( Guayaquil , 1895- Ibídem , 11 de mayo de 1939) fue un empresario, banquero y político ecuatoriano . Fue presidente del Concejo Cantonal de Guayaquil y senador de la República del Ecuador, de la que fue presidente interino en dos ocasiones, durante el gobierno de Alfredo Baquerizo Moreno .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 445,
         "name": "Elecciones presidenciales de Ecuador de 1947",
         "image": "",
@@ -10377,75 +7387,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 446,
-        "name": "Lucio Gutiérrez",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lucio_Guti%C3%A9rrez-Asamble%C3%ADsta_%2812-12-2023%29.jpg/250px-Lucio_Guti%C3%A9rrez-Asamble%C3%ADsta_%2812-12-2023%29.jpg",
-        "party": "Partido Sociedad Patriótica",
-        "province": "",
-        "currentPosition": "",
-        "experience": 43,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 68,
-        "birthplace": "",
-        "careerStart": "1982",
-        "biography": "Lucio Edwin Gutiérrez Borbúa ( Quito , 23 de marzo de 1957) es un político , empresario , licenciado en Educación Física , ingeniero civil y ex militar ecuatoriano . Fue presidente del Ecuador entre el 15 de enero de 2003 y el 20 de abril de 2005, fecha en la que fue derrocado por la Rebelión de los forajidos . Es asambleísta nacional , desde noviembre de 2023.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 447,
-        "name": "Osvaldo Hurtado Larrea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Osvaldo_hurtado_y_jose_valencia_%28cropped%29.jpg/250px-Osvaldo_hurtado_y_jose_valencia_%28cropped%29.jpg",
-        "party": "Democracia Cristiana (1964-1977) Democracia Popular (1977-2001) Movimiento Patria Solidaria (2001-2003)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 61,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 86,
-        "birthplace": "",
-        "careerStart": "1964",
-        "biography": "Luis Osvaldo Hurtado Larrea ( Chambo , 26 de junio de 1939) es un abogado y político ecuatoriano . Fue presidente del Ecuador entre el 24 de mayo de 1981 y el 10 de agosto de 1984.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 448,
-        "name": "Guillermo Lasso",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Guillermo_Lasso_2023.jpg/250px-Guillermo_Lasso_2023.jpg",
-        "party": "Movimiento CREO",
-        "province": "",
-        "currentPosition": "",
-        "experience": 45,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 70,
-        "birthplace": "",
-        "careerStart": "1980",
-        "biography": "Guillermo Alberto Santiago Lasso Mendoza ( Guayaquil , 16 de noviembre de 1955) es un banquero ecuatoriano . [ 6 ] ​ Fue presidente de la República del Ecuador desde el 24 de mayo de 2021 hasta el 23 de noviembre de 2023.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 449,
         "name": "Luis Leoro Franco",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/40px-Coat_of_arms_of_Ecuador.svg.png",
@@ -10459,75 +7400,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1959",
         "biography": "Luis Leoro Franco ( Ibarra , 11 de enero de 1934) es un teniente general de la Fuerza Aérea Ecuatoriana que fue miembro del triunvirato militar, llamado \" Consejo Supremo de Gobierno \" de Ecuador, que entre 1976 y 1979, ejerció de facto, los poderes del Estado. [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 450,
-        "name": "Jamil Mahuad",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mahuad_2020_1.1_%28cropped%29.jpg/250px-Mahuad_2020_1.1_%28cropped%29.jpg",
-        "party": "Democracia Popular",
-        "province": "loja",
-        "currentPosition": "",
-        "experience": 51,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 76,
-        "birthplace": "",
-        "careerStart": "1974",
-        "biography": "Jorge Jamil Mahuad Witt ( Loja , 29 de julio de 1949) [ 1 ] ​ es un abogado , músico y ex político ecuatoriano . Fue presidente del Ecuador entre el 10 de agosto de 1998 y el 21 de enero de 2000, fecha en la que fue derrocado por el golpe de Estado de 2000 .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 451,
-        "name": "Lenín Moreno",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Presidente_del_Ecuador%2C_Len%C3%ADn_Moreno_Garc%C3%A9s_5_%2841059887005%29_%28cropped%29.jpg/250px-Presidente_del_Ecuador%2C_Len%C3%ADn_Moreno_Garc%C3%A9s_5_%2841059887005%29_%28cropped%29.jpg",
-        "party": "Alianza PAÍS (2006-2021)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 47,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 72,
-        "birthplace": "",
-        "careerStart": "1978",
-        "biography": "Lenín Boltaire Moreno Garcés [ 1 ] ​ [ 2 ] ​ ( Nuevo Rocafuerte , 19 de marzo de 1953) [ 3 ] ​ es un político y administrador ecuatoriano que se desempeñó como presidente del Ecuador desde 2017 hasta 2021. Anteriormente fungió como vicepresidente desde 2007 hasta 2013, durante el gobierno de Rafael Correa .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 452,
-        "name": "Daniel Noboa",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Daniel_Noboa_en_abril_de_2025.jpg/250px-Daniel_Noboa_en_abril_de_2025.jpg",
-        "party": "Ecuatoriano Unido (2021) Partido SUMA (2021-2022) Acción Democrática Nacional (desde 2022)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 13,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 38,
-        "birthplace": "",
-        "careerStart": "2012",
-        "biography": "Daniel Roy Gilchrist Noboa Azín ( Miami , 30 de noviembre de 1987) es un administrador , empresario y político ecuatoriano-estadounidense , presidente de la República del Ecuador desde el 23 de noviembre de 2023. Asumió el cargo a la edad de 35 años, siendo así el más joven en ser elegido democráticamente. [ 4 ] ​ [ 5 ] ​ [ 6 ] ​",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -10584,29 +7456,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 455,
-        "name": "Alberto Anrango",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
-        "party": "",
-        "province": "imbabura",
-        "currentPosition": "Alcalde (2009-2014)",
-        "experience": 53,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 78,
-        "birthplace": "",
-        "careerStart": "1972",
-        "biography": "Luis Alberto Anrango Bonilla (* 31 de marzo de 1947 en Cotacachi , Provincia de Imbabura ) es un dirigente indígena , maestro y político ecuatoriano de nacionalidad kichwa . Actualmente es alcalde del municipio de Cotacachi .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 456,
         "name": "José Arroyo Cabrera",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png",
@@ -10620,190 +7469,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "2006",
         "biography": "José Alcides Arroyo Cabrera ( Pujilí , 12 de enero de 1981) es un diseñador , político y activista LGBT ecuatoriano . Es el alcalde de Pujilí , desde el 14 de mayo de 2023; [ 1 ] ​ convirtiéndose en la primera persona abiertamente LGBT en ser elegida a una alcaldía en la historia del Ecuador. [ 2 ] ​ [ 3 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 457,
-        "name": "Wilson Cañizares",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/WilsonCa%C3%B1izaresVillamar-Alcalde-1.png/250px-WilsonCa%C3%B1izaresVillamar-Alcalde-1.png",
-        "party": "Alianza PAÍS (2013-2015) Partido Social Cristiano (desde 2018)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 39,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 64,
-        "birthplace": "",
-        "careerStart": "1986",
-        "biography": "Wilson Fidel Cañizares Villamar ( Daule , 10 de septiembre de 1961) es un médico cirujano y político ecuatoriano. Es el actual alcalde de Daule , desde mayo de 2019.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 458,
-        "name": "Rubén Cevallos",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Ecuador_original_version.svg/40px-Coat_of_arms_of_Ecuador_original_version.svg.png",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 68,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 93,
-        "birthplace": "",
-        "careerStart": "1957",
-        "biography": "Rubén Cevallos Vega ( Tena , 2 de diciembre de 1932) [ 1 ] ​ fue un político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 459,
-        "name": "Patricio Cisneros",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/SESI%C3%93N_NO._897_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_06_DE_FEBRERO_DE_2024_-_53511893687.jpg/250px-SESI%C3%93N_NO._897_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_06_DE_FEBRERO_DE_2024_-_53511893687.jpg",
-        "party": "Alianza PAÍS",
-        "province": "santa elena",
-        "currentPosition": "",
-        "experience": 37,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 62,
-        "birthplace": "",
-        "careerStart": "1988",
-        "biography": "Patricio Benjamín Cisneros Granizo ( Santa Elena , 24 de enero de 1963) [ 1 ] ​ es un político ecuatoriano . Ocupó la alcaldía del cantón La Libertad durante tres periodos consecutivos (1996-2009), además de haberse desempeñado como prefecto provincial de Santa Elena entre 2009 y 2018.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 460,
-        "name": "David Duchitanga",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/David_Duchitanga.jpg/250px-David_Duchitanga.jpg",
-        "party": "Unidad Popular",
-        "province": "",
-        "currentPosition": "",
-        "experience": 15,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 40,
-        "birthplace": "",
-        "careerStart": "2010",
-        "biography": "David Duchitanga Morocho (Ludo, Sígsig , 15 de enero de 1992) es un abogado , deportista y político ecuatoriano . Es el actual Alcalde de Sígsig , desde el 14 de mayo de 2023. [ 1 ] ​ [ 2 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 461,
-        "name": "Pedro Salazar Barzola",
-        "image": "",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 0,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 0,
-        "birthplace": "",
-        "careerStart": "",
-        "biography": "Pedro Ottón Salazar Barzola [ 1 ] ​ ( Daule , siglo XX ) es un agricultor, empresario agrícola y político ecuatoriano. Fue alcalde de Daule , desde el 2000 hasta el 2019. [ 2 ] ​ [ 3 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 462,
-        "name": "Auki Tituaña",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Auki.jpg/250px-Auki.jpg",
-        "party": "Pachakutik (1995-2012) Movimiento CREO (desde 2012) Movimiento Concertación (desde 2018)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 35,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 60,
-        "birthplace": "",
-        "careerStart": "1990",
-        "biography": "Auki Kanaima Tituaña Males ( Cotacachi , 2 de enero de 1965), antes Segundo Antonio Tituaña Males , es economista , político y dirigente indígena ecuatoriano de etnia kichwa . Ha sido alcalde de Cotacachi y presidente de la Asociación de Municipalidades del Ecuador.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 463,
-        "name": "Roberto de la Torre",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bandera_del_Cant%C3%B3n_Pastaza.png/60px-Bandera_del_Cant%C3%B3n_Pastaza.png",
-        "party": "",
-        "province": "pastaza",
-        "currentPosition": "",
-        "experience": 50,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 75,
-        "birthplace": "",
-        "careerStart": "1975",
-        "biography": "Roberto Euclides de la Torre Andrade ( Chone , 1950) [ 1 ] ​ es un médico y político ecuatoriano que ocupó la prefectura provincial de Pastaza durante tres periodos consecutivos (de 1992 a 2005).",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 464,
-        "name": "Marco Troya",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_NO._771_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_21_DE_ABRIL_DE_2022_%2852019267002%29.jpg/250px-CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_NO._771_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_21_DE_ABRIL_DE_2022_%2852019267002%29.jpg",
-        "party": "Movimiento CREO Alianza PAÍS (desde 2007) Partido Roldosista Ecuatoriano (hasta 2007)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 31,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 56,
-        "birthplace": "",
-        "careerStart": "1994",
-        "biography": "Marco Stalin Troya Fuertes ( Quevedo , 16 de enero de 1969) [ 1 ] ​ es un ingeniero y político ecuatoriano . Fue asambleísta nacional, entre 2021 y 2023.",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -10860,52 +7525,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 467,
-        "name": "Pedro Zapata",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Asambleista_pedro_zapata.jpg/250px-Asambleista_pedro_zapata.jpg",
-        "party": "Partido Social Cristiano",
-        "province": "",
-        "currentPosition": "",
-        "experience": 40,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 65,
-        "birthplace": "",
-        "careerStart": "1985",
-        "biography": "Pedro Aníbal Zapata Rumipamba ( San Cristóbal , 22 de febrero de 1960) es un político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 468,
-        "name": "Andrés Arauz",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Andr%C3%A9s_Arauz_%28cropped%29.jpg/250px-Andr%C3%A9s_Arauz_%28cropped%29.jpg",
-        "party": "Revolución Ciudadana (desde 2018)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 15,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 40,
-        "birthplace": "",
-        "careerStart": "2010",
-        "biography": "Andrés David Arauz Galarza ( Quito , 6 de febrero de 1985) es un político y economista ecuatoriano . Fue ministro coordinador de Conocimiento y Talento Humano entre marzo de 2015 y mayo de 2017, durante el gobierno de Rafael Correa . [ 3 ] ​ En 2018, tras la ruptura en Alianza PAIS entre Lenín Moreno y Correa, Arauz se mantiene firme al Revolución Ciudadana (RC). En las elecciones presidenciales de 2021 , fue el candidato de la coalición Unión por la Esperanza , plataforma ploítica con la que la RC participó en aquellos comicios. En la primera vuelta, obtuvo el primer lugar, con el 32,72% de votos; no obstante, en el balotaje fue derrotado por Guillermo Lasso , al solo lograr 47,64% de la votación. [ 4 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 469,
         "name": "Andrea Arrobo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Minister_of_Energy_Andrea_Arrobo_%28cropped%29.jpg/250px-Minister_of_Energy_Andrea_Arrobo_%28cropped%29.jpg",
@@ -10942,29 +7561,6 @@ const politiciansData: Politician[] = [
         "birthplace": "",
         "careerStart": "1997",
         "biography": "Pablo Campana Sáenz ( Quito , 16 de diciembre de 1972) es un empresario y extenista ecuatoriano . Fue ministro de Comercio Exterior e Inversiones . [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 471,
-        "name": "Alfredo Castillo Bujase",
-        "image": "",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 0,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 0,
-        "birthplace": "",
-        "careerStart": "",
-        "biography": "Alfredo Castillo Bujase ( Guayaquil , 24 noviembre 1939) es un economista , jurista , político y académico ecuatoriano.",
         "career": [],
         "proposals": [],
         "analysis": {
@@ -11044,167 +7640,6 @@ const politiciansData: Politician[] = [
         }
     },
     {
-        "id": 475,
-        "name": "Jorge Glas",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nueva_Embajadora_en_Ecuador_present%C3%B3_Cartas_Credenciales_%2810594293813%29.jpg/250px-Nueva_Embajadora_en_Ecuador_present%C3%B3_Cartas_Credenciales_%2810594293813%29.jpg",
-        "party": "Alianza PAÍS (2006-2018) Revolución Ciudadana (desde 2018)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 31,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 56,
-        "birthplace": "",
-        "careerStart": "1994",
-        "biography": "Jorge David Glas Espinel ( Guayaquil , 13 de septiembre de 1969) [ 5 ] ​ es un ingeniero eléctrico y político ecuatoriano,quien posee doble nacionalidad ecuatoriana y alemana. Fue vicepresidente de la República del Ecuador desde el 24 de mayo de 2013 hasta el 6 de enero de 2018. [ 6 ] ​ [ 7 ] ​ [ 8 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 476,
-        "name": "Nicolás Issa Wagner",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicolas_Issa_Wagner_%28detalle%29.jpg/250px-Nicolas_Issa_Wagner_%28detalle%29.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 21,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 46,
-        "birthplace": "",
-        "careerStart": "2004",
-        "biography": "Nicolás José Issa Wagner ( Guayaquil , 25 de septiembre de 1979) es un abogado y político ecuatoriano .",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 477,
-        "name": "Guillermo Lasso",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Guillermo_Lasso_2023.jpg/250px-Guillermo_Lasso_2023.jpg",
-        "party": "Movimiento CREO",
-        "province": "",
-        "currentPosition": "",
-        "experience": 45,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 70,
-        "birthplace": "",
-        "careerStart": "1980",
-        "biography": "Guillermo Alberto Santiago Lasso Mendoza ( Guayaquil , 16 de noviembre de 1955) es un banquero ecuatoriano . [ 6 ] ​ Fue presidente de la República del Ecuador desde el 24 de mayo de 2021 hasta el 23 de noviembre de 2023.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 478,
-        "name": "Andrés Madero",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Andres_madero.jpg/250px-Andres_madero.jpg",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 0,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 0,
-        "birthplace": "",
-        "careerStart": "",
-        "biography": "Andrés Madero Poveda es un abogado y político ecuatoriano que ocupó el cargo de ministro de Trabajo en el gobierno de Lenín Moreno . Renunció al cargo el 21 de marzo de 2020, luego de dar positivo con la enfermedad de COVID-19 . [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 479,
-        "name": "Fausto Molina",
-        "image": "",
-        "party": "",
-        "province": "",
-        "currentPosition": "",
-        "experience": 0,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 0,
-        "birthplace": "",
-        "careerStart": "",
-        "biography": "Fausto Molina Molina fue un ideólogo de la Democracia Cristiana de Ecuador . Fundador del partido Democracia Popular . [ 1 ] ​ [ 2 ] ​ Fue Secretario General de la Secretaría Nacional de Información Pública en la presidencia de Jaime Roldós Aguilera . [ 3 ] ​ Murió en un accidente de tránsito el 23 de marzo de 1980.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 480,
-        "name": "Sebastián Palacios Muñoz",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Asamble%C3%ADsta_Sebasti%C3%A1n_Palacios.jpg/250px-Asamble%C3%ADsta_Sebasti%C3%A1n_Palacios.jpg",
-        "party": "SUMA",
-        "province": "pichincha",
-        "currentPosition": "",
-        "experience": 13,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 38,
-        "birthplace": "",
-        "careerStart": "2012",
-        "biography": "Juan Sebastián Palacios Muñoz ( Quito , 1 de marzo de 1987) es un deportista , político , licenciado en Finanzas y Relaciones Internacionales ecuatoriano , desde el 2017 al 2021, ocupó el cargo de Asambleísta Nacional del Ecuador por el Distrito 2 de Pichincha correspondiente al sur de Quito. Durante el Gobierno de Guillermo Lasso , asumió el cargo de Ministro del Deporte a partir del 24 de mayo de 2021. [ 1 ] ​",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
-        "id": 481,
-        "name": "Juan Sebastián Roldán",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Juan_sebastian_roldan.jpg/250px-Juan_sebastian_roldan.jpg",
-        "party": "Ruptura 25 (2004-2020) Movimiento Construye (desde 2020)",
-        "province": "",
-        "currentPosition": "",
-        "experience": 22,
-        "proposalsFulfilled": 0,
-        "approvalRating": 0,
-        "age": 47,
-        "birthplace": "",
-        "careerStart": "2003",
-        "biography": "Juan Sebastián Roldán Proaño (26 de octubre de 1978) es un político ecuatoriano que ocupó los cargos de Ministro Secretario de Transparencia, Subsecretario de Coordinación Política, Subsecretario de Gobierno y Subsecretario de Seguridad. Desde marzo de 2018 formó parte del Gobierno del Presidente ecuatoriano, Lenin Moreno hasta febrero de 2021; en el cual fue Secretario General de Gabinete de la Presidencia y portavoz oficial.",
-        "career": [],
-        "proposals": [],
-        "analysis": {
-            "categories": [],
-            "detailed": "",
-            "strengths": [],
-            "weaknesses": []
-        }
-    },
-    {
         "id": 482,
         "name": "Juan Fernando Velasco",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ECUADOR_AQUI_ESTOY_%2826977821375%29.jpg/330px-ECUADOR_AQUI_ESTOY_%2826977821375%29.jpg",
@@ -11227,6 +7662,13026 @@ const politiciansData: Politician[] = [
             "weaknesses": []
         }
     },
+  {
+    "id": "326",
+    "name": "Patricia Rivera",
+    "image": "/patricia-rivera.jpg",
+    "party": "CREO",
+    "province": "santo domingo",
+    "currentPosition": "Ministro",
+    "experience": 18,
+    "proposalsFulfilled": 28,
+    "approvalRating": 46,
+    "age": 51,
+    "birthplace": "Santo Domingo, Ecuador",
+    "careerStart": "2007",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santo Domingo y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Santo Domingo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Santo Domingo.",
+    "status": "Pendiente",
+    "progress": 29,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Santo Domingo.",
+    "status": "En progreso",
+    "progress": 40,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Patricia Rivera ha mostrado formación académica en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Formación académica",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "327",
+    "name": "José Sánchez",
+    "image": "/josé-sánchez.jpg",
+    "party": "CREO",
+    "province": "imbabura",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 11,
+    "proposalsFulfilled": 14,
+    "approvalRating": 80,
+    "age": 34,
+    "birthplace": "Imbabura, Ecuador",
+    "careerStart": "2014",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Imbabura y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Imbabura",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Imbabura.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Imbabura.",
+    "status": "En progreso",
+    "progress": 44,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "José Sánchez ha mostrado capacidad de gestión en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "328",
+    "name": "Juan Díaz",
+    "image": "/juan-díaz.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "zamora chinchipe",
+    "currentPosition": "Vicepresidente",
+    "experience": 3,
+    "proposalsFulfilled": 29,
+    "approvalRating": 56,
+    "age": 68,
+    "birthplace": "Zamora Chinchipe, Ecuador",
+    "careerStart": "2022",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Zamora Chinchipe y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Zamora Chinchipe",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Zamora Chinchipe.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Zamora Chinchipe.",
+    "status": "En progreso",
+    "progress": 41,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Juan Díaz ha mostrado liderazgo en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Liderazgo",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "329",
+    "name": "Ricardo Castro",
+    "image": "/ricardo-castro.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "morona santiago",
+    "currentPosition": "Concejal",
+    "experience": 19,
+    "proposalsFulfilled": 45,
+    "approvalRating": 53,
+    "age": 58,
+    "birthplace": "Morona Santiago, Ecuador",
+    "careerStart": "2006",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Morona Santiago y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Morona Santiago",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Morona Santiago.",
+    "status": "Pendiente",
+    "progress": 21,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Morona Santiago.",
+    "status": "En progreso",
+    "progress": 50,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Ricardo Castro ha mostrado conocimiento técnico en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "330",
+    "name": "Diego Rodríguez",
+    "image": "/diego-rodríguez.jpg",
+    "party": "Alianza PAIS",
+    "province": "azuay",
+    "currentPosition": "Alcalde",
+    "experience": 1,
+    "proposalsFulfilled": 43,
+    "approvalRating": 65,
+    "age": 52,
+    "birthplace": "Azuay, Ecuador",
+    "careerStart": "2024",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Azuay y pertenece al partido Alianza PAIS.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Azuay",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Azuay.",
+    "status": "Pendiente",
+    "progress": 29,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Azuay.",
+    "status": "En progreso",
+    "progress": 47,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Diego Rodríguez ha mostrado liderazgo en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Liderazgo",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "331",
+    "name": "Pedro González",
+    "image": "/pedro-gonzález.jpg",
+    "party": "Movimiento de Unidad Plurinacional Pachakutik",
+    "province": "manabí",
+    "currentPosition": "Alcalde",
+    "experience": 11,
+    "proposalsFulfilled": 18,
+    "approvalRating": 83,
+    "age": 62,
+    "birthplace": "Manabí, Ecuador",
+    "careerStart": "2014",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Manabí y pertenece al partido Movimiento de Unidad Plurinacional Pachakutik.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Manabí",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Manabí.",
+    "status": "Pendiente",
+    "progress": 21,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Manabí.",
+    "status": "En progreso",
+    "progress": 41,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Pedro González ha mostrado capacidad de diálogo en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "332",
+    "name": "Ana Rodríguez",
+    "image": "/ana-rodríguez.jpg",
+    "party": "CREO",
+    "province": "chimborazo",
+    "currentPosition": "Alcalde",
+    "experience": 11,
+    "proposalsFulfilled": 27,
+    "approvalRating": 36,
+    "age": 44,
+    "birthplace": "Chimborazo, Ecuador",
+    "careerStart": "2014",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Chimborazo y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Chimborazo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Chimborazo.",
+    "status": "Pendiente",
+    "progress": 29,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Chimborazo.",
+    "status": "En progreso",
+    "progress": 40,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Ana Rodríguez ha mostrado conocimiento técnico en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "333",
+    "name": "Juan Ortiz",
+    "image": "/juan-ortiz.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "guayas",
+    "currentPosition": "Concejal",
+    "experience": 19,
+    "proposalsFulfilled": 11,
+    "approvalRating": 67,
+    "age": 48,
+    "birthplace": "Guayas, Ecuador",
+    "careerStart": "2006",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Guayas y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Guayas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Guayas.",
+    "status": "Pendiente",
+    "progress": 14,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Guayas.",
+    "status": "En progreso",
+    "progress": 54,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Juan Ortiz ha mostrado conocimiento técnico en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "334",
+    "name": "Eduardo Díaz",
+    "image": "/eduardo-díaz.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "santo domingo",
+    "currentPosition": "Vicepresidente",
+    "experience": 17,
+    "proposalsFulfilled": 33,
+    "approvalRating": 57,
+    "age": 50,
+    "birthplace": "Santo Domingo, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santo Domingo y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Santo Domingo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Santo Domingo.",
+    "status": "Pendiente",
+    "progress": 13,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Santo Domingo.",
+    "status": "En progreso",
+    "progress": 47,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Eduardo Díaz ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "335",
+    "name": "Carlos Vásquez",
+    "image": "/carlos-vásquez.jpg",
+    "party": "Alianza PAIS",
+    "province": "pastaza",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 12,
+    "proposalsFulfilled": 26,
+    "approvalRating": 58,
+    "age": 54,
+    "birthplace": "Pastaza, Ecuador",
+    "careerStart": "2013",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Pastaza y pertenece al partido Alianza PAIS.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Pastaza",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Pastaza.",
+    "status": "Pendiente",
+    "progress": 25,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Pastaza.",
+    "status": "En progreso",
+    "progress": 65,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Carlos Vásquez ha mostrado capacidad de diálogo en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "336",
+    "name": "Daniela Morales",
+    "image": "/daniela-morales.jpg",
+    "party": "Movimiento Construye",
+    "province": "sucumbíos",
+    "currentPosition": "Ministro",
+    "experience": 10,
+    "proposalsFulfilled": 46,
+    "approvalRating": 42,
+    "age": 56,
+    "birthplace": "Sucumbíos, Ecuador",
+    "careerStart": "2015",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Sucumbíos y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Sucumbíos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Sucumbíos.",
+    "status": "Pendiente",
+    "progress": 23,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Sucumbíos.",
+    "status": "En progreso",
+    "progress": 63,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Daniela Morales ha mostrado formación académica en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Formación académica",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "337",
+    "name": "María Reyes",
+    "image": "/maría-reyes.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "chimborazo",
+    "currentPosition": "Ministro",
+    "experience": 16,
+    "proposalsFulfilled": 47,
+    "approvalRating": 35,
+    "age": 44,
+    "birthplace": "Chimborazo, Ecuador",
+    "careerStart": "2009",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Chimborazo y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Chimborazo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Chimborazo.",
+    "status": "Pendiente",
+    "progress": 16,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Chimborazo.",
+    "status": "En progreso",
+    "progress": 58,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "María Reyes ha mostrado visión estratégica en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Visión estratégica",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "338",
+    "name": "Fernando Morales",
+    "image": "/fernando-morales.jpg",
+    "party": "CREO",
+    "province": "cañar",
+    "currentPosition": "Prefecto",
+    "experience": 20,
+    "proposalsFulfilled": 20,
+    "approvalRating": 71,
+    "age": 58,
+    "birthplace": "Cañar, Ecuador",
+    "careerStart": "2005",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Cañar y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Cañar",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Cañar.",
+    "status": "Pendiente",
+    "progress": 15,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Cañar.",
+    "status": "En progreso",
+    "progress": 65,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Fernando Morales ha mostrado capacidad de diálogo en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "339",
+    "name": "Gabriela González",
+    "image": "/gabriela-gonzález.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "santa elena",
+    "currentPosition": "Prefecto",
+    "experience": 18,
+    "proposalsFulfilled": 44,
+    "approvalRating": 65,
+    "age": 70,
+    "birthplace": "Santa Elena, Ecuador",
+    "careerStart": "2007",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santa Elena y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Santa Elena",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Santa Elena.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Santa Elena.",
+    "status": "En progreso",
+    "progress": 49,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Gabriela González ha mostrado capacidad de gestión en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "340",
+    "name": "Juan Torres",
+    "image": "/juan-torres.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "los ríos",
+    "currentPosition": "Vicepresidente",
+    "experience": 1,
+    "proposalsFulfilled": 30,
+    "approvalRating": 54,
+    "age": 32,
+    "birthplace": "Los Ríos, Ecuador",
+    "careerStart": "2024",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Los Ríos y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Los Ríos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Los Ríos.",
+    "status": "Pendiente",
+    "progress": 21,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Los Ríos.",
+    "status": "En progreso",
+    "progress": 44,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Juan Torres ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "341",
+    "name": "Mónica Martínez",
+    "image": "/mónica-martínez.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "morona santiago",
+    "currentPosition": "Vicepresidente",
+    "experience": 13,
+    "proposalsFulfilled": 32,
+    "approvalRating": 36,
+    "age": 33,
+    "birthplace": "Morona Santiago, Ecuador",
+    "careerStart": "2012",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Morona Santiago y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Morona Santiago",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Morona Santiago.",
+    "status": "Pendiente",
+    "progress": 20,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Morona Santiago.",
+    "status": "En progreso",
+    "progress": 57,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Mónica Martínez ha mostrado liderazgo en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Liderazgo",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "342",
+    "name": "María González",
+    "image": "/maría-gonzález.jpg",
+    "party": "Movimiento de Unidad Plurinacional Pachakutik",
+    "province": "sucumbíos",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 1,
+    "proposalsFulfilled": 32,
+    "approvalRating": 89,
+    "age": 70,
+    "birthplace": "Sucumbíos, Ecuador",
+    "careerStart": "2024",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Sucumbíos y pertenece al partido Movimiento de Unidad Plurinacional Pachakutik.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Sucumbíos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Sucumbíos.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Sucumbíos.",
+    "status": "En progreso",
+    "progress": 59,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "María González ha mostrado compromiso social en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Compromiso social",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "343",
+    "name": "Daniela Torres",
+    "image": "/daniela-torres.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "santo domingo",
+    "currentPosition": "Alcalde",
+    "experience": 17,
+    "proposalsFulfilled": 48,
+    "approvalRating": 61,
+    "age": 54,
+    "birthplace": "Santo Domingo, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santo Domingo y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Santo Domingo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Santo Domingo.",
+    "status": "Pendiente",
+    "progress": 16,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Santo Domingo.",
+    "status": "En progreso",
+    "progress": 60,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Daniela Torres ha mostrado compromiso social en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Compromiso social",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "344",
+    "name": "Mónica Martínez",
+    "image": "/mónica-martínez.jpg",
+    "party": "SUMA",
+    "province": "azuay",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 17,
+    "proposalsFulfilled": 13,
+    "approvalRating": 39,
+    "age": 46,
+    "birthplace": "Azuay, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Azuay y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Azuay",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Azuay.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Azuay.",
+    "status": "En progreso",
+    "progress": 68,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Mónica Martínez ha mostrado liderazgo en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Liderazgo",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "345",
+    "name": "Verónica Castro",
+    "image": "/verónica-castro.jpg",
+    "party": "SUMA",
+    "province": "galápagos",
+    "currentPosition": "Concejal",
+    "experience": 16,
+    "proposalsFulfilled": 28,
+    "approvalRating": 34,
+    "age": 65,
+    "birthplace": "Galápagos, Ecuador",
+    "careerStart": "2009",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Galápagos y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Galápagos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Galápagos.",
+    "status": "Pendiente",
+    "progress": 25,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Galápagos.",
+    "status": "En progreso",
+    "progress": 44,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Verónica Castro ha mostrado compromiso social en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Compromiso social",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "346",
+    "name": "Pedro González",
+    "image": "/pedro-gonzález.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "esmeraldas",
+    "currentPosition": "Concejal",
+    "experience": 1,
+    "proposalsFulfilled": 49,
+    "approvalRating": 62,
+    "age": 49,
+    "birthplace": "Esmeraldas, Ecuador",
+    "careerStart": "2024",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Esmeraldas y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Esmeraldas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Esmeraldas.",
+    "status": "Pendiente",
+    "progress": 27,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Esmeraldas.",
+    "status": "En progreso",
+    "progress": 44,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Pedro González ha mostrado liderazgo en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Liderazgo",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "347",
+    "name": "Carla Díaz",
+    "image": "/carla-díaz.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "santo domingo",
+    "currentPosition": "Prefecto",
+    "experience": 4,
+    "proposalsFulfilled": 12,
+    "approvalRating": 63,
+    "age": 32,
+    "birthplace": "Santo Domingo, Ecuador",
+    "careerStart": "2021",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santo Domingo y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Santo Domingo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Santo Domingo.",
+    "status": "Pendiente",
+    "progress": 15,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Santo Domingo.",
+    "status": "En progreso",
+    "progress": 45,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Carla Díaz ha mostrado formación académica en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con críticas por su gestión anterior.",
+    "strengths": [
+    "Formación académica",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Críticas por su gestión anterior",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "348",
+    "name": "Ana Morales",
+    "image": "/ana-morales.jpg",
+    "party": "Movimiento de Unidad Plurinacional Pachakutik",
+    "province": "loja",
+    "currentPosition": "Alcalde",
+    "experience": 3,
+    "proposalsFulfilled": 46,
+    "approvalRating": 66,
+    "age": 37,
+    "birthplace": "Loja, Ecuador",
+    "careerStart": "2022",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Loja y pertenece al partido Movimiento de Unidad Plurinacional Pachakutik.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Loja",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Loja.",
+    "status": "Pendiente",
+    "progress": 28,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Loja.",
+    "status": "En progreso",
+    "progress": 48,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Ana Morales ha mostrado conocimiento técnico en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con críticas por su gestión anterior.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Críticas por su gestión anterior",
+    "Falta de experiencia"
+    ]
+    }
+  },
+  {
+    "id": "349",
+    "name": "Ricardo Pérez",
+    "image": "/ricardo-pérez.jpg",
+    "party": "Movimiento Construye",
+    "province": "zamora chinchipe",
+    "currentPosition": "Concejal",
+    "experience": 9,
+    "proposalsFulfilled": 44,
+    "approvalRating": 57,
+    "age": 68,
+    "birthplace": "Zamora Chinchipe, Ecuador",
+    "careerStart": "2016",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Zamora Chinchipe y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Zamora Chinchipe",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Zamora Chinchipe.",
+    "status": "Pendiente",
+    "progress": 21,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Zamora Chinchipe.",
+    "status": "En progreso",
+    "progress": 62,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Ricardo Pérez ha mostrado visión estratégica en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Visión estratégica",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "350",
+    "name": "Carlos López",
+    "image": "/carlos-lópez.jpg",
+    "party": "Movimiento Construye",
+    "province": "bolivar",
+    "currentPosition": "Vicepresidente",
+    "experience": 12,
+    "proposalsFulfilled": 43,
+    "approvalRating": 89,
+    "age": 44,
+    "birthplace": "Bolivar, Ecuador",
+    "careerStart": "2013",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Bolivar y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Bolivar",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Bolivar.",
+    "status": "Pendiente",
+    "progress": 19,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Bolivar.",
+    "status": "En progreso",
+    "progress": 58,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Carlos López ha mostrado experiencia política en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Experiencia política",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "351",
+    "name": "Diego Hernández",
+    "image": "/diego-hernández.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "orellana",
+    "currentPosition": "Concejal",
+    "experience": 12,
+    "proposalsFulfilled": 14,
+    "approvalRating": 76,
+    "age": 64,
+    "birthplace": "Orellana, Ecuador",
+    "careerStart": "2013",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Orellana y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Orellana",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Orellana.",
+    "status": "Pendiente",
+    "progress": 19,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Orellana.",
+    "status": "En progreso",
+    "progress": 68,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Diego Hernández ha mostrado transparencia en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Transparencia",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "352",
+    "name": "Sofía Ramos",
+    "image": "/sofía-ramos.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "sucumbíos",
+    "currentPosition": "Vicepresidente",
+    "experience": 3,
+    "proposalsFulfilled": 49,
+    "approvalRating": 34,
+    "age": 37,
+    "birthplace": "Sucumbíos, Ecuador",
+    "careerStart": "2022",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Sucumbíos y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Sucumbíos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Sucumbíos.",
+    "status": "Pendiente",
+    "progress": 24,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Sucumbíos.",
+    "status": "En progreso",
+    "progress": 47,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Sofía Ramos ha mostrado capacidad de diálogo en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "353",
+    "name": "Francisco Rodríguez",
+    "image": "/francisco-rodríguez.jpg",
+    "party": "Movimiento de Unidad Plurinacional Pachakutik",
+    "province": "santo domingo",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 17,
+    "proposalsFulfilled": 30,
+    "approvalRating": 59,
+    "age": 41,
+    "birthplace": "Santo Domingo, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santo Domingo y pertenece al partido Movimiento de Unidad Plurinacional Pachakutik.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Santo Domingo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Santo Domingo.",
+    "status": "Pendiente",
+    "progress": 28,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Santo Domingo.",
+    "status": "En progreso",
+    "progress": 69,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Francisco Rodríguez ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "354",
+    "name": "Salvador Quishpe",
+    "image": "/salvador-quishpe.jpg",
+    "party": "Movimiento de Unidad Plurinacional Pachakutik",
+    "province": "zamora chinchipe",
+    "currentPosition": "Activista Político",
+    "experience": 19,
+    "proposalsFulfilled": 23,
+    "approvalRating": 71,
+    "age": 61,
+    "birthplace": "Zamora Chinchipe, Ecuador",
+    "careerStart": "2006",
+    "biography": "Activista político y defensor de derechos sociales en Ecuador. Representa a la provincia de Zamora Chinchipe y pertenece al partido Movimiento de Unidad Plurinacional Pachakutik.",
+    "career": [
+    {
+    "title": "Activista Político",
+    "organization": "Organización Civil - Zamora Chinchipe",
+    "period": "2023 - Presente",
+    "description": "Defensa de derechos y activismo social."
+    },
+    {
+    "title": "Coordinador de Proyectos",
+    "organization": "ONG",
+    "period": "2018 - 2023",
+    "description": "Coordinación de iniciativas sociales y comunitarias."
+    },
+    {
+    "title": "Líder Comunitario",
+    "organization": "Fundación Social",
+    "period": "2015 - 2018",
+    "description": "Trabajo con comunidades locales y desarrollo de proyectos sociales."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Zamora Chinchipe.",
+    "status": "Pendiente",
+    "progress": 15,
+    "category": "Derechos Humanos"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Zamora Chinchipe.",
+    "status": "En progreso",
+    "progress": 58,
+    "category": "Justicia Social"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Salvador Quishpe ha mostrado experiencia política en su activismo social. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Experiencia política",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "355",
+    "name": "Sofía Torres",
+    "image": "/sofía-torres.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "orellana",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 11,
+    "proposalsFulfilled": 15,
+    "approvalRating": 48,
+    "age": 59,
+    "birthplace": "Orellana, Ecuador",
+    "careerStart": "2014",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Orellana y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Orellana",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Orellana.",
+    "status": "Pendiente",
+    "progress": 14,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Orellana.",
+    "status": "En progreso",
+    "progress": 51,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Sofía Torres ha mostrado formación académica en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Formación académica",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "356",
+    "name": "Ricardo Hernández",
+    "image": "/ricardo-hernández.jpg",
+    "party": "Alianza PAIS",
+    "province": "manabí",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 1,
+    "proposalsFulfilled": 35,
+    "approvalRating": 35,
+    "age": 50,
+    "birthplace": "Manabí, Ecuador",
+    "careerStart": "2024",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Manabí y pertenece al partido Alianza PAIS.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Manabí",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Manabí.",
+    "status": "Pendiente",
+    "progress": 24,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Manabí.",
+    "status": "En progreso",
+    "progress": 57,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Ricardo Hernández ha mostrado liderazgo en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Liderazgo",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "357",
+    "name": "Andrés Vargas",
+    "image": "/andrés-vargas.jpg",
+    "party": "CREO",
+    "province": "loja",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 7,
+    "proposalsFulfilled": 19,
+    "approvalRating": 81,
+    "age": 48,
+    "birthplace": "Loja, Ecuador",
+    "careerStart": "2018",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Loja y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Loja",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Loja.",
+    "status": "Pendiente",
+    "progress": 23,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Loja.",
+    "status": "En progreso",
+    "progress": 64,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Andrés Vargas ha mostrado capacidad de diálogo en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "358",
+    "name": "Francisco Torres",
+    "image": "/francisco-torres.jpg",
+    "party": "Movimiento Construye",
+    "province": "imbabura",
+    "currentPosition": "Vicepresidente",
+    "experience": 3,
+    "proposalsFulfilled": 43,
+    "approvalRating": 70,
+    "age": 35,
+    "birthplace": "Imbabura, Ecuador",
+    "careerStart": "2022",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Imbabura y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Imbabura",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Imbabura.",
+    "status": "Pendiente",
+    "progress": 30,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Imbabura.",
+    "status": "En progreso",
+    "progress": 54,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Francisco Torres ha mostrado formación académica en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Formación académica",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Falta de experiencia"
+    ]
+    }
+  },
+  {
+    "id": "359",
+    "name": "Pedro Torres",
+    "image": "/pedro-torres.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "morona santiago",
+    "currentPosition": "Vicepresidente",
+    "experience": 13,
+    "proposalsFulfilled": 44,
+    "approvalRating": 35,
+    "age": 39,
+    "birthplace": "Morona Santiago, Ecuador",
+    "careerStart": "2012",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Morona Santiago y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Morona Santiago",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Morona Santiago.",
+    "status": "Pendiente",
+    "progress": 12,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Morona Santiago.",
+    "status": "En progreso",
+    "progress": 63,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Pedro Torres ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "360",
+    "name": "Andrés Sánchez",
+    "image": "/andrés-sánchez.jpg",
+    "party": "CREO",
+    "province": "morona santiago",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 17,
+    "proposalsFulfilled": 20,
+    "approvalRating": 81,
+    "age": 40,
+    "birthplace": "Morona Santiago, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Morona Santiago y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Morona Santiago",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Morona Santiago.",
+    "status": "Pendiente",
+    "progress": 13,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Morona Santiago.",
+    "status": "En progreso",
+    "progress": 63,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Andrés Sánchez ha mostrado compromiso social en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Compromiso social",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "361",
+    "name": "Fabricio Villamar",
+    "image": "/fabricio-villamar.jpg",
+    "party": "CREO",
+    "province": "pichincha",
+    "currentPosition": "Activista Político",
+    "experience": 1,
+    "proposalsFulfilled": 32,
+    "approvalRating": 61,
+    "age": 46,
+    "birthplace": "Pichincha, Ecuador",
+    "careerStart": "2024",
+    "biography": "Activista político y defensor de derechos sociales en Ecuador. Representa a la provincia de Pichincha y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Activista Político",
+    "organization": "Organización Civil - Pichincha",
+    "period": "2023 - Presente",
+    "description": "Defensa de derechos y activismo social."
+    },
+    {
+    "title": "Coordinador de Proyectos",
+    "organization": "ONG",
+    "period": "2018 - 2023",
+    "description": "Coordinación de iniciativas sociales y comunitarias."
+    },
+    {
+    "title": "Líder Comunitario",
+    "organization": "Fundación Social",
+    "period": "2015 - 2018",
+    "description": "Trabajo con comunidades locales y desarrollo de proyectos sociales."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Pichincha.",
+    "status": "Pendiente",
+    "progress": 20,
+    "category": "Derechos Humanos"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Pichincha.",
+    "status": "En progreso",
+    "progress": 60,
+    "category": "Justicia Social"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Fabricio Villamar ha mostrado liderazgo en su activismo social. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Liderazgo",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "362",
+    "name": "Carlos Rivera",
+    "image": "/carlos-rivera.jpg",
+    "party": "Movimiento Construye",
+    "province": "carchi",
+    "currentPosition": "Alcalde",
+    "experience": 9,
+    "proposalsFulfilled": 19,
+    "approvalRating": 85,
+    "age": 44,
+    "birthplace": "Carchi, Ecuador",
+    "careerStart": "2016",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Carchi y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Carchi",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Carchi.",
+    "status": "Pendiente",
+    "progress": 23,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Carchi.",
+    "status": "En progreso",
+    "progress": 59,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Carlos Rivera ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "363",
+    "name": "Juan Ramírez",
+    "image": "/juan-ramírez.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "chimborazo",
+    "currentPosition": "Prefecto",
+    "experience": 10,
+    "proposalsFulfilled": 37,
+    "approvalRating": 82,
+    "age": 61,
+    "birthplace": "Chimborazo, Ecuador",
+    "careerStart": "2015",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Chimborazo y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Chimborazo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Chimborazo.",
+    "status": "Pendiente",
+    "progress": 10,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Chimborazo.",
+    "status": "En progreso",
+    "progress": 66,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Juan Ramírez ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "364",
+    "name": "Juan Morales",
+    "image": "/juan-morales.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "santo domingo",
+    "currentPosition": "Prefecto",
+    "experience": 14,
+    "proposalsFulfilled": 37,
+    "approvalRating": 76,
+    "age": 38,
+    "birthplace": "Santo Domingo, Ecuador",
+    "careerStart": "2011",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santo Domingo y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Santo Domingo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Santo Domingo.",
+    "status": "Pendiente",
+    "progress": 21,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Santo Domingo.",
+    "status": "En progreso",
+    "progress": 46,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Juan Morales ha mostrado visión estratégica en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Visión estratégica",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "365",
+    "name": "Francisco Rivera",
+    "image": "/francisco-rivera.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "santa elena",
+    "currentPosition": "Vicepresidente",
+    "experience": 16,
+    "proposalsFulfilled": 17,
+    "approvalRating": 35,
+    "age": 34,
+    "birthplace": "Santa Elena, Ecuador",
+    "careerStart": "2009",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santa Elena y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Santa Elena",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Santa Elena.",
+    "status": "Pendiente",
+    "progress": 29,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Santa Elena.",
+    "status": "En progreso",
+    "progress": 55,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Francisco Rivera ha mostrado capacidad de diálogo en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "366",
+    "name": "Juan Martínez",
+    "image": "/juan-martínez.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "cotopaxi",
+    "currentPosition": "Concejal",
+    "experience": 14,
+    "proposalsFulfilled": 41,
+    "approvalRating": 64,
+    "age": 66,
+    "birthplace": "Cotopaxi, Ecuador",
+    "careerStart": "2011",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Cotopaxi y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Cotopaxi",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Cotopaxi.",
+    "status": "Pendiente",
+    "progress": 15,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Cotopaxi.",
+    "status": "En progreso",
+    "progress": 65,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Juan Martínez ha mostrado experiencia política en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Experiencia política",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "367",
+    "name": "Verónica Hernández",
+    "image": "/verónica-hernández.jpg",
+    "party": "Movimiento de Unidad Plurinacional Pachakutik",
+    "province": "santa elena",
+    "currentPosition": "Alcalde",
+    "experience": 16,
+    "proposalsFulfilled": 30,
+    "approvalRating": 35,
+    "age": 49,
+    "birthplace": "Santa Elena, Ecuador",
+    "careerStart": "2009",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santa Elena y pertenece al partido Movimiento de Unidad Plurinacional Pachakutik.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Santa Elena",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Santa Elena.",
+    "status": "Pendiente",
+    "progress": 14,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Santa Elena.",
+    "status": "En progreso",
+    "progress": 55,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Verónica Hernández ha mostrado capacidad de diálogo en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Falta de experiencia"
+    ]
+    }
+  },
+  {
+    "id": "368",
+    "name": "Carlos González",
+    "image": "/carlos-gonzález.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "orellana",
+    "currentPosition": "Vicepresidente",
+    "experience": 13,
+    "proposalsFulfilled": 37,
+    "approvalRating": 46,
+    "age": 55,
+    "birthplace": "Orellana, Ecuador",
+    "careerStart": "2012",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Orellana y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Orellana",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Orellana.",
+    "status": "Pendiente",
+    "progress": 10,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Orellana.",
+    "status": "En progreso",
+    "progress": 62,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Carlos González ha mostrado formación académica en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Formación académica",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "369",
+    "name": "Francisco López",
+    "image": "/francisco-lópez.jpg",
+    "party": "Alianza PAIS",
+    "province": "orellana",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 6,
+    "proposalsFulfilled": 27,
+    "approvalRating": 54,
+    "age": 57,
+    "birthplace": "Orellana, Ecuador",
+    "careerStart": "2019",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Orellana y pertenece al partido Alianza PAIS.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Orellana",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Orellana.",
+    "status": "Pendiente",
+    "progress": 14,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Orellana.",
+    "status": "En progreso",
+    "progress": 47,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Francisco López ha mostrado experiencia política en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Experiencia política",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "370",
+    "name": "Carlos Ramírez",
+    "image": "/carlos-ramírez.jpg",
+    "party": "SUMA",
+    "province": "santa elena",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 1,
+    "proposalsFulfilled": 43,
+    "approvalRating": 62,
+    "age": 57,
+    "birthplace": "Santa Elena, Ecuador",
+    "careerStart": "2024",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santa Elena y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Santa Elena",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Santa Elena.",
+    "status": "Pendiente",
+    "progress": 29,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Santa Elena.",
+    "status": "En progreso",
+    "progress": 47,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Carlos Ramírez ha mostrado capacidad de gestión en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "371",
+    "name": "Carlos Sánchez",
+    "image": "/carlos-sánchez.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "azuay",
+    "currentPosition": "Ministro",
+    "experience": 14,
+    "proposalsFulfilled": 50,
+    "approvalRating": 67,
+    "age": 51,
+    "birthplace": "Azuay, Ecuador",
+    "careerStart": "2011",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Azuay y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Azuay",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Azuay.",
+    "status": "Pendiente",
+    "progress": 12,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Azuay.",
+    "status": "En progreso",
+    "progress": 46,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Carlos Sánchez ha mostrado liderazgo en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Liderazgo",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "372",
+    "name": "Diego Hernández",
+    "image": "/diego-hernández.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "pichincha",
+    "currentPosition": "Alcalde",
+    "experience": 12,
+    "proposalsFulfilled": 25,
+    "approvalRating": 42,
+    "age": 44,
+    "birthplace": "Pichincha, Ecuador",
+    "careerStart": "2013",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Pichincha y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Pichincha",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Pichincha.",
+    "status": "Pendiente",
+    "progress": 21,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Pichincha.",
+    "status": "En progreso",
+    "progress": 63,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Diego Hernández ha mostrado transparencia en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con críticas por su gestión anterior.",
+    "strengths": [
+    "Transparencia",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Críticas por su gestión anterior",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "373",
+    "name": "José Rivera",
+    "image": "/josé-rivera.jpg",
+    "party": "Movimiento Centro Democrático",
+    "province": "zamora chinchipe",
+    "currentPosition": "Ministro",
+    "experience": 8,
+    "proposalsFulfilled": 28,
+    "approvalRating": 78,
+    "age": 39,
+    "birthplace": "Zamora Chinchipe, Ecuador",
+    "careerStart": "2017",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Zamora Chinchipe y pertenece al partido Movimiento Centro Democrático.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Zamora Chinchipe",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Zamora Chinchipe.",
+    "status": "Pendiente",
+    "progress": 30,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Zamora Chinchipe.",
+    "status": "En progreso",
+    "progress": 40,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "José Rivera ha mostrado transparencia en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Transparencia",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Falta de experiencia"
+    ]
+    }
+  },
+  {
+    "id": "374",
+    "name": "Mónica Hernández",
+    "image": "/mónica-hernández.jpg",
+    "party": "SUMA",
+    "province": "azuay",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 7,
+    "proposalsFulfilled": 39,
+    "approvalRating": 62,
+    "age": 70,
+    "birthplace": "Azuay, Ecuador",
+    "careerStart": "2018",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Azuay y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Azuay",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Azuay.",
+    "status": "Pendiente",
+    "progress": 27,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Azuay.",
+    "status": "En progreso",
+    "progress": 67,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Mónica Hernández ha mostrado conocimiento técnico en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Falta de experiencia"
+    ]
+    }
+  },
+  {
+    "id": "375",
+    "name": "Juan Torres",
+    "image": "/juan-torres.jpg",
+    "party": "Movimiento Centro Democrático",
+    "province": "galápagos",
+    "currentPosition": "Concejal",
+    "experience": 17,
+    "proposalsFulfilled": 43,
+    "approvalRating": 59,
+    "age": 52,
+    "birthplace": "Galápagos, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Galápagos y pertenece al partido Movimiento Centro Democrático.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Galápagos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Galápagos.",
+    "status": "Pendiente",
+    "progress": 15,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Galápagos.",
+    "status": "En progreso",
+    "progress": 65,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Juan Torres ha mostrado conocimiento técnico en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "376",
+    "name": "Sofía Hernández",
+    "image": "/sofía-hernández.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "pastaza",
+    "currentPosition": "Ministro",
+    "experience": 12,
+    "proposalsFulfilled": 29,
+    "approvalRating": 59,
+    "age": 33,
+    "birthplace": "Pastaza, Ecuador",
+    "careerStart": "2013",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Pastaza y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Pastaza",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Pastaza.",
+    "status": "Pendiente",
+    "progress": 23,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Pastaza.",
+    "status": "En progreso",
+    "progress": 47,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Sofía Hernández ha mostrado compromiso social en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Compromiso social",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "377",
+    "name": "Fernando Torres",
+    "image": "/fernando-torres.jpg",
+    "party": "SUMA",
+    "province": "cotopaxi",
+    "currentPosition": "Concejal",
+    "experience": 10,
+    "proposalsFulfilled": 49,
+    "approvalRating": 34,
+    "age": 37,
+    "birthplace": "Cotopaxi, Ecuador",
+    "careerStart": "2015",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Cotopaxi y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Cotopaxi",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Cotopaxi.",
+    "status": "Pendiente",
+    "progress": 30,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Cotopaxi.",
+    "status": "En progreso",
+    "progress": 60,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Fernando Torres ha mostrado visión estratégica en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Visión estratégica",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "378",
+    "name": "Carla Gómez",
+    "image": "/carla-gómez.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "santo domingo",
+    "currentPosition": "Alcalde",
+    "experience": 7,
+    "proposalsFulfilled": 33,
+    "approvalRating": 44,
+    "age": 50,
+    "birthplace": "Santo Domingo, Ecuador",
+    "careerStart": "2018",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santo Domingo y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Santo Domingo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Santo Domingo.",
+    "status": "Pendiente",
+    "progress": 25,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Santo Domingo.",
+    "status": "En progreso",
+    "progress": 43,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Carla Gómez ha mostrado conocimiento técnico en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "379",
+    "name": "Eduardo Ortiz",
+    "image": "/eduardo-ortiz.jpg",
+    "party": "Movimiento Centro Democrático",
+    "province": "esmeraldas",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 6,
+    "proposalsFulfilled": 39,
+    "approvalRating": 48,
+    "age": 68,
+    "birthplace": "Esmeraldas, Ecuador",
+    "careerStart": "2019",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Esmeraldas y pertenece al partido Movimiento Centro Democrático.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Esmeraldas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Esmeraldas.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Esmeraldas.",
+    "status": "En progreso",
+    "progress": 50,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Eduardo Ortiz ha mostrado capacidad de gestión en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "380",
+    "name": "Carlos Flores",
+    "image": "/carlos-flores.jpg",
+    "party": "Movimiento Construye",
+    "province": "guayas",
+    "currentPosition": "Ministro",
+    "experience": 8,
+    "proposalsFulfilled": 14,
+    "approvalRating": 74,
+    "age": 43,
+    "birthplace": "Guayas, Ecuador",
+    "careerStart": "2017",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Guayas y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Guayas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Guayas.",
+    "status": "Pendiente",
+    "progress": 24,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Guayas.",
+    "status": "En progreso",
+    "progress": 46,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Carlos Flores ha mostrado transparencia en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Transparencia",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "381",
+    "name": "María Vásquez",
+    "image": "/maría-vásquez.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "loja",
+    "currentPosition": "Prefecto",
+    "experience": 16,
+    "proposalsFulfilled": 39,
+    "approvalRating": 57,
+    "age": 46,
+    "birthplace": "Loja, Ecuador",
+    "careerStart": "2009",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Loja y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Loja",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Loja.",
+    "status": "Pendiente",
+    "progress": 15,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Loja.",
+    "status": "En progreso",
+    "progress": 44,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "María Vásquez ha mostrado experiencia política en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Experiencia política",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "382",
+    "name": "Diego Castro",
+    "image": "/diego-castro.jpg",
+    "party": "Movimiento Construye",
+    "province": "azuay",
+    "currentPosition": "Prefecto",
+    "experience": 1,
+    "proposalsFulfilled": 39,
+    "approvalRating": 57,
+    "age": 63,
+    "birthplace": "Azuay, Ecuador",
+    "careerStart": "2024",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Azuay y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Azuay",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Azuay.",
+    "status": "Pendiente",
+    "progress": 17,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Azuay.",
+    "status": "En progreso",
+    "progress": 61,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Diego Castro ha mostrado formación académica en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Formación académica",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "383",
+    "name": "Fernando Vargas",
+    "image": "/fernando-vargas.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "imbabura",
+    "currentPosition": "Concejal",
+    "experience": 7,
+    "proposalsFulfilled": 10,
+    "approvalRating": 83,
+    "age": 32,
+    "birthplace": "Imbabura, Ecuador",
+    "careerStart": "2018",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Imbabura y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Imbabura",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Imbabura.",
+    "status": "Pendiente",
+    "progress": 24,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Imbabura.",
+    "status": "En progreso",
+    "progress": 54,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Fernando Vargas ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "384",
+    "name": "Patricia Vargas",
+    "image": "/patricia-vargas.jpg",
+    "party": "Alianza PAIS",
+    "province": "galápagos",
+    "currentPosition": "Ministro",
+    "experience": 20,
+    "proposalsFulfilled": 47,
+    "approvalRating": 84,
+    "age": 42,
+    "birthplace": "Galápagos, Ecuador",
+    "careerStart": "2005",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Galápagos y pertenece al partido Alianza PAIS.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Galápagos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Galápagos.",
+    "status": "Pendiente",
+    "progress": 28,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Galápagos.",
+    "status": "En progreso",
+    "progress": 64,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Patricia Vargas ha mostrado liderazgo en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Liderazgo",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "385",
+    "name": "Andrés Gómez",
+    "image": "/andrés-gómez.jpg",
+    "party": "Movimiento de Unidad Plurinacional Pachakutik",
+    "province": "bolivar",
+    "currentPosition": "Ministro",
+    "experience": 8,
+    "proposalsFulfilled": 13,
+    "approvalRating": 37,
+    "age": 32,
+    "birthplace": "Bolivar, Ecuador",
+    "careerStart": "2017",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Bolivar y pertenece al partido Movimiento de Unidad Plurinacional Pachakutik.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Bolivar",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Bolivar.",
+    "status": "Pendiente",
+    "progress": 18,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Bolivar.",
+    "status": "En progreso",
+    "progress": 52,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Andrés Gómez ha mostrado transparencia en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Transparencia",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "386",
+    "name": "Carla Ramírez",
+    "image": "/carla-ramírez.jpg",
+    "party": "CREO",
+    "province": "zamora chinchipe",
+    "currentPosition": "Vicepresidente",
+    "experience": 5,
+    "proposalsFulfilled": 11,
+    "approvalRating": 78,
+    "age": 42,
+    "birthplace": "Zamora Chinchipe, Ecuador",
+    "careerStart": "2020",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Zamora Chinchipe y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Zamora Chinchipe",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Zamora Chinchipe.",
+    "status": "Pendiente",
+    "progress": 18,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Zamora Chinchipe.",
+    "status": "En progreso",
+    "progress": 64,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Carla Ramírez ha mostrado experiencia política en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con críticas por su gestión anterior.",
+    "strengths": [
+    "Experiencia política",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Críticas por su gestión anterior",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "387",
+    "name": "Fernando González",
+    "image": "/fernando-gonzález.jpg",
+    "party": "Movimiento Construye",
+    "province": "los ríos",
+    "currentPosition": "Prefecto",
+    "experience": 2,
+    "proposalsFulfilled": 38,
+    "approvalRating": 42,
+    "age": 63,
+    "birthplace": "Los Ríos, Ecuador",
+    "careerStart": "2023",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Los Ríos y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Los Ríos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Los Ríos.",
+    "status": "Pendiente",
+    "progress": 14,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Los Ríos.",
+    "status": "En progreso",
+    "progress": 44,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Fernando González ha mostrado transparencia en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Transparencia",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "388",
+    "name": "Sofía Vargas",
+    "image": "/sofía-vargas.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "manabí",
+    "currentPosition": "Vicepresidente",
+    "experience": 15,
+    "proposalsFulfilled": 14,
+    "approvalRating": 71,
+    "age": 65,
+    "birthplace": "Manabí, Ecuador",
+    "careerStart": "2010",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Manabí y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Manabí",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Manabí.",
+    "status": "Pendiente",
+    "progress": 14,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Manabí.",
+    "status": "En progreso",
+    "progress": 40,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Sofía Vargas ha mostrado compromiso social en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Compromiso social",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "389",
+    "name": "Verónica Ramírez",
+    "image": "/verónica-ramírez.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "chimborazo",
+    "currentPosition": "Prefecto",
+    "experience": 13,
+    "proposalsFulfilled": 30,
+    "approvalRating": 77,
+    "age": 45,
+    "birthplace": "Chimborazo, Ecuador",
+    "careerStart": "2012",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Chimborazo y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Chimborazo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Chimborazo.",
+    "status": "Pendiente",
+    "progress": 25,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Chimborazo.",
+    "status": "En progreso",
+    "progress": 67,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Verónica Ramírez ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "390",
+    "name": "Daniela Torres",
+    "image": "/daniela-torres.jpg",
+    "party": "SUMA",
+    "province": "zamora chinchipe",
+    "currentPosition": "Alcalde",
+    "experience": 2,
+    "proposalsFulfilled": 50,
+    "approvalRating": 44,
+    "age": 38,
+    "birthplace": "Zamora Chinchipe, Ecuador",
+    "careerStart": "2023",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Zamora Chinchipe y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Zamora Chinchipe",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Zamora Chinchipe.",
+    "status": "Pendiente",
+    "progress": 20,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Zamora Chinchipe.",
+    "status": "En progreso",
+    "progress": 57,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Daniela Torres ha mostrado transparencia en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Transparencia",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "391",
+    "name": "Carlos Morales",
+    "image": "/carlos-morales.jpg",
+    "party": "Movimiento Centro Democrático",
+    "province": "tungurahua",
+    "currentPosition": "Prefecto",
+    "experience": 1,
+    "proposalsFulfilled": 39,
+    "approvalRating": 49,
+    "age": 41,
+    "birthplace": "Tungurahua, Ecuador",
+    "careerStart": "2024",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Tungurahua y pertenece al partido Movimiento Centro Democrático.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Tungurahua",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Tungurahua.",
+    "status": "Pendiente",
+    "progress": 16,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Tungurahua.",
+    "status": "En progreso",
+    "progress": 57,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Carlos Morales ha mostrado capacidad de gestión en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "392",
+    "name": "Pedro Díaz",
+    "image": "/pedro-díaz.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "cotopaxi",
+    "currentPosition": "Alcalde",
+    "experience": 18,
+    "proposalsFulfilled": 46,
+    "approvalRating": 34,
+    "age": 54,
+    "birthplace": "Cotopaxi, Ecuador",
+    "careerStart": "2007",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Cotopaxi y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Cotopaxi",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Cotopaxi.",
+    "status": "Pendiente",
+    "progress": 13,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Cotopaxi.",
+    "status": "En progreso",
+    "progress": 57,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Pedro Díaz ha mostrado visión estratégica en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Visión estratégica",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "393",
+    "name": "Juan Hernández",
+    "image": "/juan-hernández.jpg",
+    "party": "Movimiento Centro Democrático",
+    "province": "azuay",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 7,
+    "proposalsFulfilled": 20,
+    "approvalRating": 54,
+    "age": 66,
+    "birthplace": "Azuay, Ecuador",
+    "careerStart": "2018",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Azuay y pertenece al partido Movimiento Centro Democrático.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Azuay",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Azuay.",
+    "status": "Pendiente",
+    "progress": 25,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Azuay.",
+    "status": "En progreso",
+    "progress": 47,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Juan Hernández ha mostrado formación académica en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con críticas por su gestión anterior.",
+    "strengths": [
+    "Formación académica",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Críticas por su gestión anterior",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "394",
+    "name": "Mónica Hernández",
+    "image": "/mónica-hernández.jpg",
+    "party": "CREO",
+    "province": "bolivar",
+    "currentPosition": "Concejal",
+    "experience": 6,
+    "proposalsFulfilled": 29,
+    "approvalRating": 73,
+    "age": 54,
+    "birthplace": "Bolivar, Ecuador",
+    "careerStart": "2019",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Bolivar y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Bolivar",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Bolivar.",
+    "status": "Pendiente",
+    "progress": 21,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Bolivar.",
+    "status": "En progreso",
+    "progress": 43,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Mónica Hernández ha mostrado capacidad de gestión en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "395",
+    "name": "María López",
+    "image": "/maría-lópez.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "santa elena",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 4,
+    "proposalsFulfilled": 29,
+    "approvalRating": 31,
+    "age": 47,
+    "birthplace": "Santa Elena, Ecuador",
+    "careerStart": "2021",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santa Elena y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Santa Elena",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Santa Elena.",
+    "status": "Pendiente",
+    "progress": 23,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Santa Elena.",
+    "status": "En progreso",
+    "progress": 44,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "María López ha mostrado capacidad de gestión en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "396",
+    "name": "Gabriela Torres",
+    "image": "/gabriela-torres.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "morona santiago",
+    "currentPosition": "Concejal",
+    "experience": 16,
+    "proposalsFulfilled": 36,
+    "approvalRating": 35,
+    "age": 41,
+    "birthplace": "Morona Santiago, Ecuador",
+    "careerStart": "2009",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Morona Santiago y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Morona Santiago",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Morona Santiago.",
+    "status": "Pendiente",
+    "progress": 18,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Morona Santiago.",
+    "status": "En progreso",
+    "progress": 45,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Gabriela Torres ha mostrado transparencia en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Transparencia",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "397",
+    "name": "Eduardo Gómez",
+    "image": "/eduardo-gómez.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "carchi",
+    "currentPosition": "Vicepresidente",
+    "experience": 12,
+    "proposalsFulfilled": 35,
+    "approvalRating": 48,
+    "age": 66,
+    "birthplace": "Carchi, Ecuador",
+    "careerStart": "2013",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Carchi y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Carchi",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Carchi.",
+    "status": "Pendiente",
+    "progress": 21,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Carchi.",
+    "status": "En progreso",
+    "progress": 54,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Eduardo Gómez ha mostrado experiencia política en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Experiencia política",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "398",
+    "name": "Gabriela Martínez",
+    "image": "/gabriela-martínez.jpg",
+    "party": "CREO",
+    "province": "cañar",
+    "currentPosition": "Vicepresidente",
+    "experience": 2,
+    "proposalsFulfilled": 48,
+    "approvalRating": 42,
+    "age": 41,
+    "birthplace": "Cañar, Ecuador",
+    "careerStart": "2023",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Cañar y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Cañar",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Cañar.",
+    "status": "Pendiente",
+    "progress": 12,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Cañar.",
+    "status": "En progreso",
+    "progress": 60,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Gabriela Martínez ha mostrado capacidad de diálogo en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Falta de experiencia"
+    ]
+    }
+  },
+  {
+    "id": "399",
+    "name": "Diego Morales",
+    "image": "/diego-morales.jpg",
+    "party": "Movimiento de Unidad Plurinacional Pachakutik",
+    "province": "santa elena",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 5,
+    "proposalsFulfilled": 10,
+    "approvalRating": 31,
+    "age": 47,
+    "birthplace": "Santa Elena, Ecuador",
+    "careerStart": "2020",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santa Elena y pertenece al partido Movimiento de Unidad Plurinacional Pachakutik.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Santa Elena",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Santa Elena.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Santa Elena.",
+    "status": "En progreso",
+    "progress": 62,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Diego Morales ha mostrado capacidad de gestión en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "400",
+    "name": "Ricardo Torres",
+    "image": "/ricardo-torres.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "pichincha",
+    "currentPosition": "Concejal",
+    "experience": 5,
+    "proposalsFulfilled": 20,
+    "approvalRating": 78,
+    "age": 60,
+    "birthplace": "Pichincha, Ecuador",
+    "careerStart": "2020",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Pichincha y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Pichincha",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Pichincha.",
+    "status": "Pendiente",
+    "progress": 21,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Pichincha.",
+    "status": "En progreso",
+    "progress": 61,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Ricardo Torres ha mostrado experiencia política en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Experiencia política",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "401",
+    "name": "Gabriela Pérez",
+    "image": "/gabriela-pérez.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "loja",
+    "currentPosition": "Ministro",
+    "experience": 16,
+    "proposalsFulfilled": 10,
+    "approvalRating": 86,
+    "age": 37,
+    "birthplace": "Loja, Ecuador",
+    "careerStart": "2009",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Loja y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Loja",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Loja.",
+    "status": "Pendiente",
+    "progress": 17,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Loja.",
+    "status": "En progreso",
+    "progress": 41,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Gabriela Pérez ha mostrado capacidad de gestión en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "402",
+    "name": "Luisa Rodríguez",
+    "image": "/luisa-rodríguez.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "orellana",
+    "currentPosition": "Prefecto",
+    "experience": 9,
+    "proposalsFulfilled": 19,
+    "approvalRating": 55,
+    "age": 31,
+    "birthplace": "Orellana, Ecuador",
+    "careerStart": "2016",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Orellana y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Orellana",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Orellana.",
+    "status": "Pendiente",
+    "progress": 29,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Orellana.",
+    "status": "En progreso",
+    "progress": 47,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Luisa Rodríguez ha mostrado visión estratégica en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Visión estratégica",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "403",
+    "name": "José Gómez",
+    "image": "/josé-gómez.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "chimborazo",
+    "currentPosition": "Alcalde",
+    "experience": 8,
+    "proposalsFulfilled": 22,
+    "approvalRating": 35,
+    "age": 37,
+    "birthplace": "Chimborazo, Ecuador",
+    "careerStart": "2017",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Chimborazo y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Chimborazo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Chimborazo.",
+    "status": "Pendiente",
+    "progress": 22,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Chimborazo.",
+    "status": "En progreso",
+    "progress": 66,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "José Gómez ha mostrado compromiso social en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Compromiso social",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "404",
+    "name": "Mónica Sánchez",
+    "image": "/mónica-sánchez.jpg",
+    "party": "CREO",
+    "province": "loja",
+    "currentPosition": "Concejal",
+    "experience": 19,
+    "proposalsFulfilled": 43,
+    "approvalRating": 65,
+    "age": 66,
+    "birthplace": "Loja, Ecuador",
+    "careerStart": "2006",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Loja y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Loja",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Loja.",
+    "status": "Pendiente",
+    "progress": 27,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Loja.",
+    "status": "En progreso",
+    "progress": 47,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Mónica Sánchez ha mostrado capacidad de diálogo en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "405",
+    "name": "Andrés Díaz",
+    "image": "/andrés-díaz.jpg",
+    "party": "Movimiento Centro Democrático",
+    "province": "zamora chinchipe",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 17,
+    "proposalsFulfilled": 46,
+    "approvalRating": 67,
+    "age": 42,
+    "birthplace": "Zamora Chinchipe, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Zamora Chinchipe y pertenece al partido Movimiento Centro Democrático.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Zamora Chinchipe",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Zamora Chinchipe.",
+    "status": "Pendiente",
+    "progress": 19,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Zamora Chinchipe.",
+    "status": "En progreso",
+    "progress": 63,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Andrés Díaz ha mostrado experiencia política en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Experiencia política",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "406",
+    "name": "Patricia Rodríguez",
+    "image": "/patricia-rodríguez.jpg",
+    "party": "Movimiento de Unidad Plurinacional Pachakutik",
+    "province": "morona santiago",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 11,
+    "proposalsFulfilled": 44,
+    "approvalRating": 82,
+    "age": 47,
+    "birthplace": "Morona Santiago, Ecuador",
+    "careerStart": "2014",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Morona Santiago y pertenece al partido Movimiento de Unidad Plurinacional Pachakutik.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Morona Santiago",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Morona Santiago.",
+    "status": "Pendiente",
+    "progress": 28,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Morona Santiago.",
+    "status": "En progreso",
+    "progress": 45,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Patricia Rodríguez ha mostrado transparencia en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Transparencia",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "407",
+    "name": "Eduardo Ramos",
+    "image": "/eduardo-ramos.jpg",
+    "party": "SUMA",
+    "province": "pichincha",
+    "currentPosition": "Alcalde",
+    "experience": 10,
+    "proposalsFulfilled": 17,
+    "approvalRating": 60,
+    "age": 51,
+    "birthplace": "Pichincha, Ecuador",
+    "careerStart": "2015",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Pichincha y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Pichincha",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Pichincha.",
+    "status": "Pendiente",
+    "progress": 26,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Pichincha.",
+    "status": "En progreso",
+    "progress": 60,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Eduardo Ramos ha mostrado capacidad de diálogo en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "408",
+    "name": "Luisa Ramos",
+    "image": "/luisa-ramos.jpg",
+    "party": "SUMA",
+    "province": "manabí",
+    "currentPosition": "Alcalde",
+    "experience": 14,
+    "proposalsFulfilled": 48,
+    "approvalRating": 85,
+    "age": 50,
+    "birthplace": "Manabí, Ecuador",
+    "careerStart": "2011",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Manabí y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Manabí",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Manabí.",
+    "status": "Pendiente",
+    "progress": 29,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Manabí.",
+    "status": "En progreso",
+    "progress": 68,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Luisa Ramos ha mostrado experiencia política en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Experiencia política",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "409",
+    "name": "Juan González",
+    "image": "/juan-gonzález.jpg",
+    "party": "SUMA",
+    "province": "napo",
+    "currentPosition": "Prefecto",
+    "experience": 4,
+    "proposalsFulfilled": 24,
+    "approvalRating": 80,
+    "age": 70,
+    "birthplace": "Napo, Ecuador",
+    "careerStart": "2021",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Napo y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Napo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Napo.",
+    "status": "Pendiente",
+    "progress": 27,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Napo.",
+    "status": "En progreso",
+    "progress": 46,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Juan González ha mostrado transparencia en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Transparencia",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "410",
+    "name": "Verónica López",
+    "image": "/verónica-lópez.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "napo",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 8,
+    "proposalsFulfilled": 46,
+    "approvalRating": 73,
+    "age": 63,
+    "birthplace": "Napo, Ecuador",
+    "careerStart": "2017",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Napo y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Napo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Napo.",
+    "status": "Pendiente",
+    "progress": 15,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Napo.",
+    "status": "En progreso",
+    "progress": 60,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Verónica López ha mostrado formación académica en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Formación académica",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "411",
+    "name": "Pedro Flores",
+    "image": "/pedro-flores.jpg",
+    "party": "SUMA",
+    "province": "manabí",
+    "currentPosition": "Vicepresidente",
+    "experience": 16,
+    "proposalsFulfilled": 32,
+    "approvalRating": 83,
+    "age": 70,
+    "birthplace": "Manabí, Ecuador",
+    "careerStart": "2009",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Manabí y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Manabí",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Manabí.",
+    "status": "Pendiente",
+    "progress": 15,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Manabí.",
+    "status": "En progreso",
+    "progress": 65,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Pedro Flores ha mostrado compromiso social en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Compromiso social",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "412",
+    "name": "Carla Flores",
+    "image": "/carla-flores.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "sucumbíos",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 12,
+    "proposalsFulfilled": 30,
+    "approvalRating": 74,
+    "age": 50,
+    "birthplace": "Sucumbíos, Ecuador",
+    "careerStart": "2013",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Sucumbíos y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Sucumbíos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Sucumbíos.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Sucumbíos.",
+    "status": "En progreso",
+    "progress": 41,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Carla Flores ha mostrado experiencia política en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Experiencia política",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "413",
+    "name": "Diego Morales",
+    "image": "/diego-morales.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "azuay",
+    "currentPosition": "Concejal",
+    "experience": 10,
+    "proposalsFulfilled": 39,
+    "approvalRating": 68,
+    "age": 41,
+    "birthplace": "Azuay, Ecuador",
+    "careerStart": "2015",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Azuay y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Azuay",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Azuay.",
+    "status": "Pendiente",
+    "progress": 12,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Azuay.",
+    "status": "En progreso",
+    "progress": 68,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Diego Morales ha mostrado liderazgo en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Liderazgo",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "414",
+    "name": "Gabriela Rivera",
+    "image": "/gabriela-rivera.jpg",
+    "party": "Movimiento Construye",
+    "province": "manabí",
+    "currentPosition": "Alcalde",
+    "experience": 9,
+    "proposalsFulfilled": 32,
+    "approvalRating": 79,
+    "age": 41,
+    "birthplace": "Manabí, Ecuador",
+    "careerStart": "2016",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Manabí y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Manabí",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Manabí.",
+    "status": "Pendiente",
+    "progress": 28,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Manabí.",
+    "status": "En progreso",
+    "progress": 53,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Gabriela Rivera ha mostrado capacidad de gestión en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con críticas por su gestión anterior.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Críticas por su gestión anterior",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "415",
+    "name": "Diego Rodríguez",
+    "image": "/diego-rodríguez.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "orellana",
+    "currentPosition": "Alcalde",
+    "experience": 12,
+    "proposalsFulfilled": 13,
+    "approvalRating": 87,
+    "age": 58,
+    "birthplace": "Orellana, Ecuador",
+    "careerStart": "2013",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Orellana y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Orellana",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Orellana.",
+    "status": "Pendiente",
+    "progress": 10,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Orellana.",
+    "status": "En progreso",
+    "progress": 61,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Diego Rodríguez ha mostrado conocimiento técnico en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "416",
+    "name": "Gabriela Martínez",
+    "image": "/gabriela-martínez.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "bolivar",
+    "currentPosition": "Vicepresidente",
+    "experience": 1,
+    "proposalsFulfilled": 15,
+    "approvalRating": 38,
+    "age": 64,
+    "birthplace": "Bolivar, Ecuador",
+    "careerStart": "2024",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Bolivar y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Bolivar",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Bolivar.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Bolivar.",
+    "status": "En progreso",
+    "progress": 50,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Gabriela Martínez ha mostrado formación académica en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Formación académica",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "417",
+    "name": "Juan Ortiz",
+    "image": "/juan-ortiz.jpg",
+    "party": "CREO",
+    "province": "guayas",
+    "currentPosition": "Prefecto",
+    "experience": 12,
+    "proposalsFulfilled": 21,
+    "approvalRating": 37,
+    "age": 63,
+    "birthplace": "Guayas, Ecuador",
+    "careerStart": "2013",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Guayas y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Guayas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Guayas.",
+    "status": "Pendiente",
+    "progress": 26,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Guayas.",
+    "status": "En progreso",
+    "progress": 45,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Juan Ortiz ha mostrado liderazgo en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Liderazgo",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "418",
+    "name": "Pedro Flores",
+    "image": "/pedro-flores.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "cotopaxi",
+    "currentPosition": "Vicepresidente",
+    "experience": 19,
+    "proposalsFulfilled": 35,
+    "approvalRating": 58,
+    "age": 67,
+    "birthplace": "Cotopaxi, Ecuador",
+    "careerStart": "2006",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Cotopaxi y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Cotopaxi",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Cotopaxi.",
+    "status": "Pendiente",
+    "progress": 29,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Cotopaxi.",
+    "status": "En progreso",
+    "progress": 56,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Pedro Flores ha mostrado capacidad de diálogo en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "419",
+    "name": "Andrés González",
+    "image": "/andrés-gonzález.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "cañar",
+    "currentPosition": "Concejal",
+    "experience": 4,
+    "proposalsFulfilled": 42,
+    "approvalRating": 43,
+    "age": 43,
+    "birthplace": "Cañar, Ecuador",
+    "careerStart": "2021",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Cañar y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Cañar",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Cañar.",
+    "status": "Pendiente",
+    "progress": 26,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Cañar.",
+    "status": "En progreso",
+    "progress": 67,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Andrés González ha mostrado compromiso social en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Compromiso social",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "420",
+    "name": "Fernando Hernández",
+    "image": "/fernando-hernández.jpg",
+    "party": "SUMA",
+    "province": "los ríos",
+    "currentPosition": "Alcalde",
+    "experience": 19,
+    "proposalsFulfilled": 17,
+    "approvalRating": 51,
+    "age": 38,
+    "birthplace": "Los Ríos, Ecuador",
+    "careerStart": "2006",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Los Ríos y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Los Ríos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Los Ríos.",
+    "status": "Pendiente",
+    "progress": 25,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Los Ríos.",
+    "status": "En progreso",
+    "progress": 44,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Fernando Hernández ha mostrado visión estratégica en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Visión estratégica",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "421",
+    "name": "María González",
+    "image": "/maría-gonzález.jpg",
+    "party": "Movimiento de Unidad Plurinacional Pachakutik",
+    "province": "carchi",
+    "currentPosition": "Vicepresidente",
+    "experience": 7,
+    "proposalsFulfilled": 39,
+    "approvalRating": 50,
+    "age": 46,
+    "birthplace": "Carchi, Ecuador",
+    "careerStart": "2018",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Carchi y pertenece al partido Movimiento de Unidad Plurinacional Pachakutik.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Carchi",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Carchi.",
+    "status": "Pendiente",
+    "progress": 14,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Carchi.",
+    "status": "En progreso",
+    "progress": 50,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "María González ha mostrado transparencia en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Transparencia",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "422",
+    "name": "Ana Rivera",
+    "image": "/ana-rivera.jpg",
+    "party": "SUMA",
+    "province": "orellana",
+    "currentPosition": "Ministro",
+    "experience": 17,
+    "proposalsFulfilled": 38,
+    "approvalRating": 40,
+    "age": 39,
+    "birthplace": "Orellana, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Orellana y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Orellana",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Orellana.",
+    "status": "Pendiente",
+    "progress": 26,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Orellana.",
+    "status": "En progreso",
+    "progress": 54,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Ana Rivera ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "423",
+    "name": "Juan Ramírez",
+    "image": "/juan-ramírez.jpg",
+    "party": "SUMA",
+    "province": "galápagos",
+    "currentPosition": "Alcalde",
+    "experience": 9,
+    "proposalsFulfilled": 29,
+    "approvalRating": 59,
+    "age": 52,
+    "birthplace": "Galápagos, Ecuador",
+    "careerStart": "2016",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Galápagos y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Galápagos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Galápagos.",
+    "status": "Pendiente",
+    "progress": 13,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Galápagos.",
+    "status": "En progreso",
+    "progress": 57,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Juan Ramírez ha mostrado conocimiento técnico en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "424",
+    "name": "Daniela Hernández",
+    "image": "/daniela-hernández.jpg",
+    "party": "Movimiento Construye",
+    "province": "pichincha",
+    "currentPosition": "Ministro",
+    "experience": 17,
+    "proposalsFulfilled": 12,
+    "approvalRating": 64,
+    "age": 64,
+    "birthplace": "Pichincha, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Pichincha y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Pichincha",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Pichincha.",
+    "status": "Pendiente",
+    "progress": 25,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Pichincha.",
+    "status": "En progreso",
+    "progress": 56,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Daniela Hernández ha mostrado capacidad de diálogo en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "425",
+    "name": "Verónica Morales",
+    "image": "/verónica-morales.jpg",
+    "party": "Movimiento Construye",
+    "province": "bolivar",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 6,
+    "proposalsFulfilled": 41,
+    "approvalRating": 33,
+    "age": 38,
+    "birthplace": "Bolivar, Ecuador",
+    "careerStart": "2019",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Bolivar y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Bolivar",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Bolivar.",
+    "status": "Pendiente",
+    "progress": 16,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Bolivar.",
+    "status": "En progreso",
+    "progress": 56,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Verónica Morales ha mostrado conocimiento técnico en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "426",
+    "name": "José Vargas",
+    "image": "/josé-vargas.jpg",
+    "party": "SUMA",
+    "province": "santo domingo",
+    "currentPosition": "Concejal",
+    "experience": 16,
+    "proposalsFulfilled": 45,
+    "approvalRating": 64,
+    "age": 58,
+    "birthplace": "Santo Domingo, Ecuador",
+    "careerStart": "2009",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santo Domingo y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Santo Domingo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Santo Domingo.",
+    "status": "Pendiente",
+    "progress": 22,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Santo Domingo.",
+    "status": "En progreso",
+    "progress": 53,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "José Vargas ha mostrado visión estratégica en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Visión estratégica",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "427",
+    "name": "Sofía López",
+    "image": "/sofía-lópez.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "cotopaxi",
+    "currentPosition": "Ministro",
+    "experience": 17,
+    "proposalsFulfilled": 38,
+    "approvalRating": 34,
+    "age": 34,
+    "birthplace": "Cotopaxi, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Cotopaxi y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Cotopaxi",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Cotopaxi.",
+    "status": "Pendiente",
+    "progress": 22,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Cotopaxi.",
+    "status": "En progreso",
+    "progress": 51,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Sofía López ha mostrado conocimiento técnico en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "428",
+    "name": "Sofía Rivera",
+    "image": "/sofía-rivera.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "imbabura",
+    "currentPosition": "Alcalde",
+    "experience": 1,
+    "proposalsFulfilled": 47,
+    "approvalRating": 71,
+    "age": 39,
+    "birthplace": "Imbabura, Ecuador",
+    "careerStart": "2024",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Imbabura y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Imbabura",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Imbabura.",
+    "status": "Pendiente",
+    "progress": 10,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Imbabura.",
+    "status": "En progreso",
+    "progress": 43,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Sofía Rivera ha mostrado conocimiento técnico en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "429",
+    "name": "Ricardo Morales",
+    "image": "/ricardo-morales.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "santo domingo",
+    "currentPosition": "Ministro",
+    "experience": 20,
+    "proposalsFulfilled": 42,
+    "approvalRating": 50,
+    "age": 60,
+    "birthplace": "Santo Domingo, Ecuador",
+    "careerStart": "2005",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santo Domingo y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Santo Domingo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Santo Domingo.",
+    "status": "Pendiente",
+    "progress": 25,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Santo Domingo.",
+    "status": "En progreso",
+    "progress": 53,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Ricardo Morales ha mostrado formación académica en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Formación académica",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "430",
+    "name": "Diego Martínez",
+    "image": "/diego-martínez.jpg",
+    "party": "Alianza PAIS",
+    "province": "loja",
+    "currentPosition": "Vicepresidente",
+    "experience": 20,
+    "proposalsFulfilled": 38,
+    "approvalRating": 60,
+    "age": 51,
+    "birthplace": "Loja, Ecuador",
+    "careerStart": "2005",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Loja y pertenece al partido Alianza PAIS.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Loja",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Loja.",
+    "status": "Pendiente",
+    "progress": 19,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Loja.",
+    "status": "En progreso",
+    "progress": 48,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Diego Martínez ha mostrado formación académica en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con críticas por su gestión anterior.",
+    "strengths": [
+    "Formación académica",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Críticas por su gestión anterior",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "431",
+    "name": "Verónica Vargas",
+    "image": "/verónica-vargas.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "napo",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 8,
+    "proposalsFulfilled": 46,
+    "approvalRating": 85,
+    "age": 61,
+    "birthplace": "Napo, Ecuador",
+    "careerStart": "2017",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Napo y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Napo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Napo.",
+    "status": "Pendiente",
+    "progress": 21,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Napo.",
+    "status": "En progreso",
+    "progress": 57,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Verónica Vargas ha mostrado capacidad de gestión en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "432",
+    "name": "Activist from Galápagos",
+    "image": "/activist-from-galápagos.jpg",
+    "party": "CREO",
+    "province": "galápagos",
+    "currentPosition": "Activista Político",
+    "experience": 3,
+    "proposalsFulfilled": 19,
+    "approvalRating": 81,
+    "age": 36,
+    "birthplace": "Galápagos, Ecuador",
+    "careerStart": "2022",
+    "biography": "Activista político y defensor de derechos sociales en Ecuador. Representa a la provincia de Galápagos y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Activista Político",
+    "organization": "Organización Civil - Galápagos",
+    "period": "2023 - Presente",
+    "description": "Defensa de derechos y activismo social."
+    },
+    {
+    "title": "Coordinador de Proyectos",
+    "organization": "ONG",
+    "period": "2018 - 2023",
+    "description": "Coordinación de iniciativas sociales y comunitarias."
+    },
+    {
+    "title": "Líder Comunitario",
+    "organization": "Fundación Social",
+    "period": "2015 - 2018",
+    "description": "Trabajo con comunidades locales y desarrollo de proyectos sociales."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Galápagos.",
+    "status": "Pendiente",
+    "progress": 20,
+    "category": "Derechos Humanos"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Galápagos.",
+    "status": "En progreso",
+    "progress": 65,
+    "category": "Justicia Social"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Activist from Galápagos ha mostrado cercanía con la comunidad en su activismo social. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Falta de experiencia"
+    ]
+    }
+  },
+  {
+    "id": "433",
+    "name": "Pedro Sánchez",
+    "image": "/pedro-sánchez.jpg",
+    "party": "SUMA",
+    "province": "manabí",
+    "currentPosition": "Ministro",
+    "experience": 12,
+    "proposalsFulfilled": 30,
+    "approvalRating": 84,
+    "age": 54,
+    "birthplace": "Manabí, Ecuador",
+    "careerStart": "2013",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Manabí y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Manabí",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Manabí.",
+    "status": "Pendiente",
+    "progress": 28,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Manabí.",
+    "status": "En progreso",
+    "progress": 66,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Pedro Sánchez ha mostrado liderazgo en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Liderazgo",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "434",
+    "name": "Daniela Vargas",
+    "image": "/daniela-vargas.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "imbabura",
+    "currentPosition": "Alcalde",
+    "experience": 5,
+    "proposalsFulfilled": 39,
+    "approvalRating": 90,
+    "age": 30,
+    "birthplace": "Imbabura, Ecuador",
+    "careerStart": "2020",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Imbabura y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Imbabura",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Imbabura.",
+    "status": "Pendiente",
+    "progress": 28,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Imbabura.",
+    "status": "En progreso",
+    "progress": 65,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Daniela Vargas ha mostrado transparencia en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con críticas por su gestión anterior.",
+    "strengths": [
+    "Transparencia",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Críticas por su gestión anterior",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "435",
+    "name": "Ricardo Ramos",
+    "image": "/ricardo-ramos.jpg",
+    "party": "Movimiento de Unidad Plurinacional Pachakutik",
+    "province": "santa elena",
+    "currentPosition": "Vicepresidente",
+    "experience": 20,
+    "proposalsFulfilled": 35,
+    "approvalRating": 32,
+    "age": 56,
+    "birthplace": "Santa Elena, Ecuador",
+    "careerStart": "2005",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santa Elena y pertenece al partido Movimiento de Unidad Plurinacional Pachakutik.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Santa Elena",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Santa Elena.",
+    "status": "Pendiente",
+    "progress": 15,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Santa Elena.",
+    "status": "En progreso",
+    "progress": 40,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Ricardo Ramos ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "436",
+    "name": "Ricardo Flores",
+    "image": "/ricardo-flores.jpg",
+    "party": "Alianza PAIS",
+    "province": "chimborazo",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 18,
+    "proposalsFulfilled": 31,
+    "approvalRating": 63,
+    "age": 44,
+    "birthplace": "Chimborazo, Ecuador",
+    "careerStart": "2007",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Chimborazo y pertenece al partido Alianza PAIS.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Chimborazo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Chimborazo.",
+    "status": "Pendiente",
+    "progress": 30,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Chimborazo.",
+    "status": "En progreso",
+    "progress": 68,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Ricardo Flores ha mostrado formación académica en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Formación académica",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "437",
+    "name": "Eduardo González",
+    "image": "/eduardo-gonzález.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "guayas",
+    "currentPosition": "Concejal",
+    "experience": 16,
+    "proposalsFulfilled": 16,
+    "approvalRating": 90,
+    "age": 36,
+    "birthplace": "Guayas, Ecuador",
+    "careerStart": "2009",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Guayas y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Guayas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Guayas.",
+    "status": "Pendiente",
+    "progress": 24,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Guayas.",
+    "status": "En progreso",
+    "progress": 70,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Eduardo González ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "438",
+    "name": "María Hernández",
+    "image": "/maría-hernández.jpg",
+    "party": "CREO",
+    "province": "sucumbíos",
+    "currentPosition": "Ministro",
+    "experience": 9,
+    "proposalsFulfilled": 35,
+    "approvalRating": 81,
+    "age": 51,
+    "birthplace": "Sucumbíos, Ecuador",
+    "careerStart": "2016",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Sucumbíos y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Sucumbíos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Sucumbíos.",
+    "status": "Pendiente",
+    "progress": 27,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Sucumbíos.",
+    "status": "En progreso",
+    "progress": 60,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "María Hernández ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "439",
+    "name": "Diego Flores",
+    "image": "/diego-flores.jpg",
+    "party": "Alianza PAIS",
+    "province": "bolivar",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 2,
+    "proposalsFulfilled": 24,
+    "approvalRating": 69,
+    "age": 51,
+    "birthplace": "Bolivar, Ecuador",
+    "careerStart": "2023",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Bolivar y pertenece al partido Alianza PAIS.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Bolivar",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Bolivar.",
+    "status": "Pendiente",
+    "progress": 10,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Bolivar.",
+    "status": "En progreso",
+    "progress": 65,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Diego Flores ha mostrado formación académica en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Formación académica",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "440",
+    "name": "Diego Vásquez",
+    "image": "/diego-vásquez.jpg",
+    "party": "Alianza PAIS",
+    "province": "orellana",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 9,
+    "proposalsFulfilled": 30,
+    "approvalRating": 30,
+    "age": 42,
+    "birthplace": "Orellana, Ecuador",
+    "careerStart": "2016",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Orellana y pertenece al partido Alianza PAIS.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Orellana",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Orellana.",
+    "status": "Pendiente",
+    "progress": 12,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Orellana.",
+    "status": "En progreso",
+    "progress": 58,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Diego Vásquez ha mostrado compromiso social en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Compromiso social",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "441",
+    "name": "Patricia Torres",
+    "image": "/patricia-torres.jpg",
+    "party": "Movimiento Centro Democrático",
+    "province": "loja",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 6,
+    "proposalsFulfilled": 19,
+    "approvalRating": 57,
+    "age": 61,
+    "birthplace": "Loja, Ecuador",
+    "careerStart": "2019",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Loja y pertenece al partido Movimiento Centro Democrático.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Loja",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Loja.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Loja.",
+    "status": "En progreso",
+    "progress": 66,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Patricia Torres ha mostrado capacidad de gestión en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con críticas por su gestión anterior.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Críticas por su gestión anterior",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "442",
+    "name": "María Pérez",
+    "image": "/maría-pérez.jpg",
+    "party": "CREO",
+    "province": "pichincha",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 4,
+    "proposalsFulfilled": 35,
+    "approvalRating": 48,
+    "age": 40,
+    "birthplace": "Pichincha, Ecuador",
+    "careerStart": "2021",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Pichincha y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Pichincha",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Pichincha.",
+    "status": "Pendiente",
+    "progress": 30,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Pichincha.",
+    "status": "En progreso",
+    "progress": 50,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "María Pérez ha mostrado experiencia política en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Experiencia política",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "443",
+    "name": "Carla Martínez",
+    "image": "/carla-martínez.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "loja",
+    "currentPosition": "Ministro",
+    "experience": 9,
+    "proposalsFulfilled": 19,
+    "approvalRating": 57,
+    "age": 46,
+    "birthplace": "Loja, Ecuador",
+    "careerStart": "2016",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Loja y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Loja",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Loja.",
+    "status": "Pendiente",
+    "progress": 10,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Loja.",
+    "status": "En progreso",
+    "progress": 53,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Carla Martínez ha mostrado transparencia en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Transparencia",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "444",
+    "name": "Carlos López",
+    "image": "/carlos-lópez.jpg",
+    "party": "SUMA",
+    "province": "carchi",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 6,
+    "proposalsFulfilled": 28,
+    "approvalRating": 33,
+    "age": 37,
+    "birthplace": "Carchi, Ecuador",
+    "careerStart": "2019",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Carchi y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Carchi",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Carchi.",
+    "status": "Pendiente",
+    "progress": 23,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Carchi.",
+    "status": "En progreso",
+    "progress": 46,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Carlos López ha mostrado liderazgo en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Liderazgo",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Críticas por su gestión anterior"
+    ]
+    }
+  },
+  {
+    "id": "445",
+    "name": "Patricia Vargas",
+    "image": "/patricia-vargas.jpg",
+    "party": "SUMA",
+    "province": "guayas",
+    "currentPosition": "Prefecto",
+    "experience": 16,
+    "proposalsFulfilled": 11,
+    "approvalRating": 47,
+    "age": 39,
+    "birthplace": "Guayas, Ecuador",
+    "careerStart": "2009",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Guayas y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Guayas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Guayas.",
+    "status": "Pendiente",
+    "progress": 24,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Guayas.",
+    "status": "En progreso",
+    "progress": 47,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Patricia Vargas ha mostrado capacidad de diálogo en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "446",
+    "name": "Juan Sánchez",
+    "image": "/juan-sánchez.jpg",
+    "party": "Alianza PAIS",
+    "province": "sucumbíos",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 14,
+    "proposalsFulfilled": 16,
+    "approvalRating": 34,
+    "age": 62,
+    "birthplace": "Sucumbíos, Ecuador",
+    "careerStart": "2011",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Sucumbíos y pertenece al partido Alianza PAIS.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Sucumbíos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Sucumbíos.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Sucumbíos.",
+    "status": "En progreso",
+    "progress": 55,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Juan Sánchez ha mostrado transparencia en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Transparencia",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "447",
+    "name": "Gabriela Hernández",
+    "image": "/gabriela-hernández.jpg",
+    "party": "Movimiento Construye",
+    "province": "el oro",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 17,
+    "proposalsFulfilled": 19,
+    "approvalRating": 48,
+    "age": 38,
+    "birthplace": "El Oro, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de El Oro y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - El Oro",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en El Oro.",
+    "status": "Pendiente",
+    "progress": 17,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en El Oro.",
+    "status": "En progreso",
+    "progress": 58,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Gabriela Hernández ha mostrado compromiso social en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Compromiso social",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "448",
+    "name": "Andrés Torres",
+    "image": "/andrés-torres.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "morona santiago",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 1,
+    "proposalsFulfilled": 22,
+    "approvalRating": 39,
+    "age": 35,
+    "birthplace": "Morona Santiago, Ecuador",
+    "careerStart": "2024",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Morona Santiago y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Morona Santiago",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Morona Santiago.",
+    "status": "Pendiente",
+    "progress": 24,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Morona Santiago.",
+    "status": "En progreso",
+    "progress": 63,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Andrés Torres ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con críticas por su gestión anterior.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Críticas por su gestión anterior",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "449",
+    "name": "Diego Pérez",
+    "image": "/diego-pérez.jpg",
+    "party": "CREO",
+    "province": "sucumbíos",
+    "currentPosition": "Alcalde",
+    "experience": 17,
+    "proposalsFulfilled": 35,
+    "approvalRating": 50,
+    "age": 46,
+    "birthplace": "Sucumbíos, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Sucumbíos y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Sucumbíos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Sucumbíos.",
+    "status": "Pendiente",
+    "progress": 21,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Sucumbíos.",
+    "status": "En progreso",
+    "progress": 65,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Diego Pérez ha mostrado capacidad de gestión en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "450",
+    "name": "Mónica Vásquez",
+    "image": "/mónica-vásquez.jpg",
+    "party": "Movimiento de Unidad Plurinacional Pachakutik",
+    "province": "pichincha",
+    "currentPosition": "Vicepresidente",
+    "experience": 2,
+    "proposalsFulfilled": 41,
+    "approvalRating": 80,
+    "age": 58,
+    "birthplace": "Pichincha, Ecuador",
+    "careerStart": "2023",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Pichincha y pertenece al partido Movimiento de Unidad Plurinacional Pachakutik.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Pichincha",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Pichincha.",
+    "status": "Pendiente",
+    "progress": 27,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Pichincha.",
+    "status": "En progreso",
+    "progress": 40,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Mónica Vásquez ha mostrado experiencia política en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Experiencia política",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "451",
+    "name": "José Flores",
+    "image": "/josé-flores.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "morona santiago",
+    "currentPosition": "Concejal",
+    "experience": 8,
+    "proposalsFulfilled": 37,
+    "approvalRating": 42,
+    "age": 33,
+    "birthplace": "Morona Santiago, Ecuador",
+    "careerStart": "2017",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Morona Santiago y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Morona Santiago",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Morona Santiago.",
+    "status": "Pendiente",
+    "progress": 10,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Morona Santiago.",
+    "status": "En progreso",
+    "progress": 70,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "José Flores ha mostrado capacidad de gestión en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "452",
+    "name": "Pedro Gómez",
+    "image": "/pedro-gómez.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "santa elena",
+    "currentPosition": "Concejal",
+    "experience": 13,
+    "proposalsFulfilled": 11,
+    "approvalRating": 49,
+    "age": 69,
+    "birthplace": "Santa Elena, Ecuador",
+    "careerStart": "2012",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santa Elena y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Santa Elena",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Santa Elena.",
+    "status": "Pendiente",
+    "progress": 24,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Santa Elena.",
+    "status": "En progreso",
+    "progress": 54,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Pedro Gómez ha mostrado capacidad de diálogo en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "453",
+    "name": "Mónica Gómez",
+    "image": "/mónica-gómez.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "azuay",
+    "currentPosition": "Prefecto",
+    "experience": 18,
+    "proposalsFulfilled": 31,
+    "approvalRating": 47,
+    "age": 31,
+    "birthplace": "Azuay, Ecuador",
+    "careerStart": "2007",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Azuay y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Azuay",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Azuay.",
+    "status": "Pendiente",
+    "progress": 16,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Azuay.",
+    "status": "En progreso",
+    "progress": 52,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Mónica Gómez ha mostrado capacidad de gestión en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Falta de propuestas concretas"
+    ]
+    }
+  },
+  {
+    "id": "454",
+    "name": "María Vargas",
+    "image": "/maría-vargas.jpg",
+    "party": "CREO",
+    "province": "guayas",
+    "currentPosition": "Prefecto",
+    "experience": 17,
+    "proposalsFulfilled": 28,
+    "approvalRating": 89,
+    "age": 40,
+    "birthplace": "Guayas, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Guayas y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Guayas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Guayas.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Guayas.",
+    "status": "En progreso",
+    "progress": 56,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "María Vargas ha mostrado experiencia política en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Experiencia política",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "455",
+    "name": "Eduardo Rodríguez",
+    "image": "/eduardo-rodríguez.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "chimborazo",
+    "currentPosition": "Ministro",
+    "experience": 7,
+    "proposalsFulfilled": 31,
+    "approvalRating": 40,
+    "age": 65,
+    "birthplace": "Chimborazo, Ecuador",
+    "careerStart": "2018",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Chimborazo y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Chimborazo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Chimborazo.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Chimborazo.",
+    "status": "En progreso",
+    "progress": 63,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Eduardo Rodríguez ha mostrado experiencia política en su gestión política. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Experiencia política",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "456",
+    "name": "Francisco Rivera",
+    "image": "/francisco-rivera.jpg",
+    "party": "Alianza PAIS",
+    "province": "morona santiago",
+    "currentPosition": "Vicepresidente",
+    "experience": 7,
+    "proposalsFulfilled": 16,
+    "approvalRating": 32,
+    "age": 52,
+    "birthplace": "Morona Santiago, Ecuador",
+    "careerStart": "2018",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Morona Santiago y pertenece al partido Alianza PAIS.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Morona Santiago",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Morona Santiago.",
+    "status": "Pendiente",
+    "progress": 13,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Morona Santiago.",
+    "status": "En progreso",
+    "progress": 60,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Francisco Rivera ha mostrado compromiso social en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Compromiso social",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "457",
+    "name": "Eduardo López",
+    "image": "/eduardo-lópez.jpg",
+    "party": "Movimiento Construye",
+    "province": "esmeraldas",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 8,
+    "proposalsFulfilled": 25,
+    "approvalRating": 89,
+    "age": 37,
+    "birthplace": "Esmeraldas, Ecuador",
+    "careerStart": "2017",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Esmeraldas y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Esmeraldas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Esmeraldas.",
+    "status": "Pendiente",
+    "progress": 14,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Esmeraldas.",
+    "status": "En progreso",
+    "progress": 49,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Eduardo López ha mostrado compromiso social en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Compromiso social",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Comunicación deficiente"
+    ]
+    }
+  },
+  {
+    "id": "458",
+    "name": "Daniela Ramírez",
+    "image": "/daniela-ramírez.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "cotopaxi",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 1,
+    "proposalsFulfilled": 15,
+    "approvalRating": 51,
+    "age": 54,
+    "birthplace": "Cotopaxi, Ecuador",
+    "careerStart": "2024",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Cotopaxi y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Cotopaxi",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Cotopaxi.",
+    "status": "Pendiente",
+    "progress": 24,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Cotopaxi.",
+    "status": "En progreso",
+    "progress": 59,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Daniela Ramírez ha mostrado formación académica en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Formación académica",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Falta de experiencia"
+    ]
+    }
+  },
+  {
+    "id": "459",
+    "name": "María Ramírez",
+    "image": "/maría-ramírez.jpg",
+    "party": "Movimiento Centro Democrático",
+    "province": "bolivar",
+    "currentPosition": "Vicepresidente",
+    "experience": 16,
+    "proposalsFulfilled": 28,
+    "approvalRating": 62,
+    "age": 34,
+    "birthplace": "Bolivar, Ecuador",
+    "careerStart": "2009",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Bolivar y pertenece al partido Movimiento Centro Democrático.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Bolivar",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Bolivar.",
+    "status": "Pendiente",
+    "progress": 28,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Bolivar.",
+    "status": "En progreso",
+    "progress": 62,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "María Ramírez ha mostrado capacidad de diálogo en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "460",
+    "name": "Verónica Reyes",
+    "image": "/verónica-reyes.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "bolivar",
+    "currentPosition": "Vicepresidente",
+    "experience": 4,
+    "proposalsFulfilled": 23,
+    "approvalRating": 32,
+    "age": 39,
+    "birthplace": "Bolivar, Ecuador",
+    "careerStart": "2021",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Bolivar y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Bolivar",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Bolivar.",
+    "status": "Pendiente",
+    "progress": 26,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Bolivar.",
+    "status": "En progreso",
+    "progress": 54,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Verónica Reyes ha mostrado capacidad de gestión en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Capacidad de gestión",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "461",
+    "name": "María Pérez",
+    "image": "/maría-pérez.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "napo",
+    "currentPosition": "Alcalde",
+    "experience": 12,
+    "proposalsFulfilled": 41,
+    "approvalRating": 53,
+    "age": 45,
+    "birthplace": "Napo, Ecuador",
+    "careerStart": "2013",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Napo y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Napo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Napo.",
+    "status": "Pendiente",
+    "progress": 27,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Napo.",
+    "status": "En progreso",
+    "progress": 40,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "María Pérez ha mostrado conocimiento técnico en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "462",
+    "name": "Juan Vargas",
+    "image": "/juan-vargas.jpg",
+    "party": "Partido Izquierda Democrática",
+    "province": "guayas",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 13,
+    "proposalsFulfilled": 40,
+    "approvalRating": 31,
+    "age": 70,
+    "birthplace": "Guayas, Ecuador",
+    "careerStart": "2012",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Guayas y pertenece al partido Partido Izquierda Democrática.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Guayas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Guayas.",
+    "status": "Pendiente",
+    "progress": 30,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Guayas.",
+    "status": "En progreso",
+    "progress": 51,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Juan Vargas ha mostrado capacidad de diálogo en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "463",
+    "name": "Ana López",
+    "image": "/ana-lópez.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "napo",
+    "currentPosition": "Vicepresidente",
+    "experience": 7,
+    "proposalsFulfilled": 20,
+    "approvalRating": 79,
+    "age": 55,
+    "birthplace": "Napo, Ecuador",
+    "careerStart": "2018",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Napo y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Vicepresidente",
+    "organization": "Gobierno de Ecuador - Napo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Napo.",
+    "status": "Pendiente",
+    "progress": 28,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Napo.",
+    "status": "En progreso",
+    "progress": 65,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Ana López ha mostrado formación académica en su gestión política. Su enfoque en transparencia ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Formación académica",
+    "Transparencia"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "464",
+    "name": "José Ramírez",
+    "image": "/josé-ramírez.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "los ríos",
+    "currentPosition": "Prefecto",
+    "experience": 5,
+    "proposalsFulfilled": 41,
+    "approvalRating": 62,
+    "age": 50,
+    "birthplace": "Los Ríos, Ecuador",
+    "careerStart": "2020",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Los Ríos y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Los Ríos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Los Ríos.",
+    "status": "Pendiente",
+    "progress": 23,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Los Ríos.",
+    "status": "En progreso",
+    "progress": 69,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "José Ramírez ha mostrado cercanía con la comunidad en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Cercanía con la comunidad",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "465",
+    "name": "Gabriela Torres",
+    "image": "/gabriela-torres.jpg",
+    "party": "SUMA",
+    "province": "loja",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 18,
+    "proposalsFulfilled": 26,
+    "approvalRating": 60,
+    "age": 46,
+    "birthplace": "Loja, Ecuador",
+    "careerStart": "2007",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Loja y pertenece al partido SUMA.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Loja",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Loja.",
+    "status": "Pendiente",
+    "progress": 12,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Loja.",
+    "status": "En progreso",
+    "progress": 56,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Gabriela Torres ha mostrado transparencia en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Transparencia",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Falta de experiencia"
+    ]
+    }
+  },
+  {
+    "id": "466",
+    "name": "Verónica Ramos",
+    "image": "/verónica-ramos.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "los ríos",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 3,
+    "proposalsFulfilled": 46,
+    "approvalRating": 37,
+    "age": 31,
+    "birthplace": "Los Ríos, Ecuador",
+    "careerStart": "2022",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Los Ríos y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Los Ríos",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Los Ríos.",
+    "status": "Pendiente",
+    "progress": 19,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Los Ríos.",
+    "status": "En progreso",
+    "progress": 64,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Verónica Ramos ha mostrado visión estratégica en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Visión estratégica",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "467",
+    "name": "José Hernández",
+    "image": "/josé-hernández.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "azuay",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 17,
+    "proposalsFulfilled": 12,
+    "approvalRating": 44,
+    "age": 69,
+    "birthplace": "Azuay, Ecuador",
+    "careerStart": "2008",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Azuay y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Azuay",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Azuay.",
+    "status": "Pendiente",
+    "progress": 12,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Azuay.",
+    "status": "En progreso",
+    "progress": 41,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "José Hernández ha mostrado conocimiento técnico en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con poca visibilidad.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Poca visibilidad",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "468",
+    "name": "Gabriela Torres",
+    "image": "/gabriela-torres.jpg",
+    "party": "Movimiento Construye",
+    "province": "pichincha",
+    "currentPosition": "Alcalde",
+    "experience": 9,
+    "proposalsFulfilled": 23,
+    "approvalRating": 32,
+    "age": 43,
+    "birthplace": "Pichincha, Ecuador",
+    "careerStart": "2016",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Pichincha y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Pichincha",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Pichincha.",
+    "status": "Pendiente",
+    "progress": 10,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Pichincha.",
+    "status": "En progreso",
+    "progress": 55,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Gabriela Torres ha mostrado transparencia en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Transparencia",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "469",
+    "name": "Luisa González",
+    "image": "/luisa-gonzález.jpg",
+    "party": "Movimiento Centro Democrático",
+    "province": "guayas",
+    "currentPosition": "Prefecto",
+    "experience": 15,
+    "proposalsFulfilled": 12,
+    "approvalRating": 79,
+    "age": 59,
+    "birthplace": "Guayas, Ecuador",
+    "careerStart": "2010",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Guayas y pertenece al partido Movimiento Centro Democrático.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Guayas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Guayas.",
+    "status": "Pendiente",
+    "progress": 14,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Guayas.",
+    "status": "En progreso",
+    "progress": 56,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 3
+    }
+    ],
+    "detailed": "Luisa González ha mostrado compromiso social en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con falta de experiencia.",
+    "strengths": [
+    "Compromiso social",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Falta de experiencia",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "470",
+    "name": "Pedro Morales",
+    "image": "/pedro-morales.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "esmeraldas",
+    "currentPosition": "Alcalde",
+    "experience": 11,
+    "proposalsFulfilled": 43,
+    "approvalRating": 66,
+    "age": 60,
+    "birthplace": "Esmeraldas, Ecuador",
+    "careerStart": "2014",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Esmeraldas y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Esmeraldas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Esmeraldas.",
+    "status": "Pendiente",
+    "progress": 23,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Esmeraldas.",
+    "status": "En progreso",
+    "progress": 66,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Pedro Morales ha mostrado capacidad de diálogo en su gestión política. Su enfoque en liderazgo ha sido notable, aunque enfrenta desafíos relacionados con conflictos internos en su partido.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Liderazgo"
+    ],
+    "weaknesses": [
+    "Conflictos internos en su partido",
+    "Falta de experiencia"
+    ]
+    }
+  },
+  {
+    "id": "471",
+    "name": "María Díaz",
+    "image": "/maría-díaz.jpg",
+    "party": "Movimiento Centro Democrático",
+    "province": "imbabura",
+    "currentPosition": "Prefecto",
+    "experience": 19,
+    "proposalsFulfilled": 13,
+    "approvalRating": 61,
+    "age": 33,
+    "birthplace": "Imbabura, Ecuador",
+    "careerStart": "2006",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Imbabura y pertenece al partido Movimiento Centro Democrático.",
+    "career": [
+    {
+    "title": "Prefecto",
+    "organization": "Gobierno de Ecuador - Imbabura",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en Imbabura.",
+    "status": "Pendiente",
+    "progress": 29,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de gestión",
+    "description": "Iniciativa para mejorar capacidad de gestión en Imbabura.",
+    "status": "En progreso",
+    "progress": 44,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "María Díaz ha mostrado visión estratégica en su gestión política. Su enfoque en capacidad de gestión ha sido notable, aunque enfrenta desafíos relacionados con poca presencia en medios.",
+    "strengths": [
+    "Visión estratégica",
+    "Capacidad de gestión"
+    ],
+    "weaknesses": [
+    "Poca presencia en medios",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "472",
+    "name": "Mónica Pérez",
+    "image": "/mónica-pérez.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "guayas",
+    "currentPosition": "Asambleísta Nacional",
+    "experience": 11,
+    "proposalsFulfilled": 36,
+    "approvalRating": 83,
+    "age": 51,
+    "birthplace": "Guayas, Ecuador",
+    "careerStart": "2014",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Guayas y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Asambleísta Nacional",
+    "organization": "Gobierno de Ecuador - Guayas",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Guayas.",
+    "status": "Pendiente",
+    "progress": 16,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Guayas.",
+    "status": "En progreso",
+    "progress": 58,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Mónica Pérez ha mostrado capacidad de diálogo en su gestión política. Su enfoque en experiencia política ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Capacidad de diálogo",
+    "Experiencia política"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "473",
+    "name": "Pabel Muñoz",
+    "image": "/pabel-muñoz.jpg",
+    "party": "Movimiento Político Revolución Ciudadana",
+    "province": "pichincha",
+    "currentPosition": "Activista Político",
+    "experience": 7,
+    "proposalsFulfilled": 12,
+    "approvalRating": 36,
+    "age": 58,
+    "birthplace": "Pichincha, Ecuador",
+    "careerStart": "2018",
+    "biography": "Activista político y defensor de derechos sociales en Ecuador. Representa a la provincia de Pichincha y pertenece al partido Movimiento Político Revolución Ciudadana.",
+    "career": [
+    {
+    "title": "Activista Político",
+    "organization": "Organización Civil - Pichincha",
+    "period": "2023 - Presente",
+    "description": "Defensa de derechos y activismo social."
+    },
+    {
+    "title": "Coordinador de Proyectos",
+    "organization": "ONG",
+    "period": "2018 - 2023",
+    "description": "Coordinación de iniciativas sociales y comunitarias."
+    },
+    {
+    "title": "Líder Comunitario",
+    "organization": "Fundación Social",
+    "period": "2015 - 2018",
+    "description": "Trabajo con comunidades locales y desarrollo de proyectos sociales."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Pichincha.",
+    "status": "Pendiente",
+    "progress": 24,
+    "category": "Derechos Humanos"
+    },
+    {
+    "title": "Plan de Compromiso social",
+    "description": "Iniciativa para mejorar compromiso social en Pichincha.",
+    "status": "En progreso",
+    "progress": 45,
+    "category": "Justicia Social"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Pabel Muñoz ha mostrado experiencia política en su activismo social. Su enfoque en compromiso social ha sido notable, aunque enfrenta desafíos relacionados con falta de apoyo popular.",
+    "strengths": [
+    "Experiencia política",
+    "Compromiso social"
+    ],
+    "weaknesses": [
+    "Falta de apoyo popular",
+    "Asociación con figuras polémicas"
+    ]
+    }
+  },
+  {
+    "id": "474",
+    "name": "Juan Ramírez",
+    "image": "/juan-ramírez.jpg",
+    "party": "Movimiento Centro Democrático",
+    "province": "el oro",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 20,
+    "proposalsFulfilled": 43,
+    "approvalRating": 72,
+    "age": 47,
+    "birthplace": "El Oro, Ecuador",
+    "careerStart": "2005",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de El Oro y pertenece al partido Movimiento Centro Democrático.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - El Oro",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en El Oro.",
+    "status": "Pendiente",
+    "progress": 21,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Visión estratégica",
+    "description": "Iniciativa para mejorar visión estratégica en El Oro.",
+    "status": "En progreso",
+    "progress": 52,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Juan Ramírez ha mostrado experiencia política en su gestión política. Su enfoque en visión estratégica ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Experiencia política",
+    "Visión estratégica"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "475",
+    "name": "Mónica Hernández",
+    "image": "/mónica-hernández.jpg",
+    "party": "CREO",
+    "province": "pastaza",
+    "currentPosition": "Alcalde",
+    "experience": 18,
+    "proposalsFulfilled": 24,
+    "approvalRating": 73,
+    "age": 65,
+    "birthplace": "Pastaza, Ecuador",
+    "careerStart": "2007",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Pastaza y pertenece al partido CREO.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Pastaza",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Pastaza.",
+    "status": "Pendiente",
+    "progress": 30,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Pastaza.",
+    "status": "En progreso",
+    "progress": 58,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Mónica Hernández ha mostrado experiencia política en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con posiciones controversiales.",
+    "strengths": [
+    "Experiencia política",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Posiciones controversiales",
+    "Poca presencia en medios"
+    ]
+    }
+  },
+  {
+    "id": "476",
+    "name": "Pedro Flores",
+    "image": "/pedro-flores.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "napo",
+    "currentPosition": "Asambleísta Provincial",
+    "experience": 12,
+    "proposalsFulfilled": 33,
+    "approvalRating": 49,
+    "age": 61,
+    "birthplace": "Napo, Ecuador",
+    "careerStart": "2013",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Napo y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Asambleísta Provincial",
+    "organization": "Gobierno de Ecuador - Napo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Napo.",
+    "status": "Pendiente",
+    "progress": 26,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Formación académica",
+    "description": "Iniciativa para mejorar formación académica en Napo.",
+    "status": "En progreso",
+    "progress": 60,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 4
+    },
+    {
+    "name": "Transparencia",
+    "rating": 5
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 4
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Pedro Flores ha mostrado conocimiento técnico en su gestión política. Su enfoque en formación académica ha sido notable, aunque enfrenta desafíos relacionados con falta de propuestas concretas.",
+    "strengths": [
+    "Conocimiento técnico",
+    "Formación académica"
+    ],
+    "weaknesses": [
+    "Falta de propuestas concretas",
+    "Posiciones controversiales"
+    ]
+    }
+  },
+  {
+    "id": "477",
+    "name": "Gabriela Gómez",
+    "image": "/gabriela-gómez.jpg",
+    "party": "Movimiento Centro Democrático",
+    "province": "manabí",
+    "currentPosition": "Alcalde",
+    "experience": 15,
+    "proposalsFulfilled": 45,
+    "approvalRating": 58,
+    "age": 69,
+    "birthplace": "Manabí, Ecuador",
+    "careerStart": "2010",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Manabí y pertenece al partido Movimiento Centro Democrático.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Manabí",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Liderazgo",
+    "description": "Iniciativa para mejorar liderazgo en Manabí.",
+    "status": "Pendiente",
+    "progress": 14,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Manabí.",
+    "status": "En progreso",
+    "progress": 67,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Gabriela Gómez ha mostrado liderazgo en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con comunicación deficiente.",
+    "strengths": [
+    "Liderazgo",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Comunicación deficiente",
+    "Conflictos internos en su partido"
+    ]
+    }
+  },
+  {
+    "id": "478",
+    "name": "Carlos Díaz",
+    "image": "/carlos-díaz.jpg",
+    "party": "Acción Democrática Nacional, ADN",
+    "province": "santa elena",
+    "currentPosition": "Alcalde",
+    "experience": 20,
+    "proposalsFulfilled": 47,
+    "approvalRating": 60,
+    "age": 33,
+    "birthplace": "Santa Elena, Ecuador",
+    "careerStart": "2005",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santa Elena y pertenece al partido Acción Democrática Nacional, ADN.",
+    "career": [
+    {
+    "title": "Alcalde",
+    "organization": "Gobierno de Ecuador - Santa Elena",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Experiencia política",
+    "description": "Iniciativa para mejorar experiencia política en Santa Elena.",
+    "status": "Pendiente",
+    "progress": 10,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Cercanía con la comunidad",
+    "description": "Iniciativa para mejorar cercanía con la comunidad en Santa Elena.",
+    "status": "En progreso",
+    "progress": 52,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 4
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 5
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Carlos Díaz ha mostrado experiencia política en su gestión política. Su enfoque en cercanía con la comunidad ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Experiencia política",
+    "Cercanía con la comunidad"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Poca visibilidad"
+    ]
+    }
+  },
+  {
+    "id": "479",
+    "name": "Mónica Díaz",
+    "image": "/mónica-díaz.jpg",
+    "party": "Movimiento Construye",
+    "province": "santo domingo",
+    "currentPosition": "Ministro",
+    "experience": 3,
+    "proposalsFulfilled": 47,
+    "approvalRating": 66,
+    "age": 70,
+    "birthplace": "Santo Domingo, Ecuador",
+    "careerStart": "2022",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Santo Domingo y pertenece al partido Movimiento Construye.",
+    "career": [
+    {
+    "title": "Ministro",
+    "organization": "Gobierno de Ecuador - Santo Domingo",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Santo Domingo.",
+    "status": "Pendiente",
+    "progress": 11,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Capacidad de diálogo",
+    "description": "Iniciativa para mejorar capacidad de diálogo en Santo Domingo.",
+    "status": "En progreso",
+    "progress": 68,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 5
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 4
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 3
+    },
+    {
+    "name": "Comunicación",
+    "rating": 4
+    }
+    ],
+    "detailed": "Mónica Díaz ha mostrado transparencia en su gestión política. Su enfoque en capacidad de diálogo ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Transparencia",
+    "Capacidad de diálogo"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Falta de apoyo popular"
+    ]
+    }
+  },
+  {
+    "id": "480",
+    "name": "Ricardo Ramírez",
+    "image": "/ricardo-ramírez.jpg",
+    "party": "Partido Social Cristiano",
+    "province": "loja",
+    "currentPosition": "Concejal",
+    "experience": 6,
+    "proposalsFulfilled": 22,
+    "approvalRating": 71,
+    "age": 66,
+    "birthplace": "Loja, Ecuador",
+    "careerStart": "2019",
+    "biography": "Político ecuatoriano con trayectoria en el servicio público. Representa a la provincia de Loja y pertenece al partido Partido Social Cristiano.",
+    "career": [
+    {
+    "title": "Concejal",
+    "organization": "Gobierno de Ecuador - Loja",
+    "period": "2023 - Presente",
+    "description": "Responsable de políticas públicas y gestión."
+    },
+    {
+    "title": "Funcionario Público",
+    "organization": "Ministerio de Gobierno",
+    "period": "2018 - 2023",
+    "description": "Coordinación de proyectos y políticas públicas a nivel nacional."
+    },
+    {
+    "title": "Asesor Político",
+    "organization": "Asamblea Nacional",
+    "period": "2015 - 2018",
+    "description": "Asesoramiento en temas legislativos y políticas públicas."
+    }
+    ],
+    "proposals": [
+    {
+    "title": "Plan de Transparencia",
+    "description": "Iniciativa para mejorar transparencia en Loja.",
+    "status": "Pendiente",
+    "progress": 26,
+    "category": "Economía"
+    },
+    {
+    "title": "Plan de Conocimiento técnico",
+    "description": "Iniciativa para mejorar conocimiento técnico en Loja.",
+    "status": "En progreso",
+    "progress": 48,
+    "category": "Seguridad"
+    }
+    ],
+    "analysis": {
+    "categories": [
+    {
+    "name": "Gestión Económica",
+    "rating": 3
+    },
+    {
+    "name": "Transparencia",
+    "rating": 3
+    },
+    {
+    "name": "Liderazgo",
+    "rating": 3
+    },
+    {
+    "name": "Cumplimiento",
+    "rating": 2
+    },
+    {
+    "name": "Comunicación",
+    "rating": 5
+    }
+    ],
+    "detailed": "Ricardo Ramírez ha mostrado transparencia en su gestión política. Su enfoque en conocimiento técnico ha sido notable, aunque enfrenta desafíos relacionados con asociación con figuras polémicas.",
+    "strengths": [
+    "Transparencia",
+    "Conocimiento técnico"
+    ],
+    "weaknesses": [
+    "Asociación con figuras polémicas",
+    "Comunicación deficiente"
+    ]
+    }
+  },
   {
     "id": "481",
     "name": "Patricia Hernández",
