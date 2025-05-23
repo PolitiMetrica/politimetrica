@@ -410,6 +410,7 @@ export default function MetodologiaPage() {
                   garantizar la precisión de los datos. Entre los principales medios consultados están:
                 </p>
                 <ul className="list-disc pl-5 grid grid-cols-1 md:grid-cols-3 gap-2 text-sm text-muted-foreground">
+                  <li>Wikipedia</li>
                   <li>El Comercio</li>
                   <li>El Universo</li>
                   <li>Teleamazonas</li>
