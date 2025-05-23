@@ -17,14 +17,14 @@ const politiciansData: Politician[] = [
       "birthplace": "Cuenca, provincia de Azuay, Ecuador",
       "careerStart": "1993",
       "biography": "Fernando Aguirre Cordero (Cuenca, 5 de noviembre de 1969) es un político ecuatoriano, conocido mayormente en la provincia de Azuay. Desempeñó cargos de elección popular y designación, fue gobernador de su provincia y legislador en dos ocasiones. Es militante y presidente provincial del Partido Social Cristiano.",
-      "career": [
+      "career": [{"title":
         "Gobernador de Azuay (2005)",
-        "Diputado Nacional del Ecuador por Azuay (2007)",
+        "organization": "Diputado Nacional del Ecuador por Azuay (2007)",
         "Asambleísta Nacional del Ecuador (2009-2013)",
         "Presidente del Consejo de Programación de Obras Emergentes del Austro",
         "Presidente de la Defensa Civil",
         "Catedrático de la Universidad Espíritu Santo"
-      ],
+                 }],
       "proposals": [
         "Fortalecimiento de la autonomía provincial",
         "Desarrollo de infraestructura vial en Azuay",
