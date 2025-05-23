@@ -98,7 +98,7 @@ const politiciansData: Politician[] = [
   {
     "id": "2",
     "name": "Luisa González Alcívar",
-    "image": "https://es.wikipedia.org/wiki/Luisa_Gonz%C3%A1lez#/media/Archivo:Luisa_Gonz%C3%A1lez_-_2022.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/CONTINUACI%C3%93N_DE_LA_SESI%C3%93N_DEL_PLENO_776_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_19_DE_JULIO_DE_2022_%2852227840728%29.jpg",
     "party": "Revolución Ciudadana",
     "province": "manabí",
     "currentPosition": "Asambleísta Nacional",
