@@ -126019,8 +126019,7 @@ const politiciansData: Politician[] = [
     ]
     }
   },
-[
-    {
+{
         "id": "1501",
         "name": "Luzmila Abad",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Luzmila_Abad_SESI%C3%93N_NO._895_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._ECUADOR%2C_01_DE_FEBRERO_DE_2024_%2853502549331%29.jpg",
