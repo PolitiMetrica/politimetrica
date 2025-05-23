@@ -1,6 +1,9 @@
 "use client"
 
-import { useEffect, useRef } from "react"
+import dynamic from "next/dynamic"
+
+// Importa dinámicamente el mapa de Leaflet (evita problemas de SSR)
+const LeafletMap = dynamic(() => import("./leaflet-map"), { ssr: false })
 
 interface MapComponentProps {
   onProvinceSelect: (provinceId: string) => void
@@ -13,11 +16,10 @@ export default function MapComponentWrapper({
   selectedProvince,
   highlightedProvinces = [],
 }: MapComponentProps) {
-  const mapRef = useRef<HTMLDivElement>(null)
-
-  useEffect(() => {
-    // Aquí iría la lógica del mapa (puedes dejarlo vacío por ahora)
-  }, [selectedProvince, highlightedProvinces])
-
-  return <div ref={mapRef} className="w-full h-full bg-gray-200">Mapa aquí</div>
+  return (
+    <LeafletMap
+      onProvinceSelect={onProvinceSelect}
+      selectedProvince={selectedProvince}
+    />
+  )
 }
