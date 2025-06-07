@@ -1,8 +1,6 @@
 "use client"
 
-import type React from "react"
-
-import { useState, useEffect } from "react"
+import React, { useState, useEffect } from "react"
 import Link from "next/link"
 import { useRouter, useSearchParams } from "next/navigation"
 import { Eye, EyeOff, LogIn, AlertCircle } from "lucide-react"
@@ -13,8 +11,9 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Alert, AlertDescription } from "@/components/ui/alert"
+
 import { useCurrentUser } from "@/lib/auth"
-import { loginWithEmail, signInWithGoogle } from "@/lib/auth-providers"
+import { loginWithEmail, signInWithGoogle, signInWithToken } from "@/lib/auth-providers"
 
 export default function LoginPage() {
   const router = useRouter()
@@ -29,14 +28,28 @@ export default function LoginPage() {
   const [googleLoading, setGoogleLoading] = useState(false)
   const [error, setError] = useState("")
 
-  // Si el usuario ya está autenticado, redirigir
   useEffect(() => {
     if (user) {
       router.push(redirectPath)
     }
   }, [user, router, redirectPath])
 
-  // Modificar la función handleSubmit para redirigir a la página de suscripción después de iniciar sesión
+  // Autenticación automática con token en URL
+  useEffect(() => {
+    const token = searchParams.get("token")
+    if (token) {
+      signInWithToken(token)
+        .then(userData => {
+          if (userData) {
+            router.push(redirectPath)
+          }
+        })
+        .catch(err => {
+          console.error("Error autenticando con token:", err)
+        })
+    }
+  }, [searchParams, router, redirectPath])
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setLoading(true)
@@ -44,9 +57,7 @@ export default function LoginPage() {
 
     try {
       const userData = await loginWithEmail(email, password)
-      // Usar setTimeout para asegurar que localStorage se actualice antes de redirigir
       setTimeout(() => {
-        // Si el usuario no tiene suscripción premium, redirigir a la página de suscripción
         if (userData.subscription === "free" && redirectPath === "/") {
           router.push("/suscripcion")
         } else {
@@ -54,7 +65,6 @@ export default function LoginPage() {
         }
       }, 500)
     } catch (err: any) {
-      // Manejar errores específicos de Firebase
       if (err.code) {
         switch (err.code) {
           case "auth/user-not-found":
@@ -80,54 +90,44 @@ export default function LoginPage() {
     }
   }
 
-  // Modificar la función handleGoogleSignIn para redirigir a la página de suscripción después de iniciar sesión
   const handleGoogleSignIn = async () => {
     setGoogleLoading(true)
     setError("")
 
     try {
-      console.log("Intentando iniciar sesión con Google...")
       const userData = await signInWithGoogle()
-      console.log("Inicio de sesión con Google exitoso, redirigiendo...")
-
-      // Si el usuario no tiene suscripción premium, redirigir a la página de suscripción
       if (userData.subscription === "free" && redirectPath === "/") {
         router.push("/suscripcion")
       } else {
         router.push(redirectPath)
       }
     } catch (err: any) {
-      console.error("Error al iniciar sesión con Google:", err)
-
-      // Manejar errores específicos de Google Auth
       if (err.code) {
         switch (err.code) {
           case "auth/unauthorized-domain":
             setError(
-              "Este dominio no está autorizado en Firebase. Si estás en un entorno de desarrollo o vista previa, debes agregar este dominio en la consola de Firebase (Authentication > Settings > Authorized domains).",
+              "Este dominio no está autorizado en Firebase. Debes agregarlo en la consola de Firebase.",
             )
             break
           case "auth/configuration-not-found":
             setError(
-              "Error de configuración: La autenticación con Google no está correctamente configurada. Por favor intenta con email y contraseña o contacta al administrador.",
+              "Error de configuración: La autenticación con Google no está correctamente configurada.",
             )
             break
           case "auth/popup-closed-by-user":
             setError("Inicio de sesión cancelado. La ventana de Google fue cerrada.")
             break
           case "auth/popup-blocked":
-            setError(
-              "El navegador bloqueó la ventana emergente. Por favor permite ventanas emergentes para este sitio.",
-            )
+            setError("El navegador bloqueó la ventana emergente. Por favor permite ventanas emergentes.")
             break
           case "auth/cancelled-popup-request":
             setError("Múltiples solicitudes de ventanas emergentes. Por favor intenta de nuevo.")
             break
           default:
-            setError(`Error al iniciar sesión con Google (${err.code}). Por favor intenta con email y contraseña.`)
+            setError(`Error al iniciar sesión con Google (${err.code}).`)
         }
       } else {
-        setError(err.message || "Error al iniciar sesión con Google. Por favor intenta con email y contraseña.")
+        setError("Error al iniciar sesión con Google. Por favor intenta con email y contraseña.")
       }
     } finally {
       setGoogleLoading(false)
