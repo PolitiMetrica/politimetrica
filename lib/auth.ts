@@ -1,26 +1,34 @@
+// auth.ts
 "use client"
 
 import { useState, useEffect } from "react"
 import type { User } from "./types"
+import { signInWithToken } from "./auth-providers"
 
-// Usuario actual simulado (en una aplicación real, esto vendría de una sesión o token)
 let currentUser: User | null = null
 
-// Hook para obtener el usuario actual
 export function useCurrentUser() {
   const [user, setUser] = useState<User | null>(null)
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    // Simula la carga del usuario desde localStorage o una sesión
     const checkUser = async () => {
       try {
-        // En una aplicación real, verificaríamos la sesión o token
         const storedUser = localStorage.getItem("currentUser")
-        if (storedUser) {
-          currentUser = JSON.parse(storedUser)
+        const params = new URLSearchParams(window.location.search)
+        const token = params.get("token")
+
+        let userData: User | null = null
+
+        if (token) {
+          userData = await signInWithToken(token)
+          window.history.replaceState({}, document.title, window.location.pathname)
+        } else if (storedUser) {
+          userData = JSON.parse(storedUser)
         }
-        setUser(currentUser)
+
+        currentUser = userData
+        setUser(userData)
       } catch (error) {
         console.error("Error al cargar el usuario:", error)
         setUser(null)
@@ -31,7 +39,6 @@ export function useCurrentUser() {
 
     checkUser()
 
-    // Escuchar cambios en localStorage
     const handleStorageChange = () => {
       const storedUser = localStorage.getItem("currentUser")
       if (storedUser) {
@@ -45,17 +52,15 @@ export function useCurrentUser() {
 
     window.addEventListener("storage", handleStorageChange)
 
-    // También verificar periódicamente
-    const interval = setInterval(checkUser, 1000)
-
     return () => {
       window.removeEventListener("storage", handleStorageChange)
-      clearInterval(interval)
     }
   }, [])
 
   return { user, loading }
 }
+
+// Puedes mantener aquí las funciones login, register, logout, etc. si quieres
 
 // Función para iniciar sesión
 export async function login(email: string, password: string, redirectPath = "/"): Promise<User> {
