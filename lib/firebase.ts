@@ -1,8 +1,7 @@
-// Importamos las funciones que necesitamos de los SDK
+// firebase.ts
 import { initializeApp } from "firebase/app"
 import { getAuth } from "firebase/auth"
 
-// Configuración de Firebase con las credenciales proporcionadas
 const firebaseConfig = {
   apiKey: "AIzaSyCb75pW9WPWoRP5wghNO-eycauSWD4zky8",
   authDomain: "politimetrica-43874.firebaseapp.com",
@@ -13,11 +12,6 @@ const firebaseConfig = {
   measurementId: "G-CRJ17N3KM5",
 }
 
-// Inicializar Firebase
-console.log("Inicializando Firebase con la configuración actualizada")
-
 const app = initializeApp(firebaseConfig)
-
-// Exportar instancia de autenticación
 export const auth = getAuth(app)
 export default app
